@@ -23,7 +23,13 @@
 
 ## 17/08/2019
 ### Grammar
-- 
+* Comparison with as...as
+*  As much as , as many as
+* Not quite as .. as // Not nearly as .. as
 
 ### Vocabulary
- - 
+ * Fullblast
+* outward 
+*  gist 
+*  Hazard
+*  Mildew
