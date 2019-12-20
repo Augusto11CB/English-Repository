@@ -33,3 +33,11 @@
 *  gist 
 *  Hazard
 *  Mildew
+
+## 03/09/2019
+
+### Vocabulary
+ * strike a balance
+* Commute 
+*  By the time 
+
