@@ -41,3 +41,10 @@
 * Commute 
 *  By the time 
 
+## 19/10/2019
+### Vocabulary
+* rounded
+* plunge 
+* Menial 
+* shortlisted 
+* settle down
