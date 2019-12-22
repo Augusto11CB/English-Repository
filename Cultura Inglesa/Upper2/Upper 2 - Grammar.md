@@ -119,10 +119,54 @@ Indirect speech focuses more on the content of what someone said rather than the
 ### can ---> could  
 ### must ---> had to  
   
-the structure of the reported clause depends on whether the speaker is reporting a **statement, a question or a command.**  
-  
-  
-  
+the structure of the reported clause depends on whether the speaker is reporting a **statement, a question or a command.** 
+
+### Reporting Statement 
+  **Structure:** reporting clause + *that*-clause(*that* can be omitted)
+
+  **Ex. 1:**
+* [indirect form] The pilot commented that the weather had been extremaly bad. 
+* [direct form] The weather was extremaly bad.
+
+**Ex. 2:** 
+* [indirect form] I told my mother I didn't a birthday party.
+
+### Reporting Questions
+
+#### Yes/No Questions
+* **Structure**: reporting clause + reported clause introduced by **if** or **whether**. The **reported clause** is  in **statement form**.
+
+ **Ex. 1:** 
+* [indirect form] The waiter asked **if** we wanted a table near the window
+* [direct form] 'Do you want a table near the window', the waiter asked me. 
+
+ **Ex. 2:**
+ * [indirect form] My mother asked **if** I wanted a ride to the subway station. 
+ 
+ **Ex. 3**
+ * [indirect form] She asked if I had come by train
+
+#### Wh Questions
+**Structure**: reporting clause + reported clause beginning with a _wh_-word
+**PS:** Don't use question mark (?)
+ 
+ **Ex. 1:**
+ * [indirect] he asked me **what** I wanted
+ 
+ **Ex. 2:** 
+ * She wanted to know **who**  we  had  invited  to the party.
+
+**Ex. 3:**
+* He asked how they wanted to do the activity [How do you want to do the activity]
+
+  **_Who_,  _whom_  and  _what_**
+Indirect questions which use **who, whom** and **what**, wh-words may be the **subject** or **object** of the reported clause.
+
+**Examples**
+* He wondered what the repairs would cost [What will the repairs cost?] 
+* I asked them who was going to fetch us at the airport [Who is going to fetch us at the airport?]
+* My mother asked what we were doing [What you are doing?]
+
 ## Participle Clauses  
 Participle clauses give information about condition, result, reason or time  
 There are two time tenses that can make participle clause.  
