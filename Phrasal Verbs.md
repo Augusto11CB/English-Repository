@@ -57,8 +57,13 @@ Phrasal verbs can be divided into sections:
 *  see through - to realize someone's behavior is intended to deceive you, and to understand the truth about the situation.
 	* I **saw through** his excuse at once
 *  call on - relating to the work of someone who is available at any time when needed
-	* My new job is 20 hour per week, with no **on-call** wor  do without
+	* My new job is 20 hour per week, with no **on-call** 
+* do without - to manage without having something
+	* He's an integral part of the team and we can't do without him.
+	* Thank you, Kate, we can do without language like that (= we don't want to hear your offensive language).
 *  jump at - to accept something eagerly
 	* they **jumped at** the chance of a trip to Paris
 * fall for - suddenly have strong romantic feelings about someone
 	* she always **fall for** older men
+*  do without - 
+	* 
