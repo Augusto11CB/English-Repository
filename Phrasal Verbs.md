@@ -65,4 +65,5 @@ Phrasal verbs can be divided into sections:
 	* they **jumped at** the chance of a trip to Paris
 * fall for - suddenly have strong romantic feelings about someone
 	* she always **fall for** older men
-
+*  do without - 
+	* 
