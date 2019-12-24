@@ -40,4 +40,25 @@ Phrasal verbs can be divided into sections:
 	*  We'll be at home all day so **come over** whenever you like
 * come up with - think of a plan/solution
 	*  the client wants us to advertise a new design of car, so we need to **come up with** an interesting campaign.
-Take after
+
+---
+
+* Take after  - to be similar to an older member of your family in appearance or character
+	* he **takes after** his mother personality, doesn't he?
+* come across - give other people a certain feeling/opinion || to behave in a way that makes people believe that you have a particular characteristic
+	* He **comes across** as a bit of a bore {chato}
+* come into - receive something as a result of the death of a relation 
+	* she came into a bit of money when her granmother died
+*  count on -  to expect something ||   to depend on someone or something,
+	* You can **count on** me
+	* With luck, you might cover your costs, but don't **count on** it
+*  look into - to examine the facts about a problem or situation
+	* We're **looking into** the possibility of merging the two departments.
+*  see through - to realize someone's behavior is intended to deceive you, and to understand the truth about the situation.
+	* I **saw through** his excuse at once
+*  call on - relating to the work of someone who is available at any time when needed
+	* My new job is 20 hour per week, with no **on-call** wor  do without
+*  jump at - to accept something eagerly
+	* they **jumped at** the chance of a trip to Paris
+* fall for - suddenly have strong romantic feelings about someone
+	* she always **fall for** older men
