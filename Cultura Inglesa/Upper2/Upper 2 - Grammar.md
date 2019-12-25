@@ -46,8 +46,9 @@ So distracted are they by their technical interests they **barely** notice, much
 Ex.: Although the ticket were cheap, scarily anyone went to the concert  
   
 **Rather**{bastante}  
-Ex.: Her English is rather good, isn't it?  
-  
+Ex.:
+* Her English is rather good, isn't it?  
+* She sometimes comes across as being **rather** arrogant. 
 ### Modifying nouns  
 To modify nouns use *a bit of* or adjectives like "real", "complete", slightly, hardly any, almost no.  
 Ex.: There was hardly any action there.  
@@ -166,6 +167,8 @@ Indirect questions which use **who, whom** and **what**, wh-words may be the **s
 * He wondered what the repairs would cost [What will the repairs cost?] 
 * I asked them who was going to fetch us at the airport [Who is going to fetch us at the airport?]
 * My mother asked what we were doing [What you are doing?]
+
+
 
 ## Participle Clauses  
 Participle clauses give information about condition, result, reason or time  
