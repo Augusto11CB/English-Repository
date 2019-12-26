@@ -47,6 +47,9 @@ Phrasal verbs can be divided into sections:
 	* he **takes after** his mother personality, doesn't he?
 * come across - give other people a certain feeling/opinion || to behave in a way that makes people believe that you have a particular characteristic
 	* He **comes across** as a bit of a bore {chato}
+	* I don't think I came across very well
+	* She sometimes comes across as being rather arrogant.
+	* They come across as very smart people
 * come into - receive something as a result of the death of a relation 
 	* she came into a bit of money when her granmother died
 *  count on -  to expect something ||   to depend on someone or something,
@@ -54,12 +57,15 @@ Phrasal verbs can be divided into sections:
 	* With luck, you might cover your costs, but don't **count on** it
 *  look into - to examine the facts about a problem or situation
 	* We're **looking into** the possibility of merging the two departments.
+	* I was looking into some facts before talk to you
 *  see through - to realize someone's behavior is intended to deceive you, and to understand the truth about the situation.
 	* I **saw through** his excuse at once
-*  call on - relating to the work of someone who is available at any time when needed
-	* My new job is 20 hour per week, with no **on-call** 
+*  call on - ask someone to do something
+	* The human rights group has **called on** the US to end the death penalty.
 * do without - to manage without having something
 	* He's an integral part of the team and we can't do without him.
+	* I could do without all these interruptions.	
+* can/could do without something - used for saying that something is annoying you and causing problems for you
 	* Thank you, Kate, we can do without language like that (= we don't want to hear your offensive language).
 *  jump at - to accept something eagerly
 	* they **jumped at** the chance of a trip to Paris
