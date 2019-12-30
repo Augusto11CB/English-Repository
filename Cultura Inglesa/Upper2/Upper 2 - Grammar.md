@@ -358,3 +358,38 @@ At (7:30 A.M) < On ( Saturday) < In (January)
 Ex.: During the course, it started to rain  
   
 • While + depended clause
+
+
+## As...As
+
+### Comparison with as...as
+Use as + adverb/adjevtive + as to male comparasions then the thing that are being compared are equal in some way.
+
+**Ex.:**
+The world's biggest bull is **as big as** a small elephant
+You have to unwrap it **as carefully as** you can. 
+
+### Comparison with Not as ... as
+We use **not as .... as** to make comparisons between things which aren't equal
+
+**Ex.:**
+It's not as heavy as I thought it would be.
+They didn't play as well as they usually do.
+She is not singing as loudly as she can
+
+#### Not quite as .. as // Not nearly as .. as
+The second meeting was **not quite as nice as** the first one
+I'm **not quite as** good **as** you when it comes about jokes
+These new shoes are **not nearly as** comfortable **as** my old ones
+I'm **not nearly as** good **as** you when it comes about programming
+
+### As ... as + possibility
+Often used expressions of possibility or ability **after** as...as:
+
+Can you come **as soon as** *possible*?
+Go to as many places as you can!
+
+### As much as , as many as
+When we want to make comparisons referring to quantity, we use _as much as_ with uncountable nouns and _as many as_ with plural nouns:
+
+Greg makes **as much money as** mick but **not as much as** neil.
