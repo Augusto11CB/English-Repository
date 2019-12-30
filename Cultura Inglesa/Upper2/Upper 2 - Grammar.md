@@ -92,12 +92,12 @@ Have/Get + object + past participle
   
 Use that structure when the person who does the action is unknown or unimportant  
   
-**TODO write some examples**
+# TODO - write some examples
   
 ## Idioms  
 It is a group of words that means something different of to the mean of the individual words  
   
-**TODO - From the book**  
+# TODO - From the book
   
 ## Reported Speech  
 Indirect speech focuses more on the content of what someone said rather than their exact words. Verb tenses changes when report speech are used.  
@@ -171,22 +171,79 @@ Indirect questions which use **who, whom** and **what**, wh-words may be the **s
 
 
 ## Participle Clauses  
-Participle clauses give information about condition, result, reason or time  
+A participle clause is a dependent clause which **uses** a **participle form of a verb**. These clauses are used to avoid making sentences overly complicated by assigning the same subject of the main clause to the participle clause.
+
+Participle clauses give information/express about:
+** *condition*, *result*,*reason* and *time*  **
+
 There are two time tenses that can make participle clause.  
-  
 • Present participle (verb in ing form)  
   
 • Past participle (passive meaning)  
   
-TODO  
+### Present participle (-ing)
+Generally, present participle is used in the participle clause to express active meanings.
+
+* **Actions Happening at the same time**
+> I lost my wallet using my phone 
+>(I lost my wallet while I was using my phone)
+>
+>  She lost the car keys walking through the super-market
+>  (She lost the car keys while she was walking through the park)
+>  
+>  Edmilson left the room singing happily
+>  (Edmilson left the room as he was singing happily)
+>
+>**When** speaking on a mobile phone, try not have it too close to your ear 
+>**_Whistling_**  cheerfully, she left the compartment
+
+* **Actions Happening Consecutively**
+> Opening the envelop, I found two concert tickets
+>(I opned the envelop and I found two concert tickets)
+
+* **An Action that is the result of another action**
+> A bomb exploded, killing three people.
+> The postman delivered the letters, bringing the news of our brother.
+> When I entered the room, they all looked at me, making me uncomfortable.
+
+* **A reason for the action in the main clause**
+> Believing it was the right thing to do, I agreed to **postpone** our college work.
+>  
+>  Having nothing left to do, Julie went home. 
+> (Since Julie had nothing left to do, she went home.)
+>  
+>  Knowing a little French, I had no difficulty making myself understood.
+>(As I knew a little French, I had no difficulty making myself understood.)
+
+* **Something that started in a specific time and still on going**
+> He is never been the same **since** ***coming*** back from the war
+> Her spanish has got better **since** ***moving*** to Spain
+
+*  Using Participle clauses present participle with **After/Before** *
+> After visiting Parin, I wanted to learn French.
+> Before quitting your job, why not talk to your boss?
+
+* Using Participle clauses present participle with **When, while, since**
+> When speaking on a mobile, try not drive.
+> Jeff got two pictures while riding his bike.
   
-** Used to express *condition*, *result*,*reason* and *time*  **
-  
+* On, without, instead of, in spite of
+> On hearing the bad news, he started to to cry
+> Instead of going home, he went to a party last night
+> He want to live in London in spite of speaking little English
+
+### Present participle (-ing)
+# TODO
+
 Ex:  
-• Properly applied, thia cream works wonders  
+• Properly applied, this cream works wonders  
   
 ### having + past participle  
-If we wish to emphasise that one action was before another then we can use a perfect participle (having + past participle):  
+If we wish to emphasise that one **action was before another** then we can use a perfect participle (having + past participle):  
+
+> Having brushed my teeth, I realised I hadn’t used my toothbrush.
+> PS:
+	> brush {escovar} - brushed [past participle] {escovado}
   
     
 ## Sequences  - Adding Information
@@ -240,7 +297,7 @@ We got wet because of the rain
 We for wet because it was raining  
   
 ## Questions Tag  
-TODO  
+# TODO  
   
 ## To x For - Prepositions  
   
@@ -266,7 +323,7 @@ They are intended to indicate **true, general/usually true or a thing likely to 
 • Expressing possibility: If I give it a little bit more time It might get better.  
 • Talk about plans; What are you going to do if you don't get a promotion?  
   
-## TODO to continue writing about present condition  
+# TODO to continue writing about present condition  
   
   
 ### Conditions with Past  
@@ -290,7 +347,7 @@ Ex.: If didn't have a degree, i wouldn't be a teacher
   
 ### Mix conditions  
 
-**TODO**
+# TODO
 
   
 ## Prepositions  
