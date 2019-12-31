@@ -171,17 +171,33 @@ Indirect questions which use **who, whom** and **what**, wh-words may be the **s
 
 
 ## Participle Clauses  
-A participle clause is a dependent clause which **uses** a **participle form of a verb**. These clauses are used to avoid making sentences overly complicated by assigning the same subject of the main clause to the participle clause.
+A participle clause is a dependent clause which **uses** a **participle form of a verb**. These clauses are used to avoid overly complicating sentences by assigning the same subject matter as the main clause to the participle clause.
 
-Participle clauses give information/express about:
-** *condition*, *result*,*reason* and *time*  **
+Participle clauses give information/express:
+* **condition** (with a similar meaning to an if-condition)
+> Looked after carefully, this coat will keep you warm through many winters.
+> if you look after it carefully, this coat will keep you warm through many winters.
+> 
+> Studying hard, I am sure you will pass.
+> If you study hard, I am sure you will pass.
+
+*  **result** (with a similar meaning to so or therefore)
+> A car ran over a crowd. Injuring several people.
+> A car ran over a crowd so several people were injuried
+
+*  **reason** (with a similar meaning to because or since)
+> I had not enoght time to sleep, having spent so long doing my work
+
+*  **time** (with a similar meaning to words like when, while or as soon as)
+> Sitting at the cafe with my friends, I suddenly realised that I had left the oven on at home.
+>( _While I was sitting at the cafe with my friends, I suddenly realised that I had left the oven on at home._)
 
 There are two time tenses that can make participle clause.  
-• Present participle (verb in ing form)  
+• **Present participle (verb in ing form)**  
   
-• Past participle (passive meaning)  
+• **Past participle (passive meaning)**  
   
-### Present participle (-ing)
+### Tips for Present participle (-ing)
 Generally, present participle is used in the participle clause to express active meanings.
 
 * **Actions Happening at the same time**
@@ -220,20 +236,55 @@ Generally, present participle is used in the participle clause to express active
 > Her spanish has got better **since** ***moving*** to Spain
 
 *  Using Participle clauses present participle with **After/Before** *
-> After visiting Parin, I wanted to learn French.
+> After visiting Paris, I wanted to learn French.
 > Before quitting your job, why not talk to your boss?
 
 * Using Participle clauses present participle with **When, while, since**
 > When speaking on a mobile, try not drive.
 > Jeff got two pictures while riding his bike.
   
-* On, without, instead of, in spite of
+* Using Participle clauses present participle with  **On, without, instead of, in spite of**
 > On hearing the bad news, he started to to cry
 > Instead of going home, he went to a party last night
 > He want to live in London in spite of speaking little English
 
-### Present participle (-ing)
-# TODO
+### Tips for Past participle (-ing)
+* To replace passive voice finite clauses
+> **Schoked** by the explosion, the people ran away
+> (_The people were shocked by the explosion and ran for shelter_)
+>  
+>  The musicians stood up, **surrounded** by thunderous applause.
+>  ((_The musicians stood up while they were surrounded by thunderous applause._))
+
+* To Replace a passive voice with relative clause
+>  This is the last photograph **taken** of my grandmother.
+>(_This is the last photograph that was taken of my grandmother._)
+
+
+### Functions of Participle Construction
+
+#### 	adjectival use
+> I saw an exicit**ing** film [Present Participle]
+> The destroy**ed** village was my hometown [Past Participle]
+
+#### instead of relative clauses
+**Ex. 1: **
+* Construction using **relative clause**
+> The actor who plays in the movie is not a native American
+* Construction using Participle Clause
+> The actor play**ing** in the movie is not a native American
+
+**Ex. 2: **
+* Construction using **relative clause**
+> There is an exciting TV show which is being produced on Brazilian territory
+* Construction using Participle Clause
+> There is an exciting TV show being produced on Brazilian territory
+
+#### Shortening Adverbial Clauses
+* Construction using **relative clause**
+>As they didn't know anything about their culture, most settlers didn't like the indians
+* Construction using Participle Clause
+> Not knowing anything about their culture, most settlers didn't like the indians
 
 Ex:  
 • Properly applied, this cream works wonders  
