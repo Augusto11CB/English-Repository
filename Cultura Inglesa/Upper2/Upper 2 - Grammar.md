@@ -268,13 +268,13 @@ Generally, present participle is used in the participle clause to express active
 > The destroy**ed** village was my hometown [Past Participle]
 
 #### instead of relative clauses
-**Ex. 1: **
+**Ex. 1:**
 * Construction using **relative clause**
 > The actor who plays in the movie is not a native American
 * Construction using Participle Clause
 > The actor play**ing** in the movie is not a native American
 
-**Ex. 2: **
+**Ex. 2:**
 * Construction using **relative clause**
 > There is an exciting TV show which is being produced on Brazilian territory
 * Construction using Participle Clause
@@ -409,6 +409,7 @@ At (7:30 A.M) < On ( Saturday) < In (January)
 Ex.: During the course, it started to rain  
   
 • While + depended clause
+
 
 
 ## As...As
