@@ -97,7 +97,26 @@ Use that structure when the person who does the action is unknown or unimportant
 ## Idioms  
 It is a group of words that means something different of to the mean of the individual words  
   
-# TODO - From the book
+* Out of pocket (Lacking money; also, having suffered a financial loss)
+> We can't go; I'm out of pocket right now
+
+* Through rose-coloured glasses (with a generally optimistic and cheerful attitude.)
+> I know nostalgia can be misleading, but I really look at my childhood through rose-colored glasses.
+
+* In small doses (for short periods of time)
+> He can only stand opera in small doses.
+
+* The ball is in his court (One has the responsibility for further action, especially after someone else previously held responsibility.)
+> Well, they invited you, so the ball is in your court now. Do you want to go out with them or not?
+
+* Make ends meet (to have just enough money to pay for the things that you need)
+> To make ends meet, Phil picked up a second job delivering pizzas.
+
+* Cost an arm and a leg (slang To cost lot of money.)
+> College tuitions cost an arm and leg nowadays.
+
+* taking the mickey out of (e.g. me) (To tease, mock, or ridicule (someone or something))
+> They were all taking the mickey out of me because of my haircut.
   
 ## Reported Speech  
 Indirect speech focuses more on the content of what someone said rather than their exact words. Verb tenses changes when report speech are used.  
@@ -268,13 +287,13 @@ Generally, present participle is used in the participle clause to express active
 > The destroy**ed** village was my hometown [Past Participle]
 
 #### instead of relative clauses
-**Ex. 1:**
+**Ex. 1: **
 * Construction using **relative clause**
 > The actor who plays in the movie is not a native American
 * Construction using Participle Clause
 > The actor play**ing** in the movie is not a native American
 
-**Ex. 2:**
+**Ex. 2: **
 * Construction using **relative clause**
 > There is an exciting TV show which is being produced on Brazilian territory
 * Construction using Participle Clause
@@ -409,7 +428,6 @@ At (7:30 A.M) < On ( Saturday) < In (January)
 Ex.: During the course, it started to rain  
   
 • While + depended clause
-
 
 
 ## As...As
