@@ -1,20 +1,23 @@
 # Grammar
 
+## Summary
+* [Modifiers](#modifiers)
+* [Relative Pronouns](#relative-pronouns)  
+* [Developing Conversations - Negative Questions](#developing-conversations---negative-questions)
+* [Passive - Have/Get something done](#passive---haveget-something-done)
 
-## Modifiers  
-  
+## Modifiers    
 ### Absolutely, Really and Very  
 Extreme Adjectives: awful, soaked, boiling, great, enormous.  
   
-Don't use *Very* with extreme modifiers. Prefer to use absolutely or really.  
+Don't use *Very* with extreme modifiers. Prefer to use absolutely or really. 
   
 *Absolutely*: Don't use this modifier with normal adjectives such as cold, hot, nice. Instead of that, use very or really.  
-  
-  
+
 ### Too  
 This modifier shows you DON'T like something or it is a problem.  
   
-#### a bit/little too  
+#### a bit/too  
 Use these words to indicate small problems.  
 Ex.: That party was a little too boring for my liking.  
 #### much/miles too  
@@ -87,12 +90,32 @@ In order to demonstrate opinions or show interest in something negative question
   
 ## Passive - Have/Get something done  
   
-### Structure  
+### Structure  - What someone does for us
 Have/Get + object + past participle  
   
 Use that structure when the person who does the action is unknown or unimportant  
   
-# TODO - write some examples
+* **Examples**
+> I had my hair cut yestarday
+> He is having his car fixed
+> I will have my house painted tomorrow my an equipe of painters
+> They were having their homework been done by a veteran
+> The students get their essays checked
+> He got his washing machine fixed.
+
+### Structure - Asking or instructing
+Have + object + infinitive (without **to**).
+
+* **Examples**
+> I will have Augusto book you a taxi (I will ask Augusto to book a taxi for you)
+> He had Kay make us some tea (He asked kay to male tea for us)
+  
+### Structure - Talking about an experience
+Have + object + -ing or infinitive (without **to**)
+
+* **Examples**
+> We had a man singing to us as we sat in the restaurant having our meal.
+>  I had a maid cleaning the beach house that I've rented
   
 ## Idioms  
 It is a group of words that means something different of to the mean of the individual words  
@@ -463,3 +486,4 @@ Go to as many places as you can!
 When we want to make comparisons referring to quantity, we use _as much as_ with uncountable nouns and _as many as_ with plural nouns:
 
 Greg makes **as much money as** mick but **not as much as** neil.
+
