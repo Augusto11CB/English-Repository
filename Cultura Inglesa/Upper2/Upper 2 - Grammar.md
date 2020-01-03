@@ -210,8 +210,6 @@ Indirect questions which use **who, whom** and **what**, wh-words may be the **s
 * I asked them who was going to fetch us at the airport [Who is going to fetch us at the airport?]
 * My mother asked what we were doing [What you are doing?]
 
-
-
 ## Participle Clauses  
 A participle clause is a dependent clause which **uses** a **participle form of a verb**. These clauses are used to avoid overly complicating sentences by assigning the same subject matter as the main clause to the participle clause.
 
@@ -302,9 +300,7 @@ Generally, present participle is used in the participle clause to express active
 >  This is the last photograph **taken** of my grandmother.
 >(_This is the last photograph that was taken of my grandmother._)
 
-
 ### Functions of Participle Construction
-
 #### 	adjectival use
 > I saw an exicit**ing** film [Present Participle]
 > The destroy**ed** village was my hometown [Past Participle]
@@ -337,8 +333,7 @@ If we wish to emphasise that one **action was before another** then we can use a
 > Having brushed my teeth, I realised I hadn’t used my toothbrush.
 > PS:
 	> brush {escovar} - brushed [past participle] {escovado}
-  
-    
+      
 ## Sequences  - Adding Information
 To list a sequence of ideas or things use:  
 - Besides  
@@ -353,7 +348,6 @@ Ex: I'm too busy to go out tonight. Besides, I'm not a good dancer.
 Ex: To start with, I haven't got any money to spend on trips.  
   
 ## Expressing results/reasons  
-  
 ### Reasons and Result expressions  
 - so  
 - so + adjective + that  
@@ -407,7 +401,6 @@ It usually tells us about the use of something, a reason or purpose.
 We need more time to finish the homework  
   
 ## Conditions  
-  
 ### Present in Conditions  
 The variations of present verbal tense are used in the if part of the conditional statements.  
   
@@ -420,7 +413,6 @@ They are intended to indicate **true, general/usually true or a thing likely to 
   
   
 ### Conditions with Past  
-  
 #### Third condition  
 • Imaginary situations in the past + Imagined past results:  
 ** If clauses structure > If + Past Perfect/ Continuous  
@@ -454,7 +446,6 @@ Ex.: During the course, it started to rain
 
 
 ## As...As
-
 ### Comparison with as...as
 Use as + adverb/adjevtive + as to male comparasions then the thing that are being compared are equal in some way.
 
