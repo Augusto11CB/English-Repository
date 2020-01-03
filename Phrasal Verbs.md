@@ -31,6 +31,21 @@ Phrasal verbs can be divided into sections:
 
 ---
 
+draw sth up - create a document
+>  I have drawn up a list of candidates that i'd like to interview
+
+draw out - take money out of an account {sacar}
+> The bank allows us to draw out R$1000 a week
+
+draw out - to cause something to last longer than is usual or necessary {prolongar}
+> the director drew the meeting out for another hour.
+
+fill in  - complete a form
+> Companies will encourage customers to fill in questionnaires about themselves.
+
+
+---
+
 * come about - to happen, or start to happen:
 	* How did the problem **come about** in the first place
 * come out - appear / to achieve something at the end of a process or activity
@@ -50,6 +65,8 @@ Phrasal verbs can be divided into sections:
 	* I don't think I came across very well
 	* She sometimes comes across as being rather arrogant.
 	* They come across as very smart people
+* come across -  find by accident
+	* I came across my old college roommate in town today.
 * come into - receive something as a result of the death of a relation 
 	* she came into a bit of money when her granmother died
 *  count on -  to expect something ||   to depend on someone or something,
@@ -72,3 +89,8 @@ Phrasal verbs can be divided into sections:
 * fall for - suddenly have strong romantic feelings about someone
 	* she always **fall for** older men
 
+--- 
+come along with - 
+
+
+---
