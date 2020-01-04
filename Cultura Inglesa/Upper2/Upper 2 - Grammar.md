@@ -383,8 +383,39 @@ We got wet because of the rain
 - Because + subject + ver  
 We for wet because it was raining  
   
-## Questions Tag  
-# TODO  
+##  Tags
+Tags are either questions, statemets or imperatives added to a clause to invite a response from the listener.
+> You are a musician, **aren't you**
+
+#### Structure
+Tags consist of one of the auxiliaryverbs **be, do, have or modal** + subject.
+> He is working as a tour guide, isn't he? 
+	>> isn't -> auxiliar verb
+	>> he -> subject   
+	
+1. affirmative main clause + negative tag
+2. negative main clause +  affirmative tag
+> (+) She us a translator, isn't she?
+> (-) They are late, aren't they?.
+  
+### Question Tags - Types
+There is two types of question tag and they are consisted of:
+1.  question tags when we expect the answer to the question to confirm that what we say in the main clause is true;
+ > _Sam’s not very old_, _is he__?_
+2.  question tags when we do not know if the answer is _yes_ or _no_.
+> _She  got  the email,  did she?_
+
+### Imperative tags
+A tag after an imperative clause **softens** the imperative a little. The tag verb is most commonly _will_ but we can also use _would, could, can_ and _won’t_:
+> Turn the tv down, will you?
+> Don't shout, would you? I can hear you perfectly well
+> Come here a minute, can you?
+
+### Statement tags
+We can use a statement tag to emphasise or reinforce an affirmative statement. The tag is also affirmative
+PS: Statement tags are informal.
+> I'am bored with this, I am
+> He was a great teacher, Mr Waterson OR He was a great teacher, he was.
   
 ## To x For - Prepositions  
   
