@@ -90,7 +90,14 @@ fill in  - complete a form
 	* she always **fall for** older men
 
 --- 
+carry on with - continue
+> Carry on with your work
+
+catch up with - go faster to reach the same position as sb
+do away with - end sth or get rid of itt
 come along with - 
+face up to - accept sth difficult
+drop in on
 
 
 ---
