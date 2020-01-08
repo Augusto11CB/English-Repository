@@ -18,12 +18,16 @@
 * Stem {deter, originar-se}
 > The police chief proposed a solution to stem smuggling in the city
 > The money he won steams from the lottery.
-* seed 
+* seed - the cause of a feeling or situation, or the early stages of it:
+> From these early seeds of their friendship, they grew into lifelong companions.
 * get rid of
 > I want to get rid of some my clothes that don't fit me any more
-* Amidst
+* Amidst - in the middle of; surrounded by; among
+> Her office was an oasis of peace and sanity amid the surrounding chaos.
 * Expression [ gone up/down slightly/sharply in -periodo-
 > I think the number of public transport users has gone down slightly during the scholar vacation period. 
 * Expression 
-* bail sb out 
+* bail sb out - to stop doing something or being involved in something
+> Investors bailedThe TV show triggered a number of protests, and some of the sponsors bailed out.
+> Some local businesses have offered to bail out the museum.
 * Taxpayer
