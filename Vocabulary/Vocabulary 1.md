@@ -24,10 +24,28 @@
 > I want to get rid of some my clothes that don't fit me any more
 * Amidst - in the middle of; surrounded by; among
 > Her office was an oasis of peace and sanity amid the surrounding chaos.
+* get rid of
+> I want to get rid of some my clothes that don't fit me any more
+* Amidst
 * Expression [ gone up/down slightly/sharply in -periodo-
 > I think the number of public transport users has gone down slightly during the scholar vacation period. 
-* Expression 
-* bail sb out - to stop doing something or being involved in something
-> Investors bailedThe TV show triggered a number of protests, and some of the sponsors bailed out.
+* Expression  bail outdoing something or being involved in something
+> Investors bailedThe TV show triggered a number of protests, and some of the sponsors[mostly because of/a result of]
+> A: Wow, today is really hot. Isn't it?
+> B: yeah, it is. I think it is because of a heat have.
+* Expression [Had led to/ resulted in]
+> 
+* bailed sb out.
 > Some local businesses have offered to bail out the museum.
+* Taxpayer 
 * Taxpayer
+* Got hold of -
+> I got a call from the bank saying I had gone $10000 overdrawn. Someone must have got hold of somehow.
+* Vanished - 
+>
+* break into - 
+> The house had been broken into when we got back
+* Seized ~ confiscate
+> The police seized a cache of illegal drugs
+* Went off
+> Milk goes off quickly if it is not keeped in cold temperatures
