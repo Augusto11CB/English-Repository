@@ -509,3 +509,14 @@ When we want to make comparisons referring to quantity, we use _as much as_ with
 
 Greg makes **as much money as** mick but **not as much as** neil.
 
+## Showing degree of Certainty with Modal verbs
+### Uncertain
+Using could and might to give opinion and speculation, we show something can be possible, but are not sure
+> It could be worse. We could beout there in thw rain
+> police believe that hight speed might have played a part in the crash
+
+### Certain
+Key words: must and can't
+> It must be at least six o'clock
+> It must have been awful
+> She can't seem the signal
