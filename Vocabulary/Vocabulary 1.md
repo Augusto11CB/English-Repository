@@ -1,6 +1,6 @@
 
 
-# Vocaculary
+# Vocaculary 1
 
 * cheerfully [in a happy and positive way]
 > Mrs Smith worked cheerfully beside the others.
@@ -48,7 +48,7 @@
 * apart - separated by a distance or by time
 > How far apart should the speakers be?
 * up to - used to say that something is less than or equal to but not more than a stated value, number, or level
-> there may be a period of up to an hour between the tsunamis #GoodExpression #Important
+> there may be a period of up to an hour between the tsunamis
 * Expression
 > If I hadn't save money, I would not have been able to afford to go traveling
 * Think over  
