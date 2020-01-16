@@ -15,3 +15,5 @@
 * Ought - 
 * Ship -
 > One of the great strengths of the Java platform is the standard library that it ships.
+* Right-hand side
+> the righthand side of the assignment statement repeats the value of the type parameter. 
