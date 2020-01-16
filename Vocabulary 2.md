@@ -5,6 +5,13 @@
 > I remember my carefree student days.
 * underneath
 * reported to by
-> The actual runtime type of the object **referred to by** the variable o 
-
-> Written with [StackEdit](https://stackedit.io/).
+> The actual runtime type of the object **referred to by** the variable Aug.
+* Fine
+> The driver payed the fine for crossing the read line
+* Commit {Cometer}
+> The police arrested the man who committed that hideous crime
+* Usage - for
+> Do you think it is a good idea for prisoners to get involved in artistic programs? 
+* Ought - 
+* Ship -
+> One of the great strengths of the Java platform is the standard library that it ships.
