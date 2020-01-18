@@ -16,4 +16,6 @@
 * Ship -
 > One of the great strengths of the Java platform is the standard library that it ships.
 * Right-hand side
-> the righthand side of the assignment statement repeats the value of the type parameter. 
+> the  righthand  side  of  the  assignment  statement repeats  the  value  of  the  type  parameter. 
+* comes to be seen 
+> the distinction quickly comes to be seen as a normal part of working in the language. 
