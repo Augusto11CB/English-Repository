@@ -46,5 +46,31 @@ We generally use the past continuous to _talk about_ **actions and states in pro
 
 > I remember that night. You were wearing that red dress. (state)
 
-### Context or Reason for Events
+### Context or Reason for Events - Background
+We often use the past continuous to give a reason or context for an event:
 
+> A: I can’t believe you met Fran and Dave in Portugal.
+>
+> B: It was funny. They *were staying* in the hotel next to ours. (giving a reason/context for meeting them)
+
+> I didn’t make the meeting last week; I was travelling to Rome.
+
+### Ongoing and repeated events - Background
+We can use the past continuous to talk about **repeated background events in the past**. It can suggest that the situation was temporary or subject to change:
+
+> She was feeding her neighbours’ cat every morning while they were on holiday. Then one morning, it was gone.
+
+**Warning**
+We only use the past continuous for **repeated background events**. If they are **repeated main events**, we use the **past simple:**
+
+> I **phoned** you four times last night. Where were you?
+>
+>_Not: I was phoning you four times last night._
+
+
+### Past continues and Adverbs -> Indicate Past Habits
+Adverbs such as always, constantly, forever are used with the past continuous when we talk about repeated, unplanned or undesired events:
+
+> We were always spending so much time in traffic. That’s the main reason why we decided to move to the country and work from home.
+> My boss was constantly phoning me in my last job. I hated it.
+>  She was forever losing her keys.
