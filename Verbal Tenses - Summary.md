@@ -74,3 +74,41 @@ Adverbs such as always, constantly, forever are used with the past continuous wh
 > We were always spending so much time in traffic. That’s the main reason why we decided to move to the country and work from home.
 > My boss was constantly phoning me in my last job. I hated it.
 >  She was forever losing her keys.
+
+## Past Continuous + Past Simple
+
+* When we use these two tenses together, it shows us that the **past simple** action **happened** in the **middle** of the **past continuous** action, while it was in progress.
+> _While I was studying, I suddenly felt sleepy._
+
+* These tenses are used together to show an action interrupting another action;
+> I was going to my home, I saw a car crash.
+> We were watching television when the power went off.
+> I was listening to the radio when Helen phoned.
+
+## Present Perfect
+We use the present perfect simple to refer to events in the past but which connect to the present.
+
+### Experiences
+Use this verbal tense to talk about our experiences up to now (The time of the experiences is not important)
+> I've seen "The witcher" and "Ricky and Morty" on netflix. I want to see "The office" next.
+
+> A: They are going to TANKA for dinner tonight. 
+> B: I have been there a couple of times before
+
+### Present Perfect with Time expressions
+Time Expressions  [ever, never, before, in my life, so far, up until now]
+
+* [ever, not ever and never]
+> It was the worst performance we **have ever** seen.
+> Have you ever tried to write your name backwards
+> She is never said sorry for what she did
+
+
+## Past Simple x Present Perfect
+
+## Present Perfect Continuous
+
+## Present Perfect x Present Perfect Continuous
+
+
+
