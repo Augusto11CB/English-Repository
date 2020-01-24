@@ -88,6 +88,15 @@ Adverbs such as always, constantly, forever are used with the past continuous wh
 ## Present Perfect
 We use the present perfect simple to refer to events in the past but which connect to the present.
 
+### Summary
+* Finished
+* * Life experience [Keywords: ever, never]
+* * Unfinished time Word [keywords: this week, this month, this year, today]
+* * Present Result
+* * Recent events [keywords: just, already, recently, yet]
+* Unfinished
+* * How long [keywords: since, for]
+
 ### Experiences
 Use this verbal tense to talk about our experiences up to now (The time of the experiences is not important)
 > I've seen "The witcher" and "Ricky and Morty" on netflix. I want to see "The office" next.
@@ -132,7 +141,11 @@ Questions and negative statement
 ### Already
 Emphasize that something is done
 > I have already done all my exercises
-> 
+
+### Still 
+Use to emphasize something expected to happen but continues not happen.
+> She still hasn't said sorry to me
+
 ### How Long
  Ask about duration of a state or activity
  
@@ -148,4 +161,15 @@ Emphasize that something is done
 [https://dictionary.cambridge.org/pt/gramatica/gramatica-britanica/present-perfect-simple-or-present-perfect-continuous](https://dictionary.cambridge.org/pt/gramatica/gramatica-britanica/present-perfect-simple-or-present-perfect-continuous)
 
 
+## Past Perfect
 
+### To describe an active finished before another action - with past simple
+> Edson has gone out when his wife arrived In the office
+> when we arrived the film had already started
+
+### to describe Cause and effect - with past simple
+> I got truck in traffic because there had been an accident
+> My grade were really bad because I hadn't study enough
+
+### How long to a point in the past
+> When we graduated, he had been in London for 4 years
