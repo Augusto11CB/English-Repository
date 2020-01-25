@@ -119,7 +119,7 @@ Time Expressions  [ever, never, before, in my life, so far, up until now]
 * **Before** 
 > We have met before, have we?
 
-* **So far - from a point in the past until now**
+* **_So far_ - from a point in the past until now**
 > They have sold 110 cars so far
 
 ### Superlative + Present Perfect
