@@ -3,11 +3,11 @@
 ## Present Continuous
 We use am, are, is + the -ing form of the verb.
 
-* [Plans and arrangements](#plans-and-arrangements)
-* [Regular unplanned events](#regular-unplanned-events)
-* [Change](#change)
-* [Temporary states](#temporary-states)
-* [Events at the time of speaking](#events-at-the-time-of-speaking)
+* [Plans and arrangements](plans-and-arrangements)
+* [Regular unplanned events](regular-unplanned-events)
+* [Change](change)
+* [Temporary states](temporary-states)
+* [Events at the time of speaking](events-at-the-time-of-speaking)
 
 ### Events at the time of speaking
 We use the present continuous to talk about events which are in progress at the moment of speaking.
@@ -37,10 +37,10 @@ We use the present continuous to refer to the future when we talk about plans an
 > We’re moving to Cambridge in July.
 
 ## Past Continues
-* [Events happening at a particular time in the past](#events-happening-at-a-particular-time-in-the-past)
-* [Context or Reason for Events - Background](#context-or-reason-for-events---background)
-* [Ongoing and repeated events - Background](#ongoing-and-repeated-events---background)
-* [Past continues and Adverbs -> Indicate Past Habits](#past-continues-and-adverbs---indicate-past-habits)
+* [Events happening at a particular time in the past](events-happening-at-a-particular-time-in-the-past)
+* [Context or Reason for Events - Background](context-or-reason-for-events---background)
+* [Ongoing and repeated events - Background](ongoing-and-repeated-events---background)
+* [Past continues and Adverbs -> Indicate Past Habits](past-continues-and-adverbs--%3E-indicate-past-habits)
 
 ### Events happening at a particular time in the past
 We generally use the past continuous to _talk about_ **actions and states in progress (happening) around a particular time in the past.** It can emphasise that the action or state continued for a period of time in the past
@@ -94,12 +94,12 @@ We use the present perfect simple to refer to events in the past but which conne
 
 ### Summary
 * Finished
-	* Life experience [Keywords: ever, never]
+	* [Life experience \[Keywords: ever, never\]](#experiences)
 	* Unfinished time Word [keywords: this week, this month, this year, today]
-	* Present Result
-	* Recent events [keywords: just, already, recently, yet]
+	* [Present Result](#past-events-with-present-results)
+	* [Recent events \[keywords: just, already, recently, yet\]](#recent-completed-events)
 * Unfinished
-	* How long [keywords: since, for]
+	* [How long \[keywords: since, for\]](start-in-the-past-and-still-going-on---since-and-for)
 
 ### Experiences
 Use this verbal tense to talk about our experiences up to now (The time of the experiences is not important)
@@ -111,13 +111,15 @@ Use this verbal tense to talk about our experiences up to now (The time of the e
 ### Present Perfect with Time Expressions
 Time Expressions  [ever, never, before, in my life, so far, up until now]
 
-*** [ever, not ever and never]**
+* ** [ever, not ever and never]**
 > It was the worst performance we **have ever** seen.
 > Have you ever tried to write your name backwards
 > She is never said sorry for what she did
-*** Before** 
+
+* ** Before** 
 > We have met before, have we?
-*** So far - from a point in the past until now**
+
+* ** So far - from a point in the past until now**
 > They have sold 110 cars so far
 
 ### Superlative + Present Perfect
@@ -126,7 +128,7 @@ Time Expressions  [ever, never, before, in my life, so far, up until now]
  Talk about finished events or states in in the very recently past. 
 **Key words [Recently, Just]**
  > Our company has recently opened a new office in London. Have you heard anything?
- > Augusto have just come back from a exchange in Sweden
+ > Augusto have just return from an exchange in Sweden
  
 ### Past Events with Present Results
  > She has broken her arm practising mountain bike.
@@ -166,14 +168,19 @@ Use to emphasize something expected to happen but continues not happen.
 
 
 ## Past Perfect
+* [To describe an active finished before another action - with past simple](#to-describe-an-active-finished-before-another-action---with-past-simple)
+* [To describe Cause and effect - with past simple](#to-describe-cause-and-effect---with-past-simple)
+* [How long to a point in the past](#how-long-to-a-point-in-the-past)
 
 ### To describe an active finished before another action - with past simple
-> Edson has gone out when his wife arrived In the office
+> Edson had gone out when his order was delivered
 > when we arrived the film had already started
+> The plane had left by the time I got to the airport.
 
-### to describe Cause and effect - with past simple
+### To describe Cause and effect - with past simple
 > I got truck in traffic because there had been an accident
 > My grade were really bad because I hadn't study enough
+> He could not sleep last night because he had slept before
 
 ### How long to a point in the past
 > When we graduated, he had been in London for 4 years
