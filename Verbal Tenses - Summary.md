@@ -90,12 +90,12 @@ We use the present perfect simple to refer to events in the past but which conne
 
 ### Summary
 * Finished
-* * Life experience [Keywords: ever, never]
-* * Unfinished time Word [keywords: this week, this month, this year, today]
-* * Present Result
-* * Recent events [keywords: just, already, recently, yet]
+	* Life experience [Keywords: ever, never]
+	* Unfinished time Word [keywords: this week, this month, this year, today]
+	* Present Result
+	* Recent events [keywords: just, already, recently, yet]
 * Unfinished
-* * How long [keywords: since, for]
+	* How long [keywords: since, for]
 
 ### Experiences
 Use this verbal tense to talk about our experiences up to now (The time of the experiences is not important)
@@ -107,25 +107,25 @@ Use this verbal tense to talk about our experiences up to now (The time of the e
 ### Present Perfect with Time Expressions
 Time Expressions  [ever, never, before, in my life, so far, up until now]
 
-* [ever, not ever and never]
+*** [ever, not ever and never]**
 > It was the worst performance we **have ever** seen.
 > Have you ever tried to write your name backwards
 > She is never said sorry for what she did
-* Before 
+*** Before** 
 > We have met before, have we?
-* So far - from a point in the past until now
+*** So far - from a point in the past until now**
 > They have sold 110 cars so far
 
 ### Superlative + Present Perfect
  
 ### Recent Completed Events
  Talk about finished events or states in in the very recently past. 
-Key words [Recently, Just]
+**Key words [Recently, Just]**
  > Our company has recently opened a new office in London. Have you heard anything?
  > Augusto have just come back from a exchange in Sweden
  
 ### Past Events with Present Results
- > She has broken her arm practicing mountain bike.
+ > She has broken her arm practising mountain bike.
  
 ### Start in the Past and still going on - Since and For
  talk about a present situation that began at a specific point in the past and is still going on in the present.
