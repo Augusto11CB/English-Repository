@@ -3,11 +3,11 @@
 ## Present Continuous
 We use am, are, is + the -ing form of the verb.
 
-* Plans and arrangements
-* Regular unplanned events
-* Change
-* Temporary states
-* Events at the time of speaking
+* [Plans and arrangements](plans-and-arrangements)
+* [Regular unplanned events](regular-unplanned-events)
+* [Change](change)
+* [Temporary states](temporary-states)
+* [Events at the time of speaking](events-at-the-time-of-speaking)
 
 ### Events at the time of speaking
 We use the present continuous to talk about events which are in progress at the moment of speaking.
@@ -37,6 +37,10 @@ We use the present continuous to refer to the future when we talk about plans an
 > We’re moving to Cambridge in July.
 
 ## Past Continues
+* [Events happening at a particular time in the past](events-happening-at-a-particular-time-in-the-past)
+* [Context or Reason for Events - Background](context-or-reason-for-events---background)
+* [Ongoing and repeated events - Background](ongoing-and-repeated-events---background)
+* [Past continues and Adverbs -> Indicate Past Habits](past-continues-and-adverbs--%3E-indicate-past-habits)
 
 ### Events happening at a particular time in the past
 We generally use the past continuous to _talk about_ **actions and states in progress (happening) around a particular time in the past.** It can emphasise that the action or state continued for a period of time in the past
