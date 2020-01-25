@@ -99,7 +99,7 @@ We use the present perfect simple to refer to events in the past but which conne
 	* [Present Result](#past-events-with-present-results)
 	* [Recent events \[keywords: just, already, recently, yet\]](#recent-completed-events)
 * Unfinished
-	* [How long \[keywords: since, for\]](start-in-the-past-and-still-going-on---since-and-for)
+	* [How long \[keywords: since, for\]](#start-in-the-past-and-still-going-on---since-and-for)
 
 ### Experiences
 Use this verbal tense to talk about our experiences up to now (The time of the experiences is not important)
@@ -111,15 +111,15 @@ Use this verbal tense to talk about our experiences up to now (The time of the e
 ### Present Perfect with Time Expressions
 Time Expressions  [ever, never, before, in my life, so far, up until now]
 
-* ** [ever, not ever and never]**
+* **[ever, not ever and never]**
 > It was the worst performance we **have ever** seen.
 > Have you ever tried to write your name backwards
 > She is never said sorry for what she did
 
-* ** Before** 
+* **Before** 
 > We have met before, have we?
 
-* ** So far - from a point in the past until now**
+* **So far - from a point in the past until now**
 > They have sold 110 cars so far
 
 ### Superlative + Present Perfect
