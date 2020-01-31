@@ -35,8 +35,20 @@
 * harsher - severe
 * Peak ~ High
 > The prison population hit a peak of 600.000 in 2006.
-* 
-* F
-rankenfood
-
-
+* Fed up
+* Worth
+> It's not worth it
+* Over the top
+> It is so over the top
+* [Expression] I drove through Paris last year And that was terrifying
+* swerve
+> When i went to Germany I drove through a road where everybody were swerving in and out of the lanes
+* [Expression] Sound Horns
+* Swear 
+> When I drive several people tend to swear at me
+* Jeopardy 
+> it will put the sustainable development goals in jeopardy.
+* cautioned/impending
+> He cautioned of the impending crisis
+* [Expression spun out of control]
+> the UN is addressing this health crisis before it has spun out of control.
