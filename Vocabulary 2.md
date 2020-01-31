@@ -23,3 +23,32 @@
 > An excerpt of the speech appeared in the Sunday paper.
 * Riot 
 > There was no riot. Just a peaceful strike action.
+* Underneath
+> Underneath the hood the user’s browser sends a request to a DNS server to lookup how to contact Storyblocks, and then sends the request.
+
+* Soared - rise rapidly
+> the dollar soared against the yen
+* Resulted in ~ led to
+> The mobile phone use has increased sharply. It has led to a similar rive in the street crime
+* Steams From ~ is the result of
+> It is argued that the fall in violence crime steams from harsher prison sentences
+* harsher - severe
+* Peak ~ High
+> The prison population hit a peak of 600.000 in 2006.
+* Fed up
+* Worth
+> It's not worth it
+* Over the top
+> It is so over the top
+* [Expression] I drove through Paris last year And that was terrifying
+* swerve
+> When i went to Germany I drove through a road where everybody were swerving in and out of the lanes
+* [Expression] Sound Horns
+* Swear 
+> When I drive several people tend to swear at me
+* Jeopardy 
+> it will put the sustainable development goals in jeopardy.
+* cautioned/impending
+> He cautioned of the impending crisis
+* [Expression spun out of control]
+> the UN is addressing this health crisis before it has spun out of control.
