@@ -61,5 +61,5 @@
 * bruise - an injury that doesn't break the skin but results in some discoloration
 * bump - a lump on the body caused by a blow
 > I got a big bump in my head
-* I fainted. 
-* - 
+* faint - to suddenly become unconscious for a short time, usually falling down:
+> When I don't have break fast I use to faint
