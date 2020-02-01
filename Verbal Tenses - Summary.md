@@ -83,21 +83,12 @@ We use the present perfect simple to refer to events in the past but which conne
 
 ### Summary
 * Finished
-<<<<<<< HEAD
-* * Life experience [Keywords: ever, never]
-* * Unfinished time Word [keywords: this week, this month, this year, today]
-* * Present Result
-* * Recent events [keywords: just, already, recently, yet]
-* Unfinished
-* * How long [keywords: since, for]
-=======
 	* [Life experience \[Keywords: ever, never\]](#experiences)
 	* Unfinished time Word [keywords: this week, this month, this year, today]
 	* [Present Result](#past-events-with-present-results)
 	* [Recent events \[keywords: just, already, recently, yet\]](#recent-completed-events)
 * Unfinished
 	* [How long \[keywords: since, for\]](#start-in-the-past-and-still-going-on---since-and-for)
->>>>>>> 55e718acaefeae16e77fba201d26f7b94bd5df54
 
 ### Experiences
 Use this verbal tense to talk about our experiences up to now (The time of the experiences is not important)
@@ -120,18 +111,18 @@ Time Expressions  [ever, never, before, in my life, so far, up until now]
 * **_So far_ - from a point in the past until now**
 > They have sold 110 cars so far
 
-### Superlative + Present Perfect
+ ### Superlative + Present Perfect
  
-### Recent Completed Events
+ ### Recent Completed Events
  Talk about finished events or states in in the very recently past. 
 * **Key words [Recently, Just]**
  > Our company has recently opened a new office in London. Have you heard anything?
- > Augusto have just return from an exchange in Sweden
+ > Augusto have just returncome back from an exchange in Sweden
  
-### Past Events with Present Results
- > She has broken her arm practising mountain bike.
+ ### Past Events with Present Results
+ > She has broken her arm practiscing mountain bike.
  
-### Start in the Past and still going on - Since and For
+ ### Start in the Past and still going on - Since and For
  talk about a present situation that began at a specific point in the past and is still going on in the present.
  > The house on the corner has been empty FOR three years.
  > The house on the corner has been empty since 2003.
@@ -244,22 +235,26 @@ The present perfect simple is used when the action is finished, and the result c
 > when we arrived the film had already started
 > The plane had left by the time I got to the airport.
 
-<<<<<<< HEAD
-## Past Perfect
-
-### To describe an active finished before another action - with past simple
-> Edson has gone out when his wife arrived In the office
-> when we arrived the film had already started
-
-### to describe Cause and effect - with past simple
-> I got truck in traffic because there had been an accident
-> My grade were really bad because I hadn't study enough
-=======
 ### To describe Cause and effect - with past simple
 > I got truck in traffic because there had been an accident
 > My grade were really bad because I hadn't study enough
 > He could not sleep last night because he had slept before
->>>>>>> 55e718acaefeae16e77fba201d26f7b94bd5df54
 
 ### How long to a point in the past
 > When we graduated, he had been in London for 4 years
+ ### How Long
+ Ask about duration of a state or activity
+ 
+ > A: How long have you worked here ?
+ > B: Since 2018, so for about one year.
+ 
+## Past Simple x Present Perfect
+[https://dictionary.cambridge.org/pt/gramatica/gramatica-britanica/past-simple-or-present-perfect](https://dictionary.cambridge.org/pt/gramatica/gramatica-britanica/past-simple-or-present-perfect)
+
+## Present Perfect Continuous
+
+## Present Perfect x Present Perfect Continuous
+[https://dictionary.cambridge.org/pt/gramatica/gramatica-britanica/present-perfect-simple-or-present-perfect-continuous](https://dictionary.cambridge.org/pt/gramatica/gramatica-britanica/present-perfect-simple-or-present-perfect-continuous)
+
+
+
