@@ -52,3 +52,14 @@
 > He cautioned of the impending crisis
 * [Expression spun out of control]
 > the UN is addressing this health crisis before it has spun out of control.
+
+--- 
+* Itchy
+> Me skin cracked and got really itchy
+* Scratch
+> Where that insec8 tough are scratchin a lot.
+* bruise - an injury that doesn't break the skin but results in some discoloration
+* bump - a lump on the body caused by a blow
+> I got a big bump in my head
+* I fainted. 
+* - 
