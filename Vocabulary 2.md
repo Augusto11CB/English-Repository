@@ -3,7 +3,6 @@
 
 * Carefree - having no problems or not being worried about anything
 > I remember my carefree student days.
-* underneath
 * reported to by
 > The actual runtime type of the object **referred to by** the variable Aug.
 * Fine
@@ -16,7 +15,7 @@
 > He ought to be home by seven o’clock.
 > The curtains ought to be ready on Monday.
 > At his age, he ought to have known better.
-* Ship -
+* Ship 
 > One of the great strengths of the Java platform is the standard library that it ships.
 * Right-hand side
 > the  righthand  side  of  the  assignment  statement repeats  the  value  of  the  type  parameter. 
@@ -24,10 +23,12 @@
 > the distinction quickly comes to be seen as a normal part of working in the language. 
 * excerpt - a short piece taken from a book, poem | extracted 
 > An excerpt of the speech appeared in the Sunday paper.
-* Riot 
+* Riot - an occasion when a large number of people behave in a noisy, violent, and uncontrolled way in public, often as a protest
+> Police used tear gas to put the riot down
 > There was no riot. Just a peaceful strike action.
-* Underneath
+* Underneath /undernifi/ - under or below
 > Underneath the hood the user’s browser sends a request to a DNS server to lookup how to contact Storyblocks, and then sends the request.
+> The tunnel goes right underneath the city.
 
 --- 
 * Soared - rise rapidly
@@ -36,7 +37,10 @@
 > The mobile phone use has increased sharply. It has led to a similar rive in the street crime
 * Steams From ~ is the result of
 > It is argued that the fall in violence crime steams from harsher prison sentences
-* harsher - severe
+* harsher [~ severe] -  unpleasant, unkind, cruel, or more severe than is necessary
+> The children had had a ***harsh*** *upbringing*.
+* upbringing - the way that your parents care for you and teach you to behave when you are growing up 
+> Mike had had a strict upbringing.
 * Peak ~ High
 > The prison population hit a peak of 600.000 in 2006.
 * Fed up {cansado, farto, irritado} - bored, annoyed, or disappointed, especially by something that you have experienced for too long:
