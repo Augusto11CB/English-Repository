@@ -55,6 +55,9 @@ fill in  - complete a form
 	*  We'll be at home all day so **come over** whenever you like
 * come up with - think of a plan/solution
 	*  the client wants us to advertise a new design of car, so we need to **come up with** an interesting campaign.
+* come up - to be mentioned or talked about in conversation
+	* You should come up with questions
+	* What points came up at the meeting 
 
 ---
 
@@ -99,5 +102,7 @@ come along with -
 face up to - accept sth difficult
 drop in on
 
-
 ---
+
+caught up
+
