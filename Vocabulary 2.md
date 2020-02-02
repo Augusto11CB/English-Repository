@@ -10,9 +10,12 @@
 > The driver payed the fine for crossing the read line
 * Commit {Cometer}
 > The police arrested the man who committed that hideous crime
-* Usage - for
+* [Usage]  for
 > Do you think it is a good idea for prisoners to get involved in artistic programs? 
-* Ought - 
+* Ought - used to say that the action expressed in the verb is probable or expected
+> He ought to be home by seven o’clock.
+> The curtains ought to be ready on Monday.
+> At his age, he ought to have known better.
 * Ship -
 > One of the great strengths of the Java platform is the standard library that it ships.
 * Right-hand side
@@ -26,6 +29,7 @@
 * Underneath
 > Underneath the hood the user’s browser sends a request to a DNS server to lookup how to contact Storyblocks, and then sends the request.
 
+--- 
 * Soared - rise rapidly
 > the dollar soared against the yen
 * Resulted in ~ led to
@@ -35,7 +39,8 @@
 * harsher - severe
 * Peak ~ High
 > The prison population hit a peak of 600.000 in 2006.
-* Fed up
+* Fed up {cansado, farto, irritado} - bored, annoyed, or disappointed, especially by something that you have experienced for too long:
+> My brother was fed up with his job, so he got another one.
 * Worth
 > It's not worth it
 * Over the top
@@ -54,12 +59,22 @@
 > the UN is addressing this health crisis before it has spun out of control.
 
 --- 
+* nasty - bad or very unpleasant/dangerous or violent
+> He had a nasty cut above the eye.
 * Itchy
 > Me skin cracked and got really itchy
 * Scratch
-> Where that insec8 tough are scratchin a lot.
+> Where that insect tough are scratchin a lot.
 * bruise - an injury that doesn't break the skin but results in some discoloration
+> She's got a nasty bruise on her shin from when he kicked her.
 * bump - a lump on the body caused by a blow
 > I got a big bump in my head
-* faint - to suddenly become unconscious for a short time, usually falling down:
+* faint - ~~pass out / to suddenly become unconscious for a short time, usually falling down:
 > When I don't have break fast I use to faint
+* pass out - ~~faint / to become unconscious for a short time
+> I was hit on the head and passed out.
+* pass away - polite expression for die 
+> She's terribly upset because her father passed away last week.
+* State - to express information clearly and carefully:
+> It stated on the packaging that you must charger the phone before starting use it.
+
