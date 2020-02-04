@@ -81,4 +81,6 @@
 > She's terribly upset because her father passed away last week.
 * State - to express information clearly and carefully:
 > It stated on the packaging that you must charger the phone before starting use it.
+* Carrying Out
+> The Unicamp University is carrying out experiments about the impact of the social media in the work routine.
 
