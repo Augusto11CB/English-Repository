@@ -248,10 +248,20 @@ The present perfect simple is used when the action is finished, and the result c
  > A: How long have you worked here ?
  > B: Since 2018, so for about one year.
  
+## Past Perfect Continuous
+### Started in the past and continued up to antoher action/time in the past
+The past perfect continuous tells us 'how long', just like the present perfect continuous, but this time the action continues up to a point in the past rather than the present. 
+> She had been working at that company for a year when she met James.
+> I'd been walking for hours when I finally found the house.
+
+### Something that finished just before another event in the past - Result in the past
+> The children had been playing and so the room was a mess!
+> I'd been working before I saw you and that's why I was really tired.
+
+ 
 ## Past Simple x Present Perfect
 [https://dictionary.cambridge.org/pt/gramatica/gramatica-britanica/past-simple-or-present-perfect](https://dictionary.cambridge.org/pt/gramatica/gramatica-britanica/past-simple-or-present-perfect)
 
-## Present Perfect Continuous
 
 ## Present Perfect x Present Perfect Continuous
 [https://dictionary.cambridge.org/pt/gramatica/gramatica-britanica/present-perfect-simple-or-present-perfect-continuous](https://dictionary.cambridge.org/pt/gramatica/gramatica-britanica/present-perfect-simple-or-present-perfect-continuous)
