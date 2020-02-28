@@ -105,4 +105,6 @@ drop in on
 ---
 
 caught up
+rule out
+> Smartphones  are a great example where technical constraints rule out webhooks as a  possibility
 
