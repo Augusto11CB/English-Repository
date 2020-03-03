@@ -41,5 +41,15 @@ mount up - to gradually increase in number or amount:
 invoice {fatura} - a list of things provided or work done together with their cost, for payment at a later time
 > Various clients failed to pay up on time and unpaid invoices began to mount up.
 
+other than - apart from a particular person or thing | except
+> The truth was known to no one other than herself.
+>  We never go to church other than for weddings.
+>  We know he lived in Fleet Road, but other than that we don’t know much about him.
+
+guise - the way someone or something appears to be, which hides the truth or is only temporary
+> Many of the security ideas reappear, though in altered guise
+> They operated a drug-smuggling business under the guise of an employment agency.
+> It’s the same idea in a different guise.
+
 
 
