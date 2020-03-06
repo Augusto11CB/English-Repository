@@ -67,3 +67,6 @@ nasty - bad or very unpleasant
 > There is a nasty smell in here
 > he had a nasty cut above the eye
 > she has a nasty habit of picking on people in meetings
+
+nasty - unkind
+> Don't be so nasty to your brother - he's four years younger than you!
