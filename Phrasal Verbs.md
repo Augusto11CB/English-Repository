@@ -113,3 +113,6 @@ rule out
 Bottom Line
 
 Tease out
+
+look out - to watch what is happening
+> The police have warned shopkeepers to look out forgerd notes;
