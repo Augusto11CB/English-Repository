@@ -51,6 +51,19 @@ guise - the way someone or something appears to be, which hides the truth or is 
 > Many of the security ideas reappear, though in altered guise
 > They operated a drug-smuggling business under the guise of an employment agency.
 > It’s the same idea in a different guise.
+blurred
 
+hollow - situations, feelings or words without value, or not true or sincere
+> Will their good intentions become realities or are they just hollow promises?
 
+hollow - having a hole or empyty space inside
+> Hollow blocks are used because they are lighter.
 
+off the top of <my/your/etc> head - from the knowledge you have in your memory
+> A: "What is the import that I should use for this class?" 
+> B: "I don't know off the top of my head, but i can search here n my code."
+
+nasty - bad or very unpleasant
+> There is a nasty smell in here
+> he had a nasty cut above the eye
+> she has a nasty habit of picking on people in meetings
