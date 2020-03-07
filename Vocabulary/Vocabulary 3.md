@@ -70,3 +70,16 @@ nasty - bad or very unpleasant
 
 nasty - unkind
 > Don't be so nasty to your brother - he's four years younger than you!
+
+witnessed
+
+one-off
+
+Lags
+> software engineering still lags behind other types of engineering disciplines
+
+Leaning - 
+> we take a new approach, leaning on lessons learned
+
+Postpone
+> Paris marathon postponed over spread of coronary
