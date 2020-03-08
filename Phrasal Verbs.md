@@ -116,3 +116,23 @@ Tease out
 
 look out - to watch what is happening
 > The police have warned shopkeepers to look out forgerd notes;
+
+fell through
+> My first efforts to get this movie produced fell through.
+
+rallied round
+> That was a hard time so my family rallied round and made sure that  I kept on trying
+
+keep on -  to continue doing something, or to do something many times
+> You just have to keep on trying.
+
+pull sth out -  to succeed in doing something difficult
+> The goalkeeper pulled off six terrific saves.
+> after a great effort I was able to pull it off.
+
+breath away - take somebody’s breath away - to be extremely beautiful or exciting
+> Jack performances took my breath away. He was so amazing in his last movie.
+
+blow sb away - to surprise or please someone very much
+> The ending will blow you away.
+> I'm just totally blown away by the whole idea.
