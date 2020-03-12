@@ -195,7 +195,7 @@ These sentences are both used for finished and unfinished actions.
 > I've known John for three years.
 > Augusto has lived in Sweden for three years.
 
-**Present Perfect Continuous** can be also used to talk about unfinished actions started in the past and still true. However, it is not possible use the present perfect continuous with stative verbs
+**Present Perfect Continuous** can be also used to talk about unfinished actions started in the past and still true. **However, it is not possible use the present perfect continuous with stative verbs**
 > He has been living here for three years.
 > Augusto has been living in Swedish for three years. -- NO DIFFERENCE BETWEEN THIS AND THE PHRASE : Augusto has lived in Sweden for three years.
 
