@@ -31,3 +31,14 @@ stand in - to temporarily do someone else's job or take their place
 strain -  worry that is caused by having to deal with a problem or work too hard over a long period of time 
 > Did you find the job a strain?
 > the strains of police life has made him more pessimistic
+
+shudder - to shake for a short time because you are afraid or cold, or because you think something is very unpleasant
+> She shuddered at the thought that she could have been killed.
+
+execrable - extremely bad
+
+foul - a foul smell or taste is very unpleasant| very dirty
+> He put down his mug of foul-tasting coffee.
+
+wag {abanar} - if a dog wags its tail, or if its tail wags, the dog moves its tail many times from one side to the other |  to move your finger or head from side to side, especially to show disapproval
+> ‘You naughty girl!’ Mom said, wagging her finger at me.
