@@ -42,3 +42,21 @@ foul - a foul smell or taste is very unpleasant| very dirty
 
 wag {abanar} - if a dog wags its tail, or if its tail wags, the dog moves its tail many times from one side to the other |  to move your finger or head from side to side, especially to show disapproval
 > ‘You naughty girl!’ Mom said, wagging her finger at me.
+
+reign - the period when someone is king, queen, or emperor
+> Changes that took place during Henrico's reign
+
+loose - not firmly held or fastened in place | not attached
+> The screw has come loose (=became loose).
+> The potatoes are sold loose (=not packed in a container).
+
+wind up ~ end up - to end a meeting, discussion, or an activity | to find yourself in an unexpected and usually unpleasant situation, especially as a result of what you do
+> If he keeps doing stuff like that he's going to wind up in prison!
+> You don't want to wind up homeless, do you?
+> OK, just to wind up, could I summarize what we’ve decided?
+
+dwindle - to gradually become less and less or smaller and smaller
+> The elephant population is dwingling
+
+[E] differently than - 
+> The new vendor designed their interfaces differently than the last vendor
