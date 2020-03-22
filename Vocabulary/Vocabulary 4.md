@@ -58,5 +58,8 @@ wind up ~ end up - to end a meeting, discussion, or an activity | to find yourse
 dwindle - to gradually become less and less or smaller and smaller
 > The elephant population is dwingling
 
-[E] differently than - 
+[E] differently than 
 > The new vendor designed their interfaces differently than the last vendor
+
+overhear - to hear what other people are saying without intending to and without their knowledge
+> I overheard a very funny conversation on the bus this morning.
