@@ -61,5 +61,37 @@ dwindle - to gradually become less and less or smaller and smaller
 [E] differently than 
 > The new vendor designed their interfaces differently than the last vendor
 
-overhear - to hear what other people are saying without intending to and without their knowledge
+[G] -overhear - to hear what other people are saying without intending to and without their knowledge
 > I overheard a very funny conversation on the bus this morning.
+
+[E][N] arm's-length - used to describe a situation in which two people, companies, etc. operate separately from each other:
+> An arm's-length relationship between buyers and suppliers is usually advisable
+
+drawback - 
+> The biggest drawback of the composition is that the implementations must be provided implementations for all behavior without be benefit of inheritance to share code. Meaning that might exist similar implementations across classes.
+
+as opposed to something - used to compare two things and show that they are different from each other.
+> The tax system favors the very rich as opposed to ordinary working people.
+>  The mindset is to go after the person complaining, as opposed to the issue.
+>  Students discuss ideas, as opposed to just copying from books.
+
+[N]take off -  to suddenly start being successful
+> Mimi became jealous when Jack’s career started taking off.
+
+sputters - cintinues weakly
+> The engine sputters and shakes, but it never stops going.
+> The relationship sputtered to a halt 6 months later, and they broke up
+
+bogus - not true or real, although someone is trying to make you think it is.
+> bogus inshurance claims
+> the child was taken away from her parents by a bogus social worker
+> They issue certificates of deposits, often based on fictitious assets such as bogus gold mines.
+
+[N]sham - false, fake, bogus (use shan for situations)
+> She’s not ill, she’s only shamming. 
+> The elections were a complete sham.
+> He figured out that the money that he was supposed to win, stems from a sham operation
+
+[G]constrain - control or limit
+> Local regulation constrain the height of new buildings
+> The school wants to do more, but we'are contrained by our budget
