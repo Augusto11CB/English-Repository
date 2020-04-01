@@ -95,3 +95,6 @@ bogus - not true or real, although someone is trying to make you think it is.
 [G]constrain - control or limit
 > Local regulation constrain the height of new buildings
 > The school wants to do more, but we'are contrained by our budget
+
+[G][FN] outermost 
+> the outermost layer is reponsible to handle external requests
