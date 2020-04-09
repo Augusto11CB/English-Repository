@@ -21,3 +21,9 @@ get packed
 > cities are going to get more and more packed
 
 as he pointed it out
+
+adhere - to stick firmly
+> A smooth, dry surface helps the tiles adhere to the wall.
+
+payslip - a piece of paper given to someone who is employed to show how much money they have earned and how much tax has been taken off
+> The contributions were put into two different columns on the payslip.
