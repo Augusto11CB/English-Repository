@@ -27,3 +27,17 @@ adhere - to stick firmly
 
 payslip - a piece of paper given to someone who is employed to show how much money they have earned and how much tax has been taken off
 > The contributions were put into two different columns on the payslip.
+
+there - 
+> there really a good reason for this.
+
+due to
+> When I placed the order I received an email saying **there would** be a delay in delivery **due to** late arrival of stock
+
+consist
+>  Ideally a Futsal team should consist of 5 people.
+
+delight - 
+> He seems to delight in finding fault with other people
+
+
