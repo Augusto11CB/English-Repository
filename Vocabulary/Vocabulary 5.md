@@ -61,7 +61,7 @@ throttle - to press someone's throat very tightly so that they cannot breathe | 
 > Sometimes he annoys me so much that I could throttle him.
 > The reduction in funds is throttling the development of new programmes.
 
-onslaught - a violent and forceful attack
+onslaught (on/against)(of something) - a violent and forceful attack
 > With the nice weather, the beach towns are expecting an onslaught of tourists
 > It is unlikely that his forces could withstand an enemy onslaught for very long.
 > Scotland's onslaught on Wales in the second half of the match earned them a 4–1 victory.
