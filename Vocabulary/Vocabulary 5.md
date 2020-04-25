@@ -40,4 +40,28 @@ consist
 delight - 
 > He seems to delight in finding fault with other people
 
+--- 
+chipping away - to break off tiny pieces of something | To break off fragments of something.
+> We won't be able to move this huge rock until we chip away at it and make it smaller.
+> The  paint  is  so  old  that  it  has  completely  chipped  away  from  this  side  of  the  house.
 
+chip away - To complete small, incremental portions of a task
+> Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time.
+
+purposely - intentionally
+> the trial has been purposely delayed
+> I purposely avoid making train journeys during the rush hour
+> I purposely spoke loud enough to be overheard.
+
+cap (verb) - to put a limit on the amount of money that can be charged or spent in connection with a particular activity
+> High spending councils have all been capped
+> Our mortgage is capped at 8.75 percent for five years
+
+throttle - to press someone's throat very tightly so that they cannot breathe | to prevent something from succeeding
+> Sometimes he annoys me so much that I could throttle him.
+> The reduction in funds is throttling the development of new programmes.
+
+onslaught - a violent and forceful attack
+> With the nice weather, the beach towns are expecting an onslaught of tourists
+> It is unlikely that his forces could withstand an enemy onslaught for very long.
+> Scotland's onslaught on Wales in the second half of the match earned them a 4–1 victory.
