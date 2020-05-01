@@ -12,15 +12,14 @@ make out - to deal with a situation, usually in a successful way:
 comprise - to have things or people as parts or members; to consist of
 > The course comprises a class book, a practice book, and a CD.
 
-plan ahead
-> 
+[E] plan ahead
 
-when it comes to <<something>>
+[E] when it comes to <<something>>
 
 get packed
 > cities are going to get more and more packed
 
-as he pointed it out
+[E] as he pointed it out
 
 adhere - to stick firmly
 > A smooth, dry surface helps the tiles adhere to the wall.
@@ -28,7 +27,7 @@ adhere - to stick firmly
 payslip - a piece of paper given to someone who is employed to show how much money they have earned and how much tax has been taken off
 > The contributions were put into two different columns on the payslip.
 
-there - 
+there 
 > there really a good reason for this.
 
 due to
@@ -37,7 +36,7 @@ due to
 consist
 >  Ideally a Futsal team should consist of 5 people.
 
-delight - 
+delight - (something or someone that gives) great pleasure, satisfaction, or happiness
 > He seems to delight in finding fault with other people
 
 --- 
