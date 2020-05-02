@@ -11,7 +11,7 @@
 > The police arrested the man who committed that hideous crime
 * [Usage]  for
 > Do you think it is a good idea for prisoners to get involved in artistic programs? 
-* Ought - used to say that the action expressed in the verb is probable or expected
+* [Anki] Ought - used to say that the action expressed in the verb is probable or expected
 > He ought to be home by seven o’clock.
 > The curtains ought to be ready on Monday.
 > At his age, he ought to have known better.
