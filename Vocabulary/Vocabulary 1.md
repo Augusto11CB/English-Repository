@@ -12,7 +12,7 @@
 * [Anki] Cheer up 
 > Cheer up! [Interjection]
 > Visit then always cheer up my day
-* Settle {resolver, ajeitar}
+* [Anki] Settle {resolver, ajeitar}
 > The lawyer helped me settle the issue
 > I settled the portrait in my bed room wall. {Ajeitar}
 * [Anki] Stem {deter, originar-se} - to stop something unwanted from spreading or increasing | a central part of something from which other parts can develop or grow, or which forms a support
@@ -41,9 +41,9 @@
 > The temple ruins are a distant reminder of a vanished empire.
 * break into - to suddenly begin to do something
 > The house had been broken into when we got back
-* Seized ~ confiscate
+* [Anki] Seized ~ confiscate
 > The police seized a cache of illegal drugs
-* Went off
+* [Anki] Went off
 > Milk goes off quickly if it is not keeped in cold temperatures
 * apart - separated by a distance or by time
 > How far apart should the speakers be?
