@@ -55,6 +55,6 @@
 > You can think over your requirements before start buying this equipment
 * Expression
 > Karen **is said to be earning** an enormous amount of money
-* caught - to become gripped, hooked, or entangled
+* [N] caught - to become gripped, hooked, or entangled
 > sorry i'm late for work i got caught in a traffic collision
 
