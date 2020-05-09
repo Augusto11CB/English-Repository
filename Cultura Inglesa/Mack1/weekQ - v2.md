@@ -21,7 +21,7 @@ address - to give attention to or to deal with a matter or problem:
 be hard-pressed - 
 
 
-paint a picture of - describe a situation
+[E]paint a picture of - describe a situation
 
 Harbinger of doom - used to define people who are pessimistic about the future
 
@@ -35,7 +35,8 @@ certainty - the state of being completely certain
 > They knew with absolute certainty that he'd say no
 > The result is impossible to predict with any degree of certainty.
 
-equate
+equate to sth - to consider one thing to be the same as or equal to another thing
+> He complained that there was a tendency to equate right-wing politics with self-interest.
 
 as opposed to something - used to compare two things and show that they are different from each other.
 > The tax system favors the very rich as opposed to ordinary working people.
