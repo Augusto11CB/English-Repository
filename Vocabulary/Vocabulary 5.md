@@ -40,7 +40,7 @@ delight - (something or someone that gives) great pleasure, satisfaction, or hap
 > He seems to delight in finding fault with other people
 
 --- 
-chipping away - to break off tiny pieces of something | To break off fragments of something.
+[] chipping away - to break off tiny pieces of something | To break off fragments of something.
 > We won't be able to move this huge rock until we chip away at it and make it smaller.
 > The  paint  is  so  old  that  it  has  completely  chipped  away  from  this  side  of  the  house.
 
@@ -64,3 +64,7 @@ onslaught (on/against)(of something) - a violent and forceful attack
 > With the nice weather, the beach towns are expecting an onslaught of tourists
 > It is unlikely that his forces could withstand an enemy onslaught for very long.
 > Scotland's onslaught on Wales in the second half of the match earned them a 4–1 victory.
+
+[E]the ins and outs - the detailed or complicated facts of something
+> I know how to use computers, but I don't really understand the ins and outs of how they work.
+
