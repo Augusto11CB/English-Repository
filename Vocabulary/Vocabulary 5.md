@@ -73,3 +73,11 @@ onslaught (on/against)(of something) - a violent and forceful attack
 
 [G] unfathomable - impossible to understand
 > For some unfathomable reason they built the bathroom next to the kitchen.
+
+
+[G] dodgy - likely to fail or cause problems
+> The weather might be a bit dodgy at this time of year.
+> I can’t come in to work today – I’ve got a bit of a dodgy stomach.
+> It was a dodgy situation.
+> Careful – that chair’s a bit dodgy.
+> Ever since the accident I’ve had this dodgy leg.
