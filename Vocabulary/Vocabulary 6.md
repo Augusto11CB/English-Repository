@@ -22,3 +22,48 @@ thrive - to grow, develop, or be successful:
 [FN][R][G] strive - to try very hard to do something or to make something happen, especially for a long time or against difficulties:
 > [ + to infinitive ] Mr Roe has kindled expectations that he must now strive to live up to.
 > In her writing she strove for a balance between innovation and familiar prose forms.
+
+--- 
+cleanly - fairly and honestly
+> the election campaign was not conducted very cleanly
+
+smithereens - a lot of very small broken pieces
+> The city was bombed to smithereens during the war.
+> So many films involve everyone and everything being blown to smithereens.
+> his nintendo ds 3d smashed to smithereens when it fell.
+
+crosshairs - two thin wires crossing each other in a gun or other device, which you use to help you aim at something
+> a sniper had them in his crosshairs
+
+[E][G][R] yer ~ your
+> get yer hands off me
+
+[G] dim [noun, verb] - not giving or having much light:
+> the lamp gave out a dim light
+> I had a dim memory of having met her before (dim - something that you remember slightly, but not very well)
+
+uphold - to defend or keep a principle or law, or to say that a decision that has already been made, especially a legal one, is correct
+> As a police officer you are expected to uphold the law whether you agree with it or not.
+> The government has promised to uphold the principles of democracy.
+> When he took office he swore to uphold the laws of the land.
+
+swindle - to get money dishonestly from someone by deceiving or cheating them
+> They swindled local businesses out of thousands of dollars.
+> The wealthy banker was ultimately convicted of swindling investors.
+
+swindle [noun] - a situation in which someone gets money dishonestly from another person by cheating them
+> Fraud squad officers are investigating a £5.6 million swindle.
+> He masterminded a massive swindle involving $750 million in loans. 
+
+rendezvous - to meet someone, especially secretly, at a particular place and time:
+> The police arranged to rendezvous with their informant at a disused warehouse.
+
+brink - the point where a new, different, or dangerous situation is about to begin:
+> Right now the company is poised on the brink of success.
+> Extreme stress had driven him to the brink of a nervous breakdown.
+
+poised - ready to do a particular thing at any moment
+> The company is poised to launch its new advertising campaign.
+> The military forces are poised for attack.
+
+--- 
