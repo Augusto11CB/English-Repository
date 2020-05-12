@@ -58,7 +58,7 @@ swindle [noun] - a situation in which someone gets money dishonestly from anothe
 rendezvous - to meet someone, especially secretly, at a particular place and time:
 > The police arranged to rendezvous with their informant at a disused warehouse.
 
-brink - the point where a new, different, or dangerous situation is about to begin:
+[FN][N][G] brink - the point where a new, different, or dangerous situation is about to begin:
 > Right now the company is poised on the brink of success.
 > Extreme stress had driven him to the brink of a nervous breakdown.
 
@@ -67,3 +67,24 @@ poised - ready to do a particular thing at any moment
 > The military forces are poised for attack.
 
 --- 
+
+[N] naivety - trust based on not having much experience
+>  He demonstrated a worrying naivety about political issues (-)
+>  I think her naivety is charming
+
+effete - weak and without much power
+> With nothing to do all day the aristocracy had grown effete and lazy.
+> When no one listens to the leader of the group any more and his power has essentially diminished to nothing, this is an example of an effete leader.
+
+[FN][G] despise - to feel a strong dislike for someone or something because you think that that person or thing is bad or has no value
+> The two groups despise each other.
+> She despised him for the way he treated her sister.
+> He despised himself for being such a coward. 
+
+[FN][G][R] at long last - finally, after much waiting
+> At long last the government is starting to listen to our problems
+
+fond - to like someone or something very much; to like doing something
+> I like to travel but, then again, I'm very fond of my home.
+> Many people in Britain are fond of gardening .
+> Charles is fond of driving, so I’m happy just to be a passenger
