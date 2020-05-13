@@ -88,3 +88,8 @@ fond - to like someone or something very much; to like doing something
 > I like to travel but, then again, I'm very fond of my home.
 > Many people in Britain are fond of gardening .
 > Charles is fond of driving, so I’m happy just to be a passenger
+
+[E] Li’l - Li’l is an abbreviation of the word little.
+
+tussle - to have difficult disagreements or strong arguments
+> During his twelve years in Congress he has tussled with the
