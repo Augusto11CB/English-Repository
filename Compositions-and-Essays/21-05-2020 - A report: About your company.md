@@ -11,11 +11,11 @@ Company: Augment Technologies - IT Consulting firm
 -   what people in the local community think about the company
 -   what the company should do to improve its image.
 
----
 
-# V1
+
+## V1
   
-## Assessment of the degree of satisfaction of employees and the local community about Augment Technologies
+### Assessment of the degree of satisfaction of employees and the local community about Augment Technologies
 
 The present report has as foremost purpose layout the opinion of Augment's employees as well as the opinion of the local community about Augment Technologies as a company and its contribution to their lives and growth.
 
@@ -38,6 +38,9 @@ The second major theme that is connected with the first is that none of the resp
  The facts presented above lead us to two major conclusions, being the first the necessity to create means to offer a more clear carrier path in the company, and transmit information regarding company's decisions and strategy goals in a more transparently way, 
 
 Last in order, the second conclusion denotes the increase in the company's contribution to the local community.
+
+
+## V2
 
 
 
