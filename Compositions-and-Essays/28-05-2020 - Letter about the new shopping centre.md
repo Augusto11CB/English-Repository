@@ -21,6 +21,24 @@ The largest shopping mall in the world based on total area. The mall contains mo
 	- Candylicious  (Chocolate Factory)
 --- 
 
-Dear Arthur,
+Dear Waterson,
 
 I went to our new shopping centre last week. 
+
+Hi Waterson, how have you been?
+
+Take a guess about where I went last week! Well, I finally visited the Dubai Mall, I hope you have hunt right. :D
+Do you remember that I said I always would like to visit this shopping center since I moved to Dubai? 
+
+When I unpackaged my last luggage, which took almost one month to be done (I was pretty busy with some affairs of my work contract), I thought with myself that I should be rewarded by all the effort I had made to conclude my housing move. So I decided to go there! 
+
+Honestly, I did not imagine how big a shopping mall could be, just for have an idea while I was driving I could see the structure of the shopping centre in the distance, and when I got I became astonished because it has an architectural style so fancy that in a typically Dubai style, with lots of gold and extravagant.
+
+
+
+
+
+
+Anything interesting happening in your life lately?
+
+
