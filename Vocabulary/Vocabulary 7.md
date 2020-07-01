@@ -10,3 +10,17 @@ Helping - an amount of food given to one person at one time
 
 As a rule of thumb
 
+get by
+
+get through
+
+getting ahead in
+
+getting on with
+
+get down to sth
+
+get at
+
+
+
