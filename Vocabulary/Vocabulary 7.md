@@ -92,3 +92,40 @@ spree - short period of doing a particular, usually enjoyable, activity much mor
 > She is beneath contempt ( = I have no respect for her)
 > I looked at him with undisguised contempt.
 > He rewarded their kindness with hostility and contempt
+
+hustle - to make someone move quickly, especially by pushing them roughly (hustle somebody into/out of/through etc something)
+> I was hustled out of the building by a couple of security men
+> He was hustled away by police officers
+
+slash - to cut with a sharp blade using a quick, strong movement
+> The museum was broken into last night and several paintings were slashed.
+> She tried to commit suicide by slashing her wrists.
+
+[G][FN] slash - to very much reduce something, such as money or jobs
+> Prices have been slashed by 50 percent!
+
+spit - to force out the contents of the mouth, especially saliva
+> Bob spat the meat out in disgust.
+> They bought watermelons and ate them as they walked, spitting out the seeds
+
+ripe - completely developed and ready to be collected or eaten;
+> these bananas are not ripe yet - they are still green
+> The fruit is picked before it turns ripe.
+
+rile (~ annoy) - to make someone angry
+> Do not let her rile you, Billy
+
+runaround (give someone the runaround) - a series of actions or answers to questions that prevent someone from achieving something
+> I'm trying to get a new visa, but the embassy staff keep giving me the runaround.
+> When I asked about the money she gave me the runaround.
+
+lease - a legal agreement in which you pay money in order to use a building, piece of land, vehicle, etc. for a period
+> He has the house on a long lease.
+> The lease runs out/expires in two years' time
+
+plea {apelo} - an urgent and emotional request
+> They made a desperate plea for help.
+> The president has made an emotional plea for the killing to stop.
+
+shrimp [informal] - a short or small person | it also means ~{camarão}
+> It’s hard to believe this sculpted athlete was once a shrimp.
