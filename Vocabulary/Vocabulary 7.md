@@ -129,3 +129,7 @@ plea {apelo} - an urgent and emotional request
 
 shrimp [informal] - a short or small person | it also means ~{camarão}
 > It’s hard to believe this sculpted athlete was once a shrimp.
+
+Out - the hotal that i stayed in took three out of five stars
+
+Doubtful [] - are you doubtful of those effects?
