@@ -132,4 +132,12 @@ shrimp [informal] - a short or small person | it also means ~{camarão}
 
 Out - the hotal that i stayed in took three out of five stars
 
-Doubtful [] - are you doubtful of those effects?
+Doubtful - are you doubtful of those effects?
+
+Sorts out - A maid comes and sorts out my flat every day
+
+Give it a go - I'm not usually into this film, but I'll give it a go
+
+screw around
+
+hunts ~ guest
