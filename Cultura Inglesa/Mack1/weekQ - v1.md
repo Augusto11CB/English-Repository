@@ -85,7 +85,7 @@ drawers - a box-shaped container, without a top, that is part of a piece of furn
 ## Grammar
 
 ### Negative Expression For Emphasis
-Sometimes statements begin with a negative expression for emphasis. In these cases, **inversion** is necessary, with the **auxiliary** **going before the subject**
+Sometimes statements begin with a negative expression for emphasis. In these cases, **inversion** is necessary, with the **auxiliary** **going before the subject**. If there is no auxiliary verb, we use *do, does, or did*
 
 * Not only
 > Not only **did** *he* insult me, but he also threatened me
