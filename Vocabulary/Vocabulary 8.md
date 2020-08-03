@@ -19,3 +19,18 @@
 
 [E][N][FN] test the waters -  If you test the waters, you try something new to see if it will be successful or not
 > We’re **testing the waters** to see if changing the product’s packaging will increase sales.
+
+[E] take it easy -  It means to be relaxed and not do very much activity | “Take it easy!” as a command, you are telling them to be calmer and not so excited or upset. 
+> (After making a joke and someone gets offended) Take it easy, I was just kidding.
+> I had a busy week, so I’m just gonna take it easy this weekend.
+
+[E] get off easy - If someone gets off easy, it means he/she receive a lighter punishment for a crime or bad action.
+> Joe got off easy, instead of getting fired for stealing money from the company he only got a reprimand
+
+[E] on easy street - when someone is "on easy street", it means that person is in a secure situation (often financially)
+> Ever since she inherited $5 million from her father, she’s been on easy street.
+
+swallow - to take food down into the stomach
+
+[E][FN][G] hard to swallow - Something that is “hard to swallow” is difficult to believe or accept. 
+> I found her story rather hard to swallow.
