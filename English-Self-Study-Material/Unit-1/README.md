@@ -256,3 +256,158 @@ Remember that n0n-continuous verbs ( state verbs) cannot be used in any continuo
 
 ![Untitled](./resources/Untitled%204.png)
 
+
+## 1d
+
+### Subjects
+
+- medical problems
+- talking about illness
+
+### Vocabulary
+
+- flour
+    - powder made from grain, especially wheat, used for making bread, cakes, pasta
+    - Thicker the sauce with a little flour
+- runny (~ liquid ~ thin)
+    - more liquid than usual
+    - the sauce looked runny so i added some more flour
+- runny nose
+    - if your nose is runny, it is producing more mucus than usual, usually because you are ill
+    - **I’ve got a runny nose**
+- ache
+    - *a continuous pain that is unpleasant but not very strong*
+    - *used in combinations with parts of the body to mean a continuous pain in the stated part*
+    - as you get older, you have all sorts of aches and pains
+    - I’ve got a dull (= slight) ache in my lower back
+    - I’ve got a back ache
+    - I’ve got a stomach ache
+- prescription
+    - an order for medication, signed by a doctor
+- appointment
+    - an arrangement to see or visit someone at a particular date and time
+- sore
+    - painful
+    - I have a sore throat and runny nose
+- swelling[noun]/swollen[adj]
+    - an area of your body that has become larger than normal, because of illness or injury
+    - The spider’s bite can cause pain and swelling.
+    - His eyes were swollen from crying.
+    - a badly swollen ankle
+- tender
+    - a part of your body that is tender is painful if someone touches it
+    - My arms is still tender where I bruised it
+    
+    **Medical Problems Specific Vocabulary**
+    
+    - A feeling of nausea suddenly came over me.
+    - get nauseous
+        - I got nauseous from reading on the bus.
+    - fell nauseous
+        - That pie made me feel nauseous.
+    - I’ve got a headache
+    - I’ve got a runny nose
+    - I’ve got a earache
+    - I’ve got a stomach ache
+    - I’ve got a temperature
+    - I’ve got a sore throeat
+    - I’ve got a bad cough
+    - I’ve got a cold
+    - I take medicine or pills when a have headache
+    - I feel sick/ill
+    - Have you got a temperature
+    - My back is killing me!
+    - That **growth**  on your shoulder is starting to worry me
+    - I broke out in **hives**  after I ate that potato casserole
+    - If you are allergic to this medication your skin will get red and itchy.
+    - **light-headed**
+        - feeling of dizziness and being off-balance, caused by lack of oxygen in the brain
+        - If you are feeling **light-headed** again, lie down and call me
+    - numb
+        - no felling in a certain body part
+        - the needle will make your lower body fell **numb**
+    - you can take two pain killer every four hours
+    - **antihistamine**
+        - a type of drug that is used to treat medical conditions caused by an extreme reaction to particular substances:
+        - Antihistamine is often used to treat hay fever and insect bites.
+        - I took an antihistamine
+    - splitting headache
+        - really strong headache
+    - Migraine (uncle francisco had it a lot in the past)
+        - severe headache
+    - to be a bit off colour [~ to be under the weather]
+        - i’m bit off colour
+    - to feel poorly
+    - to be at death’s door
+        - last week, I tough I had a cold, it developed into the flue and in fact I was at death’s door.
+    - to be on the mend
+        - getting better from a illness
+    - to be over the worst of it
+        - I’m still under the weather but I’m over the worst of it
+    - As fit as a fiddle
+        - be completely recovered from  a illness | very health
+        - I’m as fit as a fiddle
+    - **A blocked nose**
+    - To be bunged up
+        - If your nose is bunged up, you find it difficult to breathe because you have a cold.
+        - Also if you are constipated, to be bunged up can be used.
+        - I’m a bit bunged up. I haven’t had a poo for 3 days
+    - To get the sniffles
+        - My daughter seems to have gotten the sniffles from someone at daycare
+    - a chesty cough
+    - a dry cough
+    - To go down with
+        - I’m felling under the weather I’m coming down with a cold
+        - My son has gone down with a cold, so he will not go to school today
+    - To pull a muscle
+        - to strain a muscle
+    - cuts and bruises
+        - If you get involved in a car accident, you might get some cuts and bruises
+    - loss of appetite
+    - bad tummy
+    - To phone in sick // to call in sick
+    - rain check
+        - By extension, a promise to take up an offer that one has initially declined.
+        - I'm sorry, but I'll have to take a rain check for dinner this Saturday. Would next weekend work for you?
+    
+    ### Pronunciation
+    
+    - Many English words have the same vowel sounds but different spellings
+    
+    ![Untitled](./resources/Untitled%205.png)
+    
+
+### **Speaking**
+
+- DONE
+
+![Untitled](./resources/Untitled%206.png)
+
+### Writting
+
+- DONE
+
+![Untitled](./resources/Untitled%207.png)
+
+**Patient**: Hello, Doctor Mateo.
+
+**Doctor**: Good afternoon, Mr. Augusto. How can I help you?
+
+**Patient**: Doctor, I have a runny nose and a sore throat. Also, I think I'm short of breath. 
+
+**Doctor**: I see, do you have any particular allergies? Have you had a significant amount of cold drinks recently? Depending on what you've done and what type of allergy you have, your symptoms could be the result of one of them.
+
+**Patient**: Well, Doctor. I have a really severe dusty allergy, especially when the weather is dry and it gets worse when is cold. About the cold drinks, I haven’t drink nothing cold recently.
+
+**Doctor**: Let me check your temperature.
+
+**Doctor**: Yes, it’s higher than normal.
+
+**Doctor**: I’ll give you some thing for it. You need take this medicine twice a day for seven days, drink lots of water.
+
+**Patient**: Thank you doctor.
+
+### Reference
+
+- [English Club - Medical Vocabulary](https://www.englishclub.com/english-for-work/medical-vocabulary.htm)
+- [Advanced Speaking: Illness & Health Vocabulary in English](https://www.youtube.com/watch?v=tnaiefPil0w)
