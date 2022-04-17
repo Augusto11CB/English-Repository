@@ -84,3 +84,56 @@ The word `would` can be used for functions, such as:
 - [ILTS Material English Grammar: Gerund](https://ieltsmaterial.com/advanced-grammar-for-ielts-verb-ing-forms-and-infinitives/)
 - [VOA English Grammar: Gerund](https://learningenglish.voanews.com/a/everyday-grammar-gerunds-infinitives/2722827.html)
 
+## 2b
+
+### Subject
+
+- crazy competitions
+- rules of the competition
+
+### Grammar Modal Verbs
+
+- Necessary and an obligation: `must`  and `have to`
+- Allowed: `can`
+- Not necessary (but allowed): `don’t have to`
+- Not allowed: `mustn’t` and `can’t`
+
+### Grammar `I had never` vs `I have never`
+
+**Context**
+
+Just imagine you are at some music performance now and you are listening your favourite band. Then, the band start to play its new song and you it is the first time you are listening to this song and you want to tell it to your friend. Which way is the correct way to say it?
+
+1. "I **have** never heard this song before this performance"
+2. "I **had** never heard this song before this performance"
+
+**Answer**
+
+Because you are talking to your friend right now, you say "I **have** never heard this song before **this** performance".
+
+If you were telling your friend about your experiences after the performance had finished you would say "I **had** never heard **the** song before **that** performance.
+
+### Vocabulary
+
+- referee
+    - There are two teams and a referee
+
+### Writing
+
+**DONE**
+
+![Untitled](./resources/Untitled.png)
+
+1. **The World Longest Race**
+The world's longest race is a motorsport competition that accepts any type of land vehicle. The race has a length of 22,387km. It starts in Cape Town, South Africa and has its finish point at Magadan, Russia. The world's longest race is an endurance test for the machines used in the competition. Through the race path, there are going to be several types of environments like deserts, forests, dumps and even cities which are going to put the competitors and their equipment to the test.
+
+**OR**
+
+Along the track, various types of environments such as deserts, forests, dumps and even cities will put competitors and their equipment to the test.
+2. **Rules**
+    1. You must have a motorised land vehicle such as a motorcycle, car, etc;
+    2. You cannot change vehicle during the competition;
+    3. You can repair damaged vehicle's components;
+    4. You can have a team with a maximum of 10 participants for the competition;
+    5. You must follow the routes given in your GPS and maps;
+    6. You cannot have your vehicle transported by another during the competition.
