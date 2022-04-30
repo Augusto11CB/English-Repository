@@ -411,3 +411,38 @@ Remember that n0n-continuous verbs ( state verbs) cannot be used in any continuo
 
 - [English Club - Medical Vocabulary](https://www.englishclub.com/english-for-work/medical-vocabulary.htm)
 - [Advanced Speaking: Illness & Health Vocabulary in English](https://www.youtube.com/watch?v=tnaiefPil0w)
+
+## 1e
+
+### Subjects
+
+- medical advice online
+
+### Vocabulary
+
+- what usually keeps you up at night?
+- what is it that keeps you awake at night?
+- what keeps me up at night is to make sure all it’s been done the right way.
+- contempt
+- I couldn’t encourage he to eat anything
+
+### Writing
+
+- DONE
+
+![Untitled](./resources/Untitled%208.png)
+
+Hello doctor.
+
+I would like some advice on something that is happening to my body when I train.
+Since the beginning of the pandemic, I started working out at home. When I do specific abs exercises that involve leg lifts, I feel some  crackles in the area where my legs connect with my hips. I don't feel pain or anything, but the noise is worrying me.
+
+![Untitled](./resources/Untitled%209.png)
+
+![Untitled](./resources/Untitled%2010.png)
+
+Hi,
+
+From your description, it seems that the accident causes you some kind of injury. It can be a pulled muscle or a broken bone. I advise you to undergo an x-ray as soon as possible.
+
+To avoid further injuries to your ankle, I recommend you ice the region constantly during the day. Also, avoid doing movements with your ankle, rest is really important. If you feel pain, take a pain killer every 8 hours.
