@@ -137,3 +137,28 @@ Along the track, various types of environments such as deserts, forests, dumps a
     4. You can have a team with a maximum of 10 participants for the competition;
     5. You must follow the routes given in your GPS and maps;
     6. You cannot have your vehicle transported by another during the competition.
+
+## 2c
+
+### Subject
+
+- reading an unusual sport
+
+### Vocabulary
+
+- turn vs spin
+    - turn is moving round in general
+    - spin is continually moving round very fast
+- scream vs shout
+    - scream is a loud noise in the throat showing excitement or fear
+    - shout is saying words loudly
+- audience vs spectators
+    - audience is used for people at the theatre, cinema or concert
+    - spectators are people watching a sporting event
+    
+
+### Speaking
+
+**TODO**
+
+![Untitled](./resources/Untitled%201.png)
