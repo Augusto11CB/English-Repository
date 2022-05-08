@@ -162,3 +162,89 @@ Along the track, various types of environments such as deserts, forests, dumps a
 **TODO**
 
 ![Untitled](./resources/Untitled%201.png)
+
+## 2d
+
+### Subject
+
+- speaking about clubs and membership
+- talking about interests
+
+### Vocabulary
+
+- tab into sth
+    - to manage to use something in a way that brings good results
+    - if only we could tap into that energy and creativity;
+    - are you tapping into your staff’s full potential;
+    - several other companies were already tapping into this market;
+    - the building tapped into the city’s water supply;
+    - The company is hoping to tap into the Chinese market;
+    - Our country successfully participated in helping the economies of these countries and now we can tap into this potential;
+    - The senator has the ability to tap into the American psyche;
+    - The politician tapped into voter anger and won the election (~ o político se aproveitou da raiva dos eleitores e ganhou a eleição);
+    - Lets tap into we are learning the meaning of tapping into and practice it in or next speaking exercise.
+- pad sth out
+    - *To add words, information, etc. to make something seem longer or better*
+    - She had to pad the presentation out to make it last half an hour
+    - *o make something such as an article, seem longer or more impressive by adding things that are unnecessary*
+    - *The report was padded out with extracts from previous documents.*
+- Social butterfly
+    - A social butterfly is someone who is social or friendly with everyone, flitting from person to person, the way a butterfly might.
+    - I’m a bit of a social butterfly, so I tend to spend my free time with friends.
+- ill-intentioned
+    - **having malicious intentions**
+    - an ill-intentioned criticism that was meant more to hurt than to help.
+
+### Extra material
+
+```jsx
+https://www.youtube.com/watch?v=bYpCITiVu38 [DONE]
+https://www.youtube.com/watch?v=hoyhPZDp3dE [DONE]
+https://www.youtube.com/watch?v=oADRAv9zmRA [DONE]
+https://www.youtube.com/watch?v=dOw3G0hi4ys
+https://www.youtube.com/watch?v=cxo5KhFgkWk
+```
+
+### Speaking
+
+- **I’m Interested in + noun/gerund**
+    - **I’m interested in** football. My favourite team is Chelsea;
+    - **I’m interested in** watching football, but I don’t like to play myself.
+- **I’m keen on + noun/gerund**
+    - I’m keen on swimming. I try to get to the swimming pool at least twice a week;
+    - I’m keen on sport. I especially love swimming.
+- **I’m into + noun/gerund**
+    - These days I’m really into reading. I can’t get enough of a good thriller
+- **I enjoy + noun/gerund**
+    - I have always enjoyed a trip to the cinema. I particularly love a good action movie;
+    - I enjoy going to the cinema. I try to go every Tuesday as it’s half price on those days;
+    - I enjoy cycling because it keeps me fit;
+    - Sometimes, I enjoy going jogging.
+
+> I have been getting a little bored over the holidays
+> 
+
+> I’ve actually got to go soon as i have a guitar lesson
+> 
+
+> I’ve got to head off now
+> 
+
+> Lovely to catch up with you
+> 
+
+> I started cycling when I was on vacation in Caraguatatuba. I’ve been cycling for 2 months. I decided to do cycling because I would like to improve my balance**.**
+> 
+
+> When I was younger my uncle got me into football.
+> 
+
+**TODO**
+
+![Untitled](Unit%202%20499d7727cf754f55bb405b715c8ccc07/Untitled%202.png)
+
+**DONE**
+
+![Untitled](Unit%202%20499d7727cf754f55bb405b715c8ccc07/Untitled%203.png)
+
+![Untitled](Unit%202%20499d7727cf754f55bb405b715c8ccc07/Untitled%204.png)
