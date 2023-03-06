@@ -14,7 +14,7 @@
 - paramount: means of the greatest importance or significance, or having the highest priority or rank.
 - spell out: means to explain or describe something in a clear and detailed manner.
 
-- example
+- example:
     - Attention to detail and high quality are hallmarks of a well-crafted product.
     - One of the hallmarks of a successful business is its ability to adapt quickly to changing market conditions and customer needs. 
     - If any of these areas fall short, customers will not stay long with a cloud provider.
@@ -25,9 +25,14 @@
 ## 2023/03/05
 - retrofit: Retrofit is a term used to describe the process of adding new components or features to an existing system or structure. 
 
-- example
+- example:
     - The old car was retrofitted with a modern engine and updated electronics, making it faster and more reliable than before.
 
 
+## 2023/03/06
+- but for:  is a conjunction that is used to indicate a hypothetical situation or condition that did not occur, and suggest that the outcome of a particular situation would have been different if that condition were met.
 
- 
+- example:
+    - **But for** the rain, we would have had a picnic in the park.
+    - **But for** the fact that I have to work this weekend, I would have gone to the beach with my friends.
+    - I don't mind what we have for dinner tonight, **so long as** it's vegetarian. 
