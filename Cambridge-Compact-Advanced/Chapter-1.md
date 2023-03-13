@@ -84,6 +84,25 @@ Being accepted by USP was a thrilling achievement for me. When I look back on ho
 
 2030 (future)
 
+## Contrast Links
+- Whereas
+  -  Whereas the poorest 10% have becomepoorer, the richest 1% are now even richer.
+  -  30 years ago almost everyone lived in the countryside whereas nowadays most people live in cities.
+- Although
+  - Although the weather is bad, I love London
+  - I love London, although the weather is bad
+- Despite / in spite of
+  - I love London despite the bad weather.
+  - I love London in spite of the bad weather.
+- However
+  - I love London. However, the weather is bad.
+  - I love London. The weather, however, is bad.
+  - I love London. The weather is bad, however.
+- Nevertheless
+  -  By law all children must attend school. Nevertheless, many still work in the fields. 
+- Notwithstanding 
+   - Notwithstanding the fact that the project was over budget and behind schedule, the team was able to deliver the product on time
+   - Notwithstanding the economic downturn, the company was able to remain profitable
 ## Grammar: Review of past, present & future tenses
 ### Future Perfect
 When use future perfect.?
