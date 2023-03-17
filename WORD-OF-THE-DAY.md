@@ -36,3 +36,10 @@
     - **But for** the rain, we would have had a picnic in the park.
     - **But for** the fact that I have to work this weekend, I would have gone to the beach with my friends.
     - I don't mind what we have for dinner tonight, **so long as** it's vegetarian. 
+
+## 2023/03/17
+- arrengement
+- break free from its grip
+
+- example:
+    - This addiction had a significant impact on my life and relationships, and I struggled to **break free from its grip** for several years. 
