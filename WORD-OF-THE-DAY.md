@@ -43,3 +43,17 @@
 
 - example:
     - This addiction had a significant impact on my life and relationships, and I struggled to **break free from its grip** for several years. 
+
+## 2023/03/18
+- idiosyncratic: peculiar or unique to an individual
+- ineffable: too great or extreme to be expressed or described in words
+- erudite: having or showing extensive knowledge gained from reading and study
+- quixotic: exceedingly idealistic; unrealistic and impractical
+- unattainable: impossible to achieve or obtain
+
+- example:
+    - The artist's idiosyncratic style is intantly recognizable
+    - The feeling of falling in love can be ineffable
+    - The professor was highly respected for her erudite lectures
+    - His quixotic vision for world peace was admirable, but ultimately unattainable
+    - Winning the lottery may seem like a dream come true, but for many people, it is an unattainable goal
