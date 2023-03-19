@@ -57,3 +57,13 @@
     - The professor was highly respected for her erudite lectures
     - His quixotic vision for world peace was admirable, but ultimately unattainable
     - Winning the lottery may seem like a dream come true, but for many people, it is an unattainable goal
+
+## 2023/03/19
+- Disseminate: to spread or give out something, especially news, information, ideas, etc., to a lot of people
+- Pragmatic: solving problems in a sensible way that suits the conditions that really exist now, rather than obeying fixed theories, ideas, or rules; A pragmatic way of dealing with something is based on practical considerations, rather than theoretical ones. 
+- Alleviate: to make something bad such as pain or problems less severe
+
+- example:
+    - One of the organization's aims is to disseminate information about the disease
+    - In business, the pragmatic approach to problems is often more successful than an idiosyncratic one
+    - The drugs did nothing to alleviate her pain/suffering
