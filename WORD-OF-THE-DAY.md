@@ -95,3 +95,29 @@
     - The **intrepid** explorer ventured into the unknown
     - He said that he was a huge fan of the president, although I suspect it was tongue in cheek
     - He made a facetious comment about the situation.
+
+## 2023/03/21
+- have another string to your bow: to have more than one interest, skill, or resource that you can use if you need to
+- don't give up your day job: used for telling someone that they will never be successful with something they are trying to do and should keep doing their real job instead
+- to hang up: to place something, esp. clothing, on a hook or hanger
+- fasten: to (cause something to) become firmly fixed together, or in position, or closed
+- to do up: means to fasten or secure something, or to decorate or renovate something
+- to mop up: to use a piece of cloth or a mop to remove liquid from the surface of something
+- to tidy up: means to put things in order, to organize, or to make neat and presentable
+- don't give two hoots: to not care about something or someone
+- examples:
+    - I enjoy my work, but I'd like to have another string to my bow in case I lose my job
+    - She is a multi-talented woman with many strings to her bow
+    - He's not very good at singing, so don't give up your day job.
+    - She's a terrible cook, so don't give up your day job.
+    - make sure your seat belt is securely fastened
+    - You need to hang up your clothes and clean your bedroom.
+    - to do up your laces
+    - he did up the buttons on her coat
+    - He did up the house before they moved in
+    - can you help me todo up my dress?
+    - *When you have finished cleaning your bedroom*, go and mop up the kitchen floor. Use the old mop to mop up the spilled sausa near the oven.
+    - After you have mopped up the kitchen floor, go and tidy up things in the living room. You and your frinds left that place a big mass.
+    - I don't give two hoots what she thinks.
+
+
