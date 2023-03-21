@@ -67,3 +67,31 @@
     - One of the organization's aims is to disseminate information about the disease
     - In business, the pragmatic approach to problems is often more successful than an idiosyncratic one
     - The drugs did nothing to alleviate her pain/suffering
+
+## 2023/03/20
+- Convey: to express a thought, feeling, or idea so that it is understood by other people
+- Diligent: showing care and effort in one's work or duties 
+- Inquisitive: wanting to discover as much as you can about things, sometimes in a way that annoys people
+- Prolific: producing many works, results, or offspring
+- Abstruse: Difficult to understand; obscure.
+- Acumen: Quickness of perception or understanding; keenness of mental discernment
+- exculpate: To clear from a charge of fault or crime; to exonerate
+- Intrepid: Fearless; brave
+- tongue in cheek: If you say something tongue in cheek, you intend it to be understood as a joke, although you might appear to be serious
+- facetious: Not serious; humorous
+
+
+- examples:
+    - diligent study habits
+    - Please **convey** our condolences **to** the family
+    - What the book does **convey** very successfully is the horror of war
+    - No report can **convey** the unspeakable suffering that this war has caused
+    - I'm very diligent about my work
+    - I'm a very inquisitive person
+    - She could see inquisitive faces looking out from the windows next door
+    - He used **abstruse** terminology that was hard to comprehend
+    - He showed great **acumen** when solving the puzzle
+    - He was **exculpated** from the accusation
+    - The **intrepid** explorer ventured into the unknown
+    - He said that he was a huge fan of the president, although I suspect it was tongue in cheek
+    - He made a facetious comment about the situation.
