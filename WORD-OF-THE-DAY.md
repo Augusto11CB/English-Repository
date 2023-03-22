@@ -120,4 +120,16 @@
     - After you have mopped up the kitchen floor, go and tidy up things in the living room. You and your frinds left that place a big mass.
     - I don't give two hoots what she thinks.
 
-
+## 2023/03/22
+- ought: (DUTY) used to say that it is necessary or desirable to perform the action expressed in the verb; (PROBABLE) used to say that the action expressed in the verb is probable or expected
+- soaring:
+- carry: (of a newspaper or radio or television broadcast) to contain particular information
+- example:
+    - This morning's newspapers all carry the same story on their front page.
+    - The web edition of the paper is carrying the story on its front page.
+    - He ought to be home by seven o’clock (PROBABLE)
+    - We ought to clean up before we go home (DUTY)
+    - who don't see it that way ought to look again
+    - you ought to get to the doctor's and eventually he went and the doctor
+    - The first thought ought to always be: "How do we avoid this happening again?
+    - which could well come at a higher cost, or maybe ought to come at a higher cost because it's being
