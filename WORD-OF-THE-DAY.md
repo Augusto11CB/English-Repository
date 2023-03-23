@@ -133,3 +133,10 @@
     - you ought to get to the doctor's and eventually he went and the doctor
     - The first thought ought to always be: "How do we avoid this happening again?
     - which could well come at a higher cost, or maybe ought to come at a higher cost because it's being
+
+## 2023/03/23
+- sensible "vs" sensitive: People are not sensitive enough to the problem of pollution.
+- brought up "vs" grown up: He was brought up in Tunisia by a Sicilian mother.
+- raised "vs" risen: My income has risen very liitle in the last four years
+- economic "vs" economical: A bicycle is the most economical, the cheapest and the easiest to park.
+- lied "vs" lay: I lay down on the couch and cried.
