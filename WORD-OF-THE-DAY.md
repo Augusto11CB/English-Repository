@@ -140,3 +140,19 @@
 - raised "vs" risen: My income has risen very liitle in the last four years
 - economic "vs" economical: A bicycle is the most economical, the cheapest and the easiest to park.
 - lied "vs" lay: I lay down on the couch and cried.
+
+## 2023/03/24
+- revolutionised (p)
+- souring: to become bad or unpleasant, or cause someone to feel bad or unhappy
+- sought: Sought is the past tense of the verb "seek", which means to try to find or obtain something by searching.
+- misconstrued: to form a false understanding of the meaning or intention of something that someone does or says
+- nevertheless: Nevertheless is a conjunction used to indicate that something is true despite what has just been said or considered. It is usually used to introduce a contrasting idea or sentiment
+- example:
+    - if the media is to prevent its relationship with the public from souring, steps must be taken to ensure that people are properly rewarded for their work
+    - If the media published pictures from my Facebook page without permission, I would feel violated and angry. It would also make me feel like my privacy had been violated, and I would be concerned about how the pictures might be used or **misconstrued**.
+
+---  
+
+- if it **goes on** for too long, it will cause a lot of problems in the aquatic environment.
+- If it **lasts** too long, it will cause a lot of problems in the aquatic environment.
+- I was looking for some nice images to use in my PowerPoint presentation and I stumbled upon a great set of images that fit the same style of my presentation. When I tried to download the pictures, the website asked me to pay for them. It was a bit pricey, I think it was $42, so I **gave up on** the set of pictures I found because I couldn't afford to buy them.
