@@ -156,3 +156,9 @@
 - if it **goes on** for too long, it will cause a lot of problems in the aquatic environment.
 - If it **lasts** too long, it will cause a lot of problems in the aquatic environment.
 - I was looking for some nice images to use in my PowerPoint presentation and I stumbled upon a great set of images that fit the same style of my presentation. When I tried to download the pictures, the website asked me to pay for them. It was a bit pricey, I think it was $42, so I **gave up on** the set of pictures I found because I couldn't afford to buy them.
+
+## 2023/03/25
+- Loquacious: (adjective) Talkative; garrulous. Example: She was very loquacious and kept talking for hours
+- Permeate: (verb) To spread or flow through; permeate. Example: The smell of smoke permeated the entire house.
+- Prevalent: (adjective) Widespread; common. Example: The prevailing opinion in the room was that the plan was flawed.
+- Substantiate: (verb) To support with evidence; to prove. Example: He was able to substantiate his claim with documents.
