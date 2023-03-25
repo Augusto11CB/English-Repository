@@ -59,7 +59,7 @@
   - b When I’m 25, I’ll have been working abroad for several years.
     - I have already started or will start working abroad several years before I’m 25. (Future perfect continuous)
 
-## Describe important past events in your life
+## Describe important past events in your life and likely futures events
 In 2005 I was 8 years old. At that time, I was studying at Colégio Cavlac. Since that time I have been interested in technology.
 
 In 2014, I **attended** a private school called Colégio Argumento. I **used to** walk to and from school every day. Although I **had been playing** video games since 2010, that year, I found myself playing video games far more than I should have. The turning point for me to break free from the  grips of this addiction was after I failed my college entrance exams. Since then, I have been avoiding playing games. 
@@ -70,4 +70,31 @@ In 2016, I was accepted into one of the most prestigious universities in Brazil 
 
 Being accepted by USP was a thrilling achievement for me. When I look back on how hard I worked to earn the opportunity to study in that university, it still gives me goosebumps to this day.
 
-2018 was a year very special for me because I got my first job as a software developer. Before that, I worked as a salesman for my family's bakery.
+2018 was a year very special for me because I got my first job as a software developer, I was hired by LG Eletronics as an intern. Before that, I worked as a salesman.
+
+2019 (past)
+
+2020 (past)
+
+2021 (past)
+
+2023 (present)
+
+2024 (future)
+
+2030 (future)
+
+## Grammar: Review of past, present & future tenses
+### Future Perfect
+When use future perfect.?
+
+The future perfect is used to describe an action that will be completed before a certain time in the future. It can also be used to describe actions that will have taken place at some point in the future, indicating that the action has already been completed before the point in time being discussed.
+
+For example, "By the end of the month, I will have written three essays for my coursework." This indicates that the essays have been written before the end of the month, and that they are already completed.
+
+Examples of the future perfect use include: 
+
+- "By the end of the week, I will have finished all my homework."
+- "By the time the party starts, I will have cleaned the entire house."
+- "By Sunday, I will have completed my project."
+- "By the end of the year, I will have saved enough money for a new car."
