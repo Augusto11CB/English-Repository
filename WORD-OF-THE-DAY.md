@@ -162,3 +162,16 @@
 - Permeate: (verb) To spread or flow through; permeate. Example: The smell of smoke permeated the entire house.
 - Prevalent: (adjective) Widespread; common. Example: The prevailing opinion in the room was that the plan was flawed.
 - Substantiate: (verb) To support with evidence; to prove. Example: He was able to substantiate his claim with documents.
+
+## 2023/03/26
+- use is the acting of use something
+- When should I use one and when should I use the other?
+- Pervasive: present or spread throughout
+- Pursue: to follow something with the intention of achieving it
+- **Surmise**: to form an opinion or conclusion without having complete information
+
+- example: 
+    - This feeling of hopelessness was pervasive throughout the town
+    - She pursued her dream of becoming a doctor
+    - I surmised that he was not interested in the job
+    - They surmised, the pancreas produced something that prevented diabetes.
