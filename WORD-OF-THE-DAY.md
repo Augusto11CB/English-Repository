@@ -175,3 +175,10 @@
     - She pursued her dream of becoming a doctor
     - I surmised that he was not interested in the job
     - They surmised, the pancreas produced something that prevented diabetes.
+
+## 2023/03/27
+- Each one more beautiful than the other.
+- gives off
+- example:
+  - I like this drawing because the man portrayed by Anita Malfatti looks so confident and serious. He gives off the feeling that he is in control of the situation. It's a pretty interesting drawing, **I must say**.
+  - I like this drawing because the man portrayed by Anita Malfatti looks so confident and serious. He **conveys** the feeling that he is in control of the situation. **It's a rather interesting drawing, I have to say.**
