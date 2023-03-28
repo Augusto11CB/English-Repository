@@ -180,5 +180,17 @@
 - Each one more beautiful than the other.
 - gives off
 - example:
-  - I like this drawing because the man portrayed by Anita Malfatti looks so confident and serious. He gives off the feeling that he is in control of the situation. It's a pretty interesting drawing, **I must say**.
+  - I like this drawing because the man portrayed by Anita Malfatti looks so confident and serious. He **gives off** the feeling that he is in control of the situation. It's a pretty interesting drawing, **I must say**.
   - I like this drawing because the man portrayed by Anita Malfatti looks so confident and serious. He **conveys** the feeling that he is in control of the situation. **It's a rather interesting drawing, I have to say.**
+
+## 2023/03/28
+- alternatives for stupid:
+  - dumb
+  - silly
+  - foolish (ex: That is a very foolish decision, I think)
+  - dense (ex: Are you dense?)
+  - daft (ex: He has been poisoned you daft dimbo)
+- let's go eat --> let's go grab a bit
+- you did it very well --> you knocked it out of the park
+- I'm starting to like it --> It's growing on me
+- We don't agree --> We don't see eye to eye
