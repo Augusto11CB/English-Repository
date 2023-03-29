@@ -194,3 +194,19 @@
 - you did it very well --> you knocked it out of the park
 - I'm starting to like it --> It's growing on me
 - We don't agree --> We don't see eye to eye
+
+## 2023/03/29
+- Good idea --> Good call
+- I didn't hear that --> I didn't quite catch that
+- You are annoying me --> I are getting on my nerves
+- I fell asleep immediately --> I went out like a light
+- To summarize --> In a nutshell
+- Kitchen utensils
+  - whisk
+  - (frying) pan
+  - ladle
+  - grader
+  - peeler
+  - cutting board
+  - rolling pin
+
