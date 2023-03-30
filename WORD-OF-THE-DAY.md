@@ -210,3 +210,17 @@
   - cutting board
   - rolling pin
 
+
+## 2023/03/30
+- Alternatives for "I agree":
+  - We're on the same page
+  - My thoughts exactly
+  - I concur
+  - You took the words right out of my mouth
+  - Tell me about it (A: "I like dog sister, but it can be really annoying sometimes" B: "Yeah, tell me about it")
+  - I second that
+
+- ~~How does it look like~~ ==> **What** does it look like?
+- ~~Every student like the teacher~~ ==> Every student **likes** the teacher
+- ~~I have a good news~~ ==> I have good news
+- ~~My birth day is in September 21~~  ==> My birth day is **on** September 21
