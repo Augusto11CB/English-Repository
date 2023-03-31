@@ -224,3 +224,19 @@
 - ~~Every student like the teacher~~ ==> Every student **likes** the teacher
 - ~~I have a good news~~ ==> I have good news
 - ~~My birth day is in September 21~~  ==> My birth day is **on** September 21
+
+## 2023/03/31
+- Alternatives for toilet:
+  - Bathroom (US)
+  - Restroom (US)
+  - Ladies' room
+  - men's room
+  - loo (UK) (ex: I'm gonna go to the loo)
+  - lavaroty
+  - john (US slang) (ex: I gotta use your **john**)
+
+- Washbasin
+- go to bed --> hit the sack
+- very happy --> over the moon
+- wait a moment --> hold your horses
+- the secret's out --> the cat's out of the bag
