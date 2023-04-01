@@ -240,3 +240,31 @@
 - very happy --> over the moon
 - wait a moment --> hold your horses
 - the secret's out --> the cat's out of the bag
+
+## 2023/04/01
+- wolf down: eat very quickly
+- chicken out: not dare to do something, because you are too afraid
+- rabbit on: to talk for a long time about something someone is not interest in 
+- beaver away: to work very hard
+- beetle off: leave suddenly
+- examples:
+  - you really wolfed that meal down
+  - let's go skydiving. You won't chicken out, will you?
+  - I hate when you rabbit about cars
+  - She beavers away every single day to pass the exam
+  - Click subscribe before you beetle off
+
+- ask --> enquire
+- buy --> purchase
+- anyway --> nevertheless
+- need --> require
+- get --> obtain
+- job --> occupation
+- live --> reside
+- seem --> appear
+- tell --> inform
+- help --> assist
+- think --> consider
+- let --> permit
+
+## ## 2023/04/02
