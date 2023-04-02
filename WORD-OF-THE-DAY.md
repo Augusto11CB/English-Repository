@@ -267,4 +267,8 @@
 - think --> consider
 - let --> permit
 
-## ## 2023/04/02
+## 2023/04/02
+- lifelong learner
+- bedridden:  refers to a person who is confined to bed due to illness, injury, or infirmity
+- examples:
+  - The patient was bedridden for several weeks after the surgery.
