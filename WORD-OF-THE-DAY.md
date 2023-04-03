@@ -272,3 +272,8 @@
 - bedridden:  refers to a person who is confined to bed due to illness, injury, or infirmity
 - examples:
   - The patient was bedridden for several weeks after the surgery.
+
+## 2023/04/03
+Why is the word "live" followed by "ing" in the sentence: "Read about living abroad"?
+
+> The word "living" in the sentence "read about living abroad" is used as a **present participle**, which is formed by adding "-ing" to the base form of the verb. In this case, the base form of the verb is "live." The present participle "living" is used to describe the act of living abroad, which is the subject of the sentence. It is used to indicate that the subject is currently happening or ongoing. The sentence means "read about the experience of currently living abroad."
