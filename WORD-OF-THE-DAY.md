@@ -277,3 +277,15 @@
 Why is the word "live" followed by "ing" in the sentence: "Read about living abroad"?
 
 > The word "living" in the sentence "read about living abroad" is used as a **present participle**, which is formed by adding "-ing" to the base form of the verb. In this case, the base form of the verb is "live." The present participle "living" is used to describe the act of living abroad, which is the subject of the sentence. It is used to indicate that the subject is currently happening or ongoing. The sentence means "read about the experience of currently living abroad."
+
+## 2023/04/04
+### Prepositions + verb + ing
+Prepositions are words that show the relationship between a noun or pronoun and other words in a sentence. They usually come before a noun and tell you information about time, place, or direction. When a preposition is followed by a verb, the verb must be in the -ing form (also known as the gerund form). For example: “I am thinking of going to the beach.” “She is good at playing the piano.” “He is interested in learning Spanish.
+
+Examples of prepositions followed by verbs in the -ing form:
+
+- “He is afraid of flying.”
+- “She is tired of waiting.”
+- “They are excited about going on vacation.”
+- “I am used to waking up early.”
+- “She is capable of winning the race.”
