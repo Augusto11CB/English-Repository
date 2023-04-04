@@ -299,3 +299,8 @@ Examples of prepositions followed by verbs in the -ing form:
   -  a barren mind
   -  I refuse to stoop to your baser level of name-calling and insults
   -  He gave in to his baser instincts and cheated on the test
+
+## 2023/04/06
+- gap year: a year's break taken by a student between leaving school and starting further education. 
+- examples: 
+  - I didn't take a gap year. Did you?
