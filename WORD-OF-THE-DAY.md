@@ -289,3 +289,13 @@ Examples of prepositions followed by verbs in the -ing form:
 - “They are excited about going on vacation.”
 - “I am used to waking up early.”
 - “She is capable of winning the race.”
+
+## 2023/04/05
+- baser: The word "baser" is the comparative form of the adjective "base," which means low in quality or lacking moral principles
+- barren: it can also be used more broadly to describe something that is unproductive, unfruitful, or lacking in interest or insigh
+- examples:
+  -  writing barren of insight
+  -  a barren routine 
+  -  a barren mind
+  -  I refuse to stoop to your baser level of name-calling and insults
+  -  He gave in to his baser instincts and cheated on the test
