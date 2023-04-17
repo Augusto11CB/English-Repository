@@ -304,3 +304,18 @@ Examples of prepositions followed by verbs in the -ing form:
 - gap year: a year's break taken by a student between leaving school and starting further education. 
 - examples: 
   - I didn't take a gap year. Did you?
+
+## 2023/04/17
+- whilst: it means the same as the conjunction while
+- negligible (p): An amount or effect that is negligible is so small that it is not worth considering or worrying about
+- well-off: someone who is well-off is rich enough to be able to do and buy most of the things that they want
+- rung: a rung is one of the horizontal steps of a ladder
+- reap: obtain, win
+- commendable: deserving praise
+- enhance: to improve or increase the quality, value, or attractiveness of something
+
+- examples:
+  - your enthusiasm is highly commendable
+  - You must act ethically in favour of those less well-off
+  - Those who volunteer will continue to reap its benefits, using host organisations and host communities as a **rung** on the ladder of personal advancement
+  - Adding a dash of cinnamon to the recipe can enhance the flavor of the dish
