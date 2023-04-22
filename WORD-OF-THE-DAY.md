@@ -319,3 +319,12 @@ Examples of prepositions followed by verbs in the -ing form:
   - You must act ethically in favour of those less well-off
   - Those who volunteer will continue to reap its benefits, using host organisations and host communities as a **rung** on the ladder of personal advancement
   - Adding a dash of cinnamon to the recipe can enhance the flavor of the dish
+
+## 2023/04/22
+- disgruntled: Angry or dissatisfied.
+- Hit you in the feels: To induce an emotional reaction in someone.
+- stir up: to cause (someone) to feel a strong emotion and a desire to do something
+- example:
+  - When Windu spoke, I was a bit disgruntled
+  - I was never Ahsoka's biggest fan, but this part hit me in the feels
+  - While I wasn't necessarily Ahsoka's biggest admirer, this particular scene stirred up strong emotions within me
