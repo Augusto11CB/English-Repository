@@ -328,3 +328,12 @@ Examples of prepositions followed by verbs in the -ing form:
   - When Windu spoke, I was a bit disgruntled
   - I was never Ahsoka's biggest fan, but this part hit me in the feels
   - While I wasn't necessarily Ahsoka's biggest admirer, this particular scene stirred up strong emotions within me
+
+## 2023/04/24
+- accrue: to increase in number or amount over a period of time
+- eschew: to avoid something intentionally, or to give something up
+- stranded: unable to leave somewhere because of a problem such as not having any transport or money
+
+- example: 
+  - He left me stranded in town with no car and no money for a bus
+
