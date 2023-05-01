@@ -104,6 +104,29 @@ Being accepted by USP was a thrilling achievement for me. When I look back on ho
    - Notwithstanding the fact that the project was over budget and behind schedule, the team was able to deliver the product on time
    - Notwithstanding the economic downturn, the company was able to remain profitable
 ## Grammar: Review of past, present & future tenses
+### Refering to the present
+- present simple
+- present continuous 
+- present perfect
+
+#### Present Simple
+1. To refer to **routine actions** or **habits**
+Example: 
+    - Stefan goes to the cinema most weekends
+    - I watch the news every morning
+    - I eat banana for breakfest every day
+2. To refer to repeated events:
+Example: 
+    - Tropical storms often occur in Caribbean
+    - This lecture occur every four months
+    - TThe safety assessment takes place monthly.
+3. to show a situation is regarded as permanent:
+Example:
+    - Sara works for a small TV production company
+4. to show that something is always true, or a definite fact:
+Example:
+    - Two and two make four
+    - The sun always rises in the east and sets in the west
 ### Future Perfect
 When use future perfect.?
 
