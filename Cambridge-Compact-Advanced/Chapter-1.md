@@ -127,6 +127,33 @@ Example:
 Example:
     - Two and two make four
     - The sun always rises in the east and sets in the west
+
+#### Present Continuous
+1. To describe an action that is happening now:
+Example:
+    - This storm is causing damage all over the contry
+    - I'm preparing my dinner right now, Can I call you later?
+2. for a temporary situation
+Example:
+    -  I'm using Jacks's car while he is on holiday
+    -  I'm reading this book, while we are wihout eletricity
+3. for changes or developing situations
+Example:
+    - The number of hurricanes is increasing year on year
+    - The rapid growth of our cities is contributing to rising deforestation rates.
+4. with always or foverer to express irritation
+    - The editor is always/forever making me rewrite the articles I submit.
+    - My neighbour's rooster is always waking me up at dawn.
+
+**active verbs vs stative verbs**
+- The present continuous is normally used with active verbs:
+    - The editor is talking to the sports journalists at the moment.
+
+- It is not normally used with stative verbs:
+    - The head of the TV channel ~~isn’t believing~~ Perfect this programme is too controversial to be broadcast. 
+
+- HOWEVER, stative verbs can be used in their present continuous form when they describe actions:
+    - What are you having for lunch? (In this sentence "having" means "to eat")
 ### Future Perfect
 When use future perfect.?
 
