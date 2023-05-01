@@ -337,3 +337,9 @@ Examples of prepositions followed by verbs in the -ing form:
 - example: 
   - He left me stranded in town with no car and no money for a bus
 
+## 2023/05/01
+- till: Up to (the point in time or the event mentioned); until.
+- dawn: The first appearance of light in the sky before sunrise.
+- How long does it take Jupiter to complete one orbit around the Sun?
+- example:
+  - We were in the shop till like 1:00 in the morning.
