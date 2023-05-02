@@ -154,6 +154,22 @@ Example:
 
 - HOWEVER, stative verbs can be used in their present continuous form when they describe actions:
     - What are you having for lunch? (In this sentence "having" means "to eat")
+
+#### Present Perfect
+1. To refer to the **present result of a past action** or **event**
+Example:
+    - I can't phone for an ambulance - I have lost my cellphone
+2. To show that an event or action that started in the past has continued until the present
+    - Thousands of homes have been built in this town in the last few years and many more are planned
+3. To refer to an event or action that happended at an unspecified time in a period up to now
+    - I have seen that movie already
+4. To focus on the number of times an action has been repeated
+    - I have read this article ten times and I still don't understand it
+
+#### Present Perfect Continuous
+The present perfect continuous is used to refer to an event or action that started in the past and has continued until the present. While the present perfect focuses on a completed action, the present perfect continuous usually focuses on one that is ongoing:
+    - I’ve written the article. (It’s finished.)
+    - I’**ve been writing** the article all morning. (It probably isn’t finished.)
 ### Future Perfect
 When use future perfect.?
 
