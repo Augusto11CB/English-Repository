@@ -144,13 +144,14 @@ Example:
 4. with always or foverer to express irritation
     - The editor is always/forever making me rewrite the articles I submit.
     - My neighbour's rooster is always waking me up at dawn.
+    - I hate this situation, my notebook is alwats freezing due to its lack of memory ram
 
 **active verbs vs stative verbs**
 - The present continuous is normally used with active verbs:
     - The editor is talking to the sports journalists at the moment.
 
 - It is not normally used with stative verbs:
-    - The head of the TV channel ~~isn’t believing~~ Perfect this programme is too controversial to be broadcast. 
+    - The head of the TV channel ~~isn’t believing~~ this programme is too controversial to be broadcast. 
 
 - HOWEVER, stative verbs can be used in their present continuous form when they describe actions:
     - What are you having for lunch? (In this sentence "having" means "to eat")
@@ -170,6 +171,60 @@ Example:
 The present perfect continuous is used to refer to an event or action that started in the past and has continued until the present. While the present perfect focuses on a completed action, the present perfect continuous usually focuses on one that is ongoing:
     - I’ve written the article. (It’s finished.)
     - I’**ve been writing** the article all morning. (It probably isn’t finished.)
+
+### Refering to the past
+- past simple
+- past continuous
+- past perfect
+- past perfect continuous
+
+#### Past Simple
+1. the past simple is used for past events, actions or habits. Is is normally used with a specific time reference (a week ago, in 2020, when I lived abroad):
+    - we last experienced a tropical storm only a week ago
+    - I always watched the TV news when I lived abroad
+
+#### Past Continuous
+1. To show a continued action which was happening **when another action took place**:
+    - The magazine was launched just when the sales of news magazines were **falling** (1º: magazine sales falling; 2º launch of a brand new magazine)
+    - The phone rang when I was watching an interesting documentary on TV (1º I was watching TV; 2º the phone started to ring)
+    - What were you doing when I called you?
+    - Was she studying when her friends came over?
+2. To refer to two **actions happening** at the **same time** in the **past**
+    - While some journalists were discussing the latest development, others were watching the breaking news online
+    - While I was cooking the recipe, my sister was gathering extra ingrediantes to prepare our dinner
+    - Why was he feeling so tired when he went to bed?
+    - Was she working on that project when you arrived? 
+
+#### Past Perfect
+1. It is used to show that an **ation happened earlier than another** past action; it makes the sequence of events clear
+    - I didn't watch the programme about hurricanes on TV last night, because I had already seen a simillar programme
+    - They had already eaten by the time we arrived
+    - I did not have any money because I had lost my wallet
+    - I had never seen such a beautiful beach before I went to Kauai.
+    - Had Susan ever studied Thai before she moved to Thailand?
+    - Had you ever visited New York before you moved there?
+    - Where had she put her keys before she left the house?
+    - Had they finished their homework before they went to the park?
+
+#### Past Perfect Continuous
+1. To refer to an action that happened during a period leading up to another past action
+    - The newspaper **had been losing** so much money that the owner decided to close it down (1º newspaper losing money; 2º decision to close newspapper)
+    - They had been talking for over an hour before Tony arrived
+    - Mike wanted to sit down because he had been standing all day at work
+    - Why had he been feeling so tired before he went to bed?
+
+
+2. To show **how long an action continued until a certain point** in the past
+    - The reporters **had been following** the film star for days before they were able to interview her
+    - She had been working at that company for three years when it went out of business
+    - James **had been teaching** at the university for more than a year before he left for Asia
+    - Had she been working on that project for many hours when she finished it?
+    - Had they been playing soccer all afternoon when it started to rain?
+
+
+
+
+
 ### Future Perfect
 When use future perfect.?
 
