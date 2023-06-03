@@ -241,10 +241,10 @@ https://www.youtube.com/watch?v=cxo5KhFgkWk
 
 **TODO**
 
-![Untitled](Unit%202%20499d7727cf754f55bb405b715c8ccc07/Untitled%202.png)
+![Untitled](./resources/Untitled%202.png)
 
 **DONE**
 
-![Untitled](Unit%202%20499d7727cf754f55bb405b715c8ccc07/Untitled%203.png)
+![Untitled](./resources/Untitled%203.png)
 
-![Untitled](Unit%202%20499d7727cf754f55bb405b715c8ccc07/Untitled%204.png)
+![Untitled](./resources/Untitled%204.png)
