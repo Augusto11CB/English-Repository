@@ -3,6 +3,8 @@
     + [Present Participle Active](#present-participle-active)
     + [Perfect Participle (Active)](#perfect-participle--active-)
     + [Perfect Participle (Passive)](#perfect-participle--passive-)
-    + [**Past Participle**](#--past-participle--)
+    + [Past Participle](#--past-participle--)
     + [Examples of Participle clauses](#examples-of-participle-clauses)
     + [Exercise Participle clauses (1)](#exercise-participle-clauses--1-)
+  + [Prefixes and Suffixes (Reading and Use of English)]()
+
