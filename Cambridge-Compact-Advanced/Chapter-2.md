@@ -7,4 +7,6 @@
     + [Examples of Participle clauses](#examples-of-participle-clauses)
     + [Exercise Participle clauses (1)](#exercise-participle-clauses--1-)
   + [Prefixes and Suffixes (Reading and Use of English)]()
-
+  + [Making comparisons (Speaking) (Grammar)]()
+    + [Reference “[english-at-home.com](http://english-at-home.com)”]
+    + [Saying two things are similar]()
