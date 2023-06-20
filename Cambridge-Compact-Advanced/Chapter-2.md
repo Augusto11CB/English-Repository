@@ -10,3 +10,6 @@
   + [Making comparisons (Speaking) (Grammar)]()
     + [Reference “[english-at-home.com](http://english-at-home.com)”]
     + [Saying two things are similar]()
+    + [Exercise “Making Comparisons” (1)]()
+  + [Speaking Activity]()
+    + [Recording Script]()
