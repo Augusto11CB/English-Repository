@@ -115,29 +115,29 @@ Example:
     - Stefan goes to the cinema most weekends
     - I watch the news every morning
     - I eat banana for breakfest every day
-2. To refer to repeated events:
+2. To refer to **repeated events**:
 Example: 
     - Tropical storms often occur in Caribbean
     - This lecture occur every four months
     - TThe safety assessment takes place monthly.
-3. to show a situation is regarded as permanent:
+3. to show a **situation is regarded as permanent**:
 Example:
-    - Sara works for a small TV production company
-4. to show that something is always true, or a definite fact:
+    - Snakes live on the ground, in trees and in water
+4. to show that something is **always true**, or a **definite fact**:
 Example:
     - Two and two make four
     - The sun always rises in the east and sets in the west
 
 #### Present Continuous
-1. To describe an action that is happening now:
+1. To describe an **action that is happening now**:
 Example:
     - This storm is causing damage all over the contry
     - I'm preparing my dinner right now, Can I call you later?
-2. for a temporary situation
+2. for a **temporary situation**
 Example:
     -  I'm using Jacks's car while he is on holiday
     -  I'm reading this book, while we are wihout eletricity
-3. for changes or developing situations
+3. for changes or **developing situations**
 Example:
     - The number of hurricanes is increasing year on year
     - The rapid growth of our cities is contributing to rising deforestation rates.
@@ -147,6 +147,8 @@ Example:
     - I hate this situation, my notebook is alwats freezing due to its lack of memory ram
 
 **active verbs vs stative verbs**
+- definition: Active verbs express a physical or mental action, such as run, jump, swim, cook, think, or decide. Stative verbs express a state or condition, such as feel, know, love, own (state of possetion), or belong
+
 - The present continuous is normally used with active verbs:
     - The editor is talking to the sports journalists at the moment.
 
@@ -160,11 +162,11 @@ Example:
 1. To refer to the **present result of a past action** or **event**
 Example:
     - I can't phone for an ambulance - I have lost my cellphone
-2. To show that an event or action that started in the past has continued until the present
+2. To show that an **event or action that started in the past has continued until the present**
     - Thousands of homes have been built in this town in the last few years and many more are planned
-3. To refer to an event or action that happended at an unspecified time in a period up to now
+3. To refer to an **event or action that happended at an unspecified time in a period up to now**
     - I have seen that movie already
-4. To focus on the number of times an action has been repeated
+4. To **focus on the number of times an action has been repeated**
     - I have read this article ten times and I still don't understand it
 
 #### Present Perfect Continuous
@@ -220,10 +222,6 @@ The present perfect continuous is used to refer to an event or action that start
     - James **had been teaching** at the university for more than a year before he left for Asia
     - Had she been working on that project for many hours when she finished it?
     - Had they been playing soccer all afternoon when it started to rain?
-
-
-
-
 
 ### Future Perfect
 When use future perfect.?
