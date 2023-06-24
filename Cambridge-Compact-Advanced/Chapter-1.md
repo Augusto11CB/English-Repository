@@ -12,8 +12,10 @@
   - The speed and intensity of the wildfire *left the residents feeling* **distressed** and helpless as they watched their homes and community burn to the ground.
 - helpless
 - hysterical
+    - On hearing the news, they became hysterical.
 - irritated
 - overwhelmed
+    - Rodrigo was overwhelmed by the thousands of tasks he received on his return from holiday.
 - speechless
 - oil spill
 
@@ -25,7 +27,7 @@
     - (Present continuous) I’m seeing them next weekend – an arrangement.
 - 2 
   - a The theme tune began when the programme ended.
-    - (Past simple) The theme tune began immediately after the end of the programme. 
+    - (Past simple) The theme tune **began immediately after the end** of the programme. 
   - b The theme tune had begun when the programme ended.
     - (Past perfect) The theme tune **had already begun** before the programme ended.
 - 3 
@@ -70,9 +72,9 @@ In 2016, I was accepted into one of the most prestigious universities in Brazil 
 
 Being accepted by USP was a thrilling achievement for me. When I look back on how hard I worked to earn the opportunity to study in that university, it still gives me goosebumps to this day.
 
-2018 was a year very special for me because I got my first job as a software developer, I was hired by LG Eletronics as an intern. Before that, I worked as a salesman.
+2017 was a year very special for me because I got my first job as a software developer, I was hired by LG Eletronics as an intern. Before that, I worked as a salesman.
 
-2019 (past)
+In 2018/2019, I received my first full-time job offer. The company that made the offer was the largest investment bank in Latim America, BTG Pactual. I was really impressed by the opportunity, the salary and the benefits. The position I was offered was an entry-level position as a software developer position to work on one of BTG's biggest projects, building its digital bank system. At the time I hadn't (~~haven't~~) yet graduated from the university, therefore I had to juggle (~~conciliante~~) my studies with my full-time job, which was really hard, because the remaining university disciplines were higly demanding as was (~~as well as~~) my job, which required a lot of overtime (~~several extra-hours~~) due to its complexity and aggressive deadlines (~~due-dates~~). I almost failed in some of the disciplines(~~got repproved in some disciplines(~~) I was enrolled in university, however I manage to score the bare minimum to be approved in the final exams. After a lot of hard-work and suffering (lol) I manage to graduate at the end of 2019, ranked 10th in my class. I was really relieved to graduate, because it was one of my greatest challenges so far in my life, also I was overjoyed to be able to graduate from USP without failing once in any discipline (~~without beeing reproved in any discipline once~~). 
 
 2020 (past)
 
@@ -80,9 +82,7 @@ Being accepted by USP was a thrilling achievement for me. When I look back on ho
 
 2023 (present)
 
-2024 (future)
-
-2030 (future)
+By 2024, I will have been working as an SDE for almost 8 years. I hope to be working abroad or remotely for an international company. Also, I hope to have obtained my Cambridge, AWS, and Java certificates 
 
 ## Contrast Links
 - Whereas
