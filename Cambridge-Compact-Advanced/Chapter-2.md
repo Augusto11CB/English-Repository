@@ -1,6 +1,5 @@
 # [Chapter 2](https://sixth-gibbon-10e.notion.site/Chapter-2-5086fd43e8f244bcafeef08a69d3f496?pvs=4)
-
-## [**Participle Clauses**](https://www.notion.so/Chapter-2-5086fd43e8f244bcafeef08a69d3f496?pvs=4#23eaf16b125549149f3bca667da765f7)
+  * [Participle clauses (Grammar)](#participle-clauses--grammar-)
     + [Present Participle Active](#present-participle-active)
     + [Perfect Participle (Active)](#perfect-participle--active-)
     + [Perfect Participle (Passive)](#perfect-participle--passive-)
