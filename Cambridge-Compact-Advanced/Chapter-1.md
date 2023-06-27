@@ -103,6 +103,9 @@ By 2024, I will have been working as an SDE for almost 8 years. I hope to be wor
 - Notwithstanding 
    - Notwithstanding the fact that the project was over budget and behind schedule, the team was able to deliver the product on time
    - Notwithstanding the economic downturn, the company was able to remain profitable
+- Conversely
+    - The Government claims the country is a democracy. Conversely, it bans all oposition
+    - Poor health is accepted as an attribute of normal ageing. Conversely, youth is depicted as a time of vitality and good health.
 ## Grammar: Review of past, present & future tenses
 ### Refering to the present
 - present simple
