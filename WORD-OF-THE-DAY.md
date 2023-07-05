@@ -341,5 +341,14 @@ Examples of prepositions followed by verbs in the -ing form:
 - till: Up to (the point in time or the event mentioned); until.
 - dawn: The first appearance of light in the sky before sunrise.
 - How long does it take Jupiter to complete one orbit around the Sun?
+
 - example:
   - We were in the shop till like 1:00 in the morning.
+
+## 2023/07/05
+- the/your average bear: a person who is not unusual in any way, for example not especially intelligent, interesting, etc.
+
+- example:
+  - I like to think I'm smarter than the average bear.
+  - I am not your average bear.
+  - Your skills may get you up to speed more swiftly than the average bear.
