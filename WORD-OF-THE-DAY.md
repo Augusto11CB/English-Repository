@@ -352,3 +352,13 @@ Examples of prepositions followed by verbs in the -ing form:
   - I like to think I'm smarter than the average bear.
   - I am not your average bear.
   - Your skills may get you up to speed more swiftly than the average bear.
+
+
+## 2023/07/06
+- unabashed: If you describe someone as unabashed, you mean that they are not ashamed, embarrassed, or shy about something, especially when you think most people would be.
+- Unwavering: If you describe a feeling or attitude as unwavering, you mean that it is strong and firm and does not weaken.
+
+- example: 
+  - He seems unabashed by his recent defeat.
+  - You should answer this question in an unabashed manner. 
+  - His unwavering commitment to public education.
