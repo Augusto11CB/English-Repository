@@ -1,1 +1,12 @@
-# Chapter 3
+- [3️⃣Chapter 3](https://sixth-gibbon-10e.notion.site/3-Chapter-3-1a1726cb4f7b4e28b396da8057693ef9)
+  * [Collocations (Grammar) (Vocabulary)](#collocations--grammar---vocabulary-)
+    + + [Exercises](#exercises) 
+  * [Reported speech (Grammar)](#reported-speech--grammar-)
+    + [Tense Changes (Backshifting)](#tense-changes--backshifting-)
+    + [Backshifting is usually avoided](#backshifting-is-usually-avoided)
+    + [Reported Questions](#reported-questions)
+    + [Reported Requests](#reported-requests)
+    + [Reported Commands](#reported-commands)
+    + [Time references](#time-references)
+    + [Place references](#place-references)
+    + [Exercises](#exercises)
