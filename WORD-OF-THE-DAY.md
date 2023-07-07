@@ -362,3 +362,11 @@ Examples of prepositions followed by verbs in the -ing form:
   - He seems unabashed by his recent defeat.
   - You should answer this question in an unabashed manner. 
   - His unwavering commitment to public education.
+
+## 2023/07/07
+- make a row: make a noise or commontion | make a vigorous protest
+
+- example:
+  - people who lived near where they met used to complain about the row they mande
+  - I was quite comfortable -- I kicked up a row out of sheer boredom
+  - Today he started a row when he saw me in the canteen
