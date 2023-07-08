@@ -1,4 +1,21 @@
 # 1. Breaking News
+- [1. Breaking News](https://sixth-gibbon-10e.notion.site/1-Chapter-1-2131bbe658d948b2bc7933fafd562840?pvs=4)
+  - [Vocabulary](#vocabulary)
+  - [Explain the difference in meaning between sentences A and B and naming the different tenses used each time](#explain-the-difference-in-meaning-between-sentences-a-and-b-and-naming-the-different-tenses-used-each-time)
+  - [Describe important past events in your life and likely futures events](#describe-important-past-events-in-your-life-and-likely-futures-events)
+  - [Contrast Links](#contrast-links)
+  - [Grammar: Review of past, present \& future tenses](#grammar-review-of-past-present--future-tenses)
+    - [Refering to the present](#refering-to-the-present)
+      - [Present Simple](#present-simple)
+      - [Present Continuous](#present-continuous)
+      - [Present Perfect](#present-perfect)
+      - [Present Perfect Continuous](#present-perfect-continuous)
+    - [Refering to the past](#refering-to-the-past)
+      - [Past Simple](#past-simple)
+      - [Past Continuous](#past-continuous)
+      - [Past Perfect](#past-perfect)
+      - [Past Perfect Continuous](#past-perfect-continuous)
+    - [Future Perfect](#future-perfect)
 
 ## Vocabulary
 - alarmed
