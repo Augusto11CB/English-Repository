@@ -370,3 +370,12 @@ Examples of prepositions followed by verbs in the -ing form:
   - people who lived near where they met used to complain about the row they mande
   - I was quite comfortable -- I kicked up a row out of sheer boredom
   - Today he started a row when he saw me in the canteen
+
+## 2023/07/08
+- have one's wits about one: be constantly alert and vigilant.
+- wits: practical intelligence or understanding
+
+- example:
+  - a signalman had to have his wits about him
+  - Cycling is potentially very dangerous in the city - you have to keep your wits about you.
+  - She’s learned to survive on her wits.
