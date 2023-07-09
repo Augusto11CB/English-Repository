@@ -379,3 +379,18 @@ Examples of prepositions followed by verbs in the -ing form:
   - a signalman had to have his wits about him
   - Cycling is potentially very dangerous in the city - you have to keep your wits about you.
   - She’s learned to survive on her wits.
+
+## 2023/07/09
+- A Leopard Can’t Change His Spots: you cannot change who you are.
+- A Slap on the Wrist: A very mild punishment.
+- All Bark And No Bite: When someone is threatening and/or aggressive but not willing to engage in a fight.
+- Buy A Lemon: o purchase a vehicle that constantly gives problems or stops running after you drive it away.
+
+- Example:
+  - Even though Mr. Kyle has tried to get Mrs. Kyle to like fishing many times, it never works. I guess a leopard can’t change her spots. [mairovergara](https://www.mairovergara.com/a-leopard-cant-change-his-spots-o-que-significa-esta-expressao/)
+  - Samantha has always been a pessimistic person, and I guess she always will be because a leopard can’t change her spots. [mairovergara](https://www.mairovergara.com/a-leopard-cant-change-his-spots-o-que-significa-esta-expressao/)
+  - The fine they gave her is just more or less a slap on the wrist. 
+  - They rob someone on the street and they get a slap on the wrist – thirty days in jail.
+  - The basketball coach has a really loud voice and yells a lot, but really he’s all bark and no bite. [mairovergara](https://www.mairovergara.com/hes-all-bark-and-no-bite-o-que-significa-esta-expressao/)
+  - Mrs. Jerrison is all bark and no bite even though she seems like she’s always angry about something. [mairovergara](https://www.mairovergara.com/hes-all-bark-and-no-bite-o-que-significa-esta-expressao/)
+  - we bought a car that turned out to be a lemon and couldn’t afford to replace it. 
