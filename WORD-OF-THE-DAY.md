@@ -421,3 +421,11 @@ Examples of prepositions followed by verbs in the -ing form:
   - example:
   - People strolled in the street outside
 
+## 2023/07/15
+- ought to: used to say that it is necessary or desirable to perform the action expressed in the verb.
+- example:
+  - We ought not to be quarrelling now.
+  - This ought to be fun
+  - I realize I ought to have told you about it. 
+  - I think I ought to go.
+  - He ought to have reached the house some time ago. 
