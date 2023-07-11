@@ -414,3 +414,10 @@ Examples of prepositions followed by verbs in the -ing form:
 - tilting: to (cause to) move into a sloping position.
   - example:
     - "A robot seal can be picked up in online stores to sit and listen to elderly individuals talk, tilting its head and blinking in sympathy" - **tilting** means to incline or slant the head to one side. 
+
+
+## 2023/07/14
+- stroll: If you stroll somewhere, you walk there in a slow, relaxed way.
+  - example:
+  - People strolled in the street outside
+
