@@ -407,3 +407,10 @@ Examples of prepositions followed by verbs in the -ing form:
 - as often as:
   - example
     - All that said, the death of conversation has been announced **as often as** that of the book. 
+
+
+## 2023/07/13
+- Sloping position: (*posição inclinada*).
+- tilting: to (cause to) move into a sloping position.
+  - example:
+    - "A robot seal can be picked up in online stores to sit and listen to elderly individuals talk, tilting its head and blinking in sympathy" - **tilting** means to incline or slant the head to one side. 
