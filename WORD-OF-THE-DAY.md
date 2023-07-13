@@ -402,3 +402,8 @@ Examples of prepositions followed by verbs in the -ing form:
   - Somehow or other, we muddled our way through.
   - I don’t know how to keep score – I’ll just have to **muddle through**.
   - I'm afraid that somehow or other we spoiled the kids.
+
+## 2023/07/12
+- as often as:
+  - example
+    - All that said, the death of conversation has been announced **as often as** that of the book. 
