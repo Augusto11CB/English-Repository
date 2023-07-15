@@ -394,3 +394,11 @@ Examples of prepositions followed by verbs in the -ing form:
   - The basketball coach has a really loud voice and yells a lot, but really he’s all bark and no bite. [mairovergara](https://www.mairovergara.com/hes-all-bark-and-no-bite-o-que-significa-esta-expressao/)
   - Mrs. Jerrison is all bark and no bite even though she seems like she’s always angry about something. [mairovergara](https://www.mairovergara.com/hes-all-bark-and-no-bite-o-que-significa-esta-expressao/)
   - we bought a car that turned out to be a lemon and couldn’t afford to replace it. 
+
+## 2023/07/11:
+- Somehow or other: in a way that you do not know or understand.
+- muddle through: to manage to do something although you are not organized and do not know how to do it.
+- example:
+  - Somehow or other, we muddled our way through.
+  - I don’t know how to keep score – I’ll just have to **muddle through**.
+  - I'm afraid that somehow or other we spoiled the kids.
