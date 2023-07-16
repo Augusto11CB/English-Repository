@@ -210,7 +210,6 @@
   - cutting board
   - rolling pin
 
-
 ## 2023/03/30
 - Alternatives for "I agree":
   - We're on the same page
@@ -353,7 +352,6 @@ Examples of prepositions followed by verbs in the -ing form:
   - I am not your average bear.
   - Your skills may get you up to speed more swiftly than the average bear.
 
-
 ## 2023/07/06
 - unabashed: If you describe someone as unabashed, you mean that they are not ashamed, embarrassed, or shy about something, especially when you think most people would be.
 - Unwavering: If you describe a feeling or attitude as unwavering, you mean that it is strong and firm and does not weaken.
@@ -408,13 +406,11 @@ Examples of prepositions followed by verbs in the -ing form:
   - example
     - All that said, the death of conversation has been announced **as often as** that of the book. 
 
-
 ## 2023/07/13
 - Sloping position: (*posição inclinada*).
 - tilting: to (cause to) move into a sloping position.
   - example:
     - "A robot seal can be picked up in online stores to sit and listen to elderly individuals talk, tilting its head and blinking in sympathy" - **tilting** means to incline or slant the head to one side. 
-
 
 ## 2023/07/14
 - stroll: If you stroll somewhere, you walk there in a slow, relaxed way.
@@ -429,3 +425,8 @@ Examples of prepositions followed by verbs in the -ing form:
   - I realize I ought to have told you about it. 
   - I think I ought to go.
   - He ought to have reached the house some time ago. 
+
+## 2023/07/16
+- deceptively: in a way or to an extent that gives a misleading impression; to a lesser or greater extent than appears the case.
+- example:
+  - the idea was deceptively simple.
