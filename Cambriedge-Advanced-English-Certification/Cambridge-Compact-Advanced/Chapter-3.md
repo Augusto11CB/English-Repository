@@ -1,4 +1,4 @@
-- [3️⃣Chapter 3](#3--chapter-3)
+- [3️⃣Chapter 3](https://sixth-gibbon-10e.notion.site/3-Chapter-3-1a1726cb4f7b4e28b396da8057693ef9)
   * [Collocations (Grammar) (Vocabulary)](#collocations--grammar---vocabulary-)
     + [Exercises](#exercises)
   * [Reported speech (Grammar)](#reported-speech--grammar-)
