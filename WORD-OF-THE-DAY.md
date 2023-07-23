@@ -430,3 +430,19 @@ Examples of prepositions followed by verbs in the -ing form:
 - deceptively: in a way or to an extent that gives a misleading impression; to a lesser or greater extent than appears the case.
 - example:
   - the idea was deceptively simple.
+
+## 2023/07/23
+- agreeable: enjoyable and pleasurable; pleasant.
+- penance: Synonyms are atonement, punishment, penalty, reparation.
+- secular: (~laico) You use secular to describe things that have no connection with religion.
+- debauchery: You use debauchery to refer to the drinking of alcohol or to sexual activity if you disapprove of it or regard it as excessive.
+- endure: Synonyms are bear, go through, cope with, withstand.
+- undergo: If you undergo something necessary or unpleasant, it happens to you.
+- fast/fasting: to eat little or no food for a period of time, especially for religious reasons
+- example:
+  - He spoke about preserving the country as a secular state.
+  - a cheerful and agreeable companion.
+  - New recruits have been **undergoing** training in recent weeks.
+  - He **underwent** an agonising 48-hour wait for the results of tests.
+  - What universal debauchery this might portend for our nation.
+  - Can we not stop this debauchery of our morals before it starts?
