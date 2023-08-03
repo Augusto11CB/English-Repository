@@ -446,3 +446,13 @@ Examples of prepositions followed by verbs in the -ing form:
   - He **underwent** an agonising 48-hour wait for the results of tests.
   - What universal debauchery this might portend for our nation.
   - Can we not stop this debauchery of our morals before it starts?
+
+## 2023/08/03
+- lent: the 40 days before Easter when some Christians eat less food or stop doing something that they enjoy.
+- repentanced: when you are sorry for something wrong that you have done.
+- observed: **to do things and obey laws that are part of a religion or custom** | to do what you are supposed to do according to a law or agreement.
+- shepherdess: a woman whose job is to take care of sheep.
+- example:
+  - Thursday is Ascension Day, when the church **observes** the bodily ascension of Christ into heaven.
+  - He mentioned the possibility of sacramental confession at the time of Lent.
+  -  After the visions she'd become a shepherdess of souls, leading them to Our Lady and to repentance.
