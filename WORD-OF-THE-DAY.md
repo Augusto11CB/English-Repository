@@ -456,3 +456,14 @@ Examples of prepositions followed by verbs in the -ing form:
   - Thursday is Ascension Day, when the church **observes** the bodily ascension of Christ into heaven.
   - He mentioned the possibility of sacramental confession at the time of Lent.
   -  After the visions she'd become a shepherdess of souls, leading them to Our Lady and to repentance.
+
+## 2023/08/10
+- talk out of: If you talk someone out of doing something they want or intend to do, you persuade them not to do it.
+- turn down: If you turn down a person or their request or offer, you refuse their request or offer.
+- your guest is good as mine
+- I'm all done
+- I can't see that work
+- turns up
+- example:
+  - She couldn’t be talked out of resigning.
+  - She regrets turning down the offer of the job.
