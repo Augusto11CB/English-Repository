@@ -467,3 +467,16 @@ Examples of prepositions followed by verbs in the -ing form:
 - example:
   - She couldn’t be talked out of resigning.
   - She regrets turning down the offer of the job.
+
+## 2023/08/12
+- put on: It refers to the act of planning, arranging, and executing a parade or event.
+- take place throughout:  is used to describe events, activities, or occurrences that happen continuously or at various points within a specific time frame or location
+- compete **against** each other: implies that the competitors are on opposite sides and are trying to outdo each other.
+- conveyed: the meaning of "conveyed" can be understood as communicated or expressed | making known a story or message
+- outdo: If you outdo someone, you are a lot more successful than they are at a particular activity
+- (vie) vying: If one person or thing is vying with another for something, the people or things are competing for it.
+- examples:
+  - The judges will evaluate each parade to determine who has put on the best parade of the year.
+  - The conference will have workshops and presentations that take place throughout the day.
+  - The history of the town was conveyed during the parade through colorful floats and costumes.
+  - California is vying with other states to capture a piece of the growing communications market.
