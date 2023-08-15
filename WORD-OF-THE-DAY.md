@@ -488,3 +488,12 @@ Examples of prepositions followed by verbs in the -ing form:
   - raise a product’s profile.
   - an advertising campaign designed to raise the bank’s profile.
   - one bank had such huge debts it had to be bailed out by the government
+
+## 2023/08/15
+- dress up: to put on formal clothes for a special occasion.
+- dress down: to wear informal clothes.
+- dress someone down: to speak angrily to someone because they have done something wrong
+- example:
+  - You don't need to dress up to go to the mall - jeans and a T-shirt are fine.
+  - On casual Friday, office workers were allowed to dress down at the end of the working week.
+  - His boss dressed him down for showing up late.
