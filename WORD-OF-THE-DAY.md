@@ -492,8 +492,24 @@ Examples of prepositions followed by verbs in the -ing form:
 ## 2023/08/15
 - dress up: to put on formal clothes for a special occasion.
 - dress down: to wear informal clothes.
-- dress someone down: to speak angrily to someone because they have done something wrong
+- dress someone down: to speak angrily to someone because they have done something wrong.
 - example:
   - You don't need to dress up to go to the mall - jeans and a T-shirt are fine.
   - On casual Friday, office workers were allowed to dress down at the end of the working week.
   - His boss dressed him down for showing up late.
+
+## ## 2023/08/16
+- bogged down: be unable to move further. 
+- downward: extending or moving from a higher to a lower place. | on or toward a surface regarded as a base | spatially or metaphorically from a higher to a lower level or position
+- Query: Question.
+- Knotty: Puzzling. | A knotty problem is complicated and difficult to solve.
+- thorniest: If you describe a problem as thorny, you mean that it is very complicated and difficult to solve, and that people are often unwilling to discuss it.
+- example: 
+  - The car bogged down in the sand.
+  - the downward pull of gravity.
+  - prices plunged downward.
+  - The teacher could not think of a suitable reply of Adam's query.
+  - Whether the chicken or the egg came first has long been one of the Knottiest issues facing scientists.
+  - The new management team faces some knotty problems. 
+  - ...the thorny issue of immigration policy. 
+  - It is essential that we tackle this thorny problem. 
