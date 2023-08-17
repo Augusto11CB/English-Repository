@@ -498,7 +498,7 @@ Examples of prepositions followed by verbs in the -ing form:
   - On casual Friday, office workers were allowed to dress down at the end of the working week.
   - His boss dressed him down for showing up late.
 
-## ## 2023/08/16
+## 2023/08/16
 - bogged down: be unable to move further. 
 - downward: extending or moving from a higher to a lower place. | on or toward a surface regarded as a base | spatially or metaphorically from a higher to a lower level or position
 - Query: Question.
@@ -513,3 +513,20 @@ Examples of prepositions followed by verbs in the -ing form:
   - The new management team faces some knotty problems. 
   - ...the thorny issue of immigration policy. 
   - It is essential that we tackle this thorny problem. 
+
+## 2023/08/17
+- Uproarious: extremely noisy. | extremely funny.
+- Minute: extremely small.
+- Decor: the style and layout of an interior space.
+- example:
+  - I've never seen a person with such tiny hands - they're minute!
+  - The party was planned in the **minutest** detail.
+  - The documentary showed an eye operation in **minute** detail (= showing every small detail).
+  - I entered the market to find out that it was completely chaotic and **uproarious**.
+  - an **uproarious** debate.
+  - It's a very amusing play with an **uproarious** final act.
+  - The chance of success is a **minute** fraction of a percent.
+  - The price difference between the two products is **minute**, barely noticeable.
+  - The error in the calculation was so **minute** that it had no significant impact.
+  - The artist meticulously painted every **minute** brushstroke to create a lifelike portrait.
+  - Her bright and airy living room decor is the personification of spring.
