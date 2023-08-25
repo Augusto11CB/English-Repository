@@ -530,3 +530,16 @@ Examples of prepositions followed by verbs in the -ing form:
   - The error in the calculation was so **minute** that it had no significant impact.
   - The artist meticulously painted every **minute** brushstroke to create a lifelike portrait.
   - Her bright and airy living room decor is the personification of spring.
+
+## 2023/08/25
+- with a view to: If you do something with a view to doing something else, you do it because you hope it will result in that other thing being done.
+- other than: You use other than after a negative statement to say that the person, item, or thing that follows is the only exception to the statement.
+- let alone: Let alone is used after a statement, usually a negative one, to indicate that the statement is even more true of the person, thing, or situation that you are going to mention next.
+
+- example:
+  - Louise is saving up money **with a view to** buying a house.
+  - He has called a meeting of all parties, with a view to forming a government.
+  - Nathan has no income **other than** an allowance from his parents.
+  - The journey by road to Wolverhampton is not recommended to anyone other than the most experienced cyclist. 
+  - My dad rarely has a weekend off work, **let alone** a whole week.
+  - It is incredible that the 12-year-old managed to even reach the pedals, **let alone** drive the car.
