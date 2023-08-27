@@ -543,3 +543,16 @@ Examples of prepositions followed by verbs in the -ing form:
   - The journey by road to Wolverhampton is not recommended to anyone other than the most experienced cyclist. 
   - My dad rarely has a weekend off work, **let alone** a whole week.
   - It is incredible that the 12-year-old managed to even reach the pedals, **let alone** drive the car.
+
+
+## 2023/08/27
+- for a start: in the first place.
+- by and large: You use by and large to indicate that a statement is mostly but not completely true.
+- first and foremost: You use first and foremost to emphasize the most important quality of something or someone.
+- for the time being: If something is the case or will happen for the time being, it is the case or will happen now, but only until something else becomes possible or happens.
+- example
+  - It's a big car, for a start.
+  - I don’t want to go out. **For a start**, it’s late. It’s also cold.
+  - Occasionally you can get cheap concert tickets, but **by and large** they’re quite expensive.
+  - This shop is **first and foremost** a food store, but it also sells household items.
+  - My motorbike’s off the road so **for the time being** I’m using buses.
