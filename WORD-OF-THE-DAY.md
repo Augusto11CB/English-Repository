@@ -532,7 +532,7 @@ Examples of prepositions followed by verbs in the -ing form:
   - Her bright and airy living room decor is the personification of spring.
 
 ## 2023/08/25
-- with a view to: If you do something with a view to doing something else, you do it because you hope it will result in that other thing being done.
+- with a view to: If you do something with a view to doing something else, you do it because you hope it will result in that other thing being done. **Note that the verb after "with a view to" is in the `ing` form.**
 - other than: You use other than after a negative statement to say that the person, item, or thing that follows is the only exception to the statement.
 - let alone: Let alone is used after a statement, usually a negative one, to indicate that the statement is even more true of the person, thing, or situation that you are going to mention next.
 
@@ -556,3 +556,19 @@ Examples of prepositions followed by verbs in the -ing form:
   - Occasionally you can get cheap concert tickets, but **by and large** they’re quite expensive.
   - This shop is **first and foremost** a food store, but it also sells household items.
   - My motorbike’s off the road so **for the time being** I’m using buses.
+
+## 2023/08/29
+- borrow: [Verb noum + from] or [Verb + from].
+- preclude: If something precludes an event or action, it prevents the event or action from happening.
+- prevent: to keep (someone from doing something).
+- forestall: to delay, stop, or guard against beforehand
+- hinder: to get in the way of (someone or something)
+- example:
+  - Her progress certainly hasn't been hindered by her lack of experience.
+  - Landslides are continuing to hinder the arrival of relief supplies.
+  - They had done little to forestall the attack.
+  - We took steps to prevent it happening.
+  - He would rebuff enquiries in such a way as to preclude any further discussion.
+  - His contract precludes him from discussing his work with anyone outside the company.
+  - Morgan borrowed £5,000 from his father to form the company 20 years ago. [VERB noun + from].
+  - It's so expensive to borrow from finance companies. [VERB + from].
