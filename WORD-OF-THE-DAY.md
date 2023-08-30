@@ -572,3 +572,18 @@ Examples of prepositions followed by verbs in the -ing form:
   - His contract precludes him from discussing his work with anyone outside the company.
   - Morgan borrowed £5,000 from his father to form the company 20 years ago. [VERB noun + from].
   - It's so expensive to borrow from finance companies. [VERB + from].
+
+## 2023/08/30
+- breaks even: After paying for our travel costs, we barely (= only just) broke even.
+- takes in:  to receive money from sales or as payment for entrance to an event.
+- affluent: If you are affluent, you have a lot of money.
+- overdrawn: If you are overdrawn or if your bank account is overdrawn, you have spent more money than you have in your account, and so you are in debt to the bank.
+- example:
+  - The show took an astonishing $100,000 in its first week.
+  - How much do you usually take in an evening?
+  - The store will benefit from its base of affluent customers to whom various other products will be sold in due course.
+  - Affluent people often have two large homes, whereas even a small flat may be unaffordable for the poor.
+  - Nick's bank sent him a letter saying he was £100 **overdrawn**.
+  - They were overdrawn by £150, so they couldn't write any cheques.
+  - overdrawn by $5/$50 etc. I was overdrawn by €150.
+  - My credit card was blocked because I was overdrawn by €150.
