@@ -587,3 +587,21 @@ Examples of prepositions followed by verbs in the -ing form:
   - They were overdrawn by £150, so they couldn't write any cheques.
   - overdrawn by $5/$50 etc. I was overdrawn by €150.
   - My credit card was blocked because I was overdrawn by €150.
+
+## 2023/09/03
+- sit tight: If you sit tight, you remain in the same place or situation and do not take any action, usually because you are waiting for something to happen.
+- afterglow: a glow remaining where a light has disappeared. 2. : a pleasant effect or feeling that lingers after something is done, experienced, or achieved.
+- drive someone up the wall == drive someone crazy.
+- shake (1): to get rid of or escape from something.
+- example:
+  - Life would continue to be hard but if they sat tight and trusted him things would get better.
+  - You'd better sit tight and I'll call the doctor.
+  - I'm tired of sit tight and let them do whatever they want.
+  - basking in the afterglow of success.
+  - If you say that something or someone is driving you up the wall, you are emphasizing that they annoy and irritate you.
+  - (1) It's very difficult to **shake** the habit of a lifetime.
+  - (1) The company has so far been unable to **shake** (off) its reputation for being old-fashioned.
+
+
+- regain consciousness
+- I came back to my self 
