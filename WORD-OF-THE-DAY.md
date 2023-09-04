@@ -605,3 +605,21 @@ Examples of prepositions followed by verbs in the -ing form:
 
 - regain consciousness
 - I came back to my self 
+
+## 2023/09/04
+- well-off: Someone who is well-off is rich enough to be able to do and buy most of the things that they want.
+- make ends meet: to spend no more than the money one has.
+- gross income| gross revenue: total revenue received before any deductions or allowances, as for rent, cost of goods sold, taxes, etc. 
+- rip-off: If someone rips you off, they cheat you by charging you too much money for something or by selling you something that is broken or damaged.
+- expenditure: Expenditure is the spending of money on something, or the money that is spent on something. (spending, payment, **outgoings**)
+- outgoins == expenses;
+- meager: If you describe an amount or quantity of something as meager, you are critical of it because it is very small or not enough.
+- example:
+  - They should cut their expenditure on defence. 
+  - My grandparents were quite well-off.
+  - Despite her **meager** income, she tried to **make ends meet**.
+  - The rations that they gave us were **meager** and inadequate. 
+  - The **gross income** of an average worker is currently taxed at a rate of 25%.
+  - The airlines have been accused of ripping off customers. (PHRASAL VERB)
+  - You can make a small saving on socks in that shop, but don’t buy T-shirts there. They’re a real rip-off. (NOUN)
+  - Try to keep track of your monthly outgoings.
