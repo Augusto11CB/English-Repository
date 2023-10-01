@@ -638,3 +638,17 @@ Examples of prepositions followed by verbs in the -ing form:
 - tumble
 - hot air
 - scrounge
+- in store: coming in the future; about to happen.
+- worn someone down
+- shriveled up
+- sneer
+- snuffed out
+- gruesome
+- turned from someone
+- gobbled up
+
+
+
+- example:
+  - But suffering is in store
+each day for those who sin. 
