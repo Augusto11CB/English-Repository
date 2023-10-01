@@ -623,3 +623,18 @@ Examples of prepositions followed by verbs in the -ing form:
   - The airlines have been accused of ripping off customers. (PHRASAL VERB)
   - You can make a small saving on socks in that shop, but don’t buy T-shirts there. They’re a real rip-off. (NOUN)
   - Try to keep track of your monthly outgoings.
+
+## 2023/10/01
+- wicked
+- swooping down
+- be put to shame
+- sinful
+- roam through barren deserts
+- staggering
+- sorrowful
+- toil
+- stump
+- toss something away
+- tumble
+- hot air
+- scrounge
