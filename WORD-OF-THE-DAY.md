@@ -651,4 +651,17 @@ Examples of prepositions followed by verbs in the -ing form:
 
 - example:
   - But suffering is in store
-each day for those who sin. 
+each day for those who sin
+
+## 2023/10/02
+- widow
+- foam
+- wither
+- wicked
+- weep
+- cocoon
+- chews on
+- deceitful
+- uproot
+- aching joints
+- Be patient a while longer
