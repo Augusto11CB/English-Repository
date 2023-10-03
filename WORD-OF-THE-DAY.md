@@ -647,8 +647,6 @@ Examples of prepositions followed by verbs in the -ing form:
 - turned from someone
 - gobbled up
 
-
-
 - example:
   - But suffering is in store
 each day for those who sin
@@ -665,3 +663,23 @@ each day for those who sin
 - uproot
 - aching joints
 - Be patient a while longer
+
+## 2023/10/03
+- stout
+- reed
+- rattle
+- grasshopper
+- thresh
+- roam ~ wander
+- den
+- dew
+- meadow
+- barren
+- hail
+- rug
+- **hammer out**
+- brass
+- **sneer**
+- **churn**
+- **scorch**
+- blazing
