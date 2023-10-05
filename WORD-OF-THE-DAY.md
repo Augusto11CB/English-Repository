@@ -683,3 +683,10 @@ each day for those who sin
 - **churn**
 - **scorch**
 - blazing
+
+## 2023/10/04
+- smear
+- wring
+- keep back
+- scrubbed
+- rinsed
