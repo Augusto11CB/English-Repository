@@ -690,3 +690,10 @@ each day for those who sin
 - keep back
 - scrubbed
 - rinsed
+
+## 2023/10/05
+- stop up
+- haul
+- mildew
+- neat
+- comb 
