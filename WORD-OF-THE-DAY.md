@@ -697,3 +697,12 @@ each day for those who sin
 - mildew
 - neat
 - comb 
+
+## 2023/10/16
+- orchards
+- Wheat
+- barley
+- ore
+- swell
+- blot out
+- stiff-necked
