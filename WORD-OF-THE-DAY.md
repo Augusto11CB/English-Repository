@@ -706,3 +706,59 @@ each day for those who sin
 - swell
 - blot out
 - stiff-necked
+
+## 2023/10/21
+- tingly: feeling an emotion such as excitement or fear very strongly.
+- giddy: feeling silly, happy, and excited and showing this in your behaviour.
+- outlet: 
+- hang: to fasten or support something at the top leaving the other parts free to move, or to be held in this way.
+- fasten: to (cause something to) become firmly fixed together, or in position, or closed.
+- peg (noun): ~prendedor.
+- peg (verb): to fasten something in place with pegs.
+- washing out
+- Example:
+  - Can I plug my notebook plug to the electric outlet in the wall?
+  - I'll peg out the clothes before I go to work.
+  - I hang/peg the washing out on the line 
+  - When I first came here, it gave me a kind of tingly feeling that something special had happened here.
+  - His singing made me go all tingly.
+  - She was giddy **with** excitement.
+  - When she got off the roller coaster, she felt giddy and lightheaded.
+
+
+- Are you proud to be able to wear this white coat?
+- Being stressend for a long time can _**make** a person sick_
+- It can be understood through tough thorough thought, though
+- a bit of a pickle
+
+```
+A: Where is the cake you bought yesterday?
+B: Larissa and I ate it yesterday.
+A: No way! And you didn't even bother to offer me a slice?
+B: You are so selfish!
+```
+
+- gobsmacked (informal): utterly astonished; astounded.
+- lush: appealing to the senses
+- lush: A lush area has a lot of green, healthy plants, grass, and trees.
+- rank: (especially of something bad) complete or extreme.
+- woo: to try to persuade someone to support you or to use your business.
+- entice (to) (into something) (away from something): to persuade someone to do something by offering them something pleasant.
+- put someone on the spot: you cause someone embarrassment or difficulty by forcing them at that moment to answer a difficult question or make an important decision.
+- concupiscence: 
+- promiscuous: having a lot of different sexual partners
+- contrition: a very sorry or guilty feeling about something bad you have done, or the act of showing that you feel like this.
+
+
+
+- example: 
+  - the lush sounds of the orchestra
+  - lush green valleys
+  - It was **rank** stupidity to drive so fast on an icy road.
+  - The horse that won the race was a rank outsider.
+  - The party has been trying to woo the voters with promises of electoral reform.
+  - A smell of coffee in the doorway **enticed** people **to** enter the shop.
+  - The adverts **entice** the customer into buying things they don't really want.
+  - People are being **enticed away** from the profession by higher salaries elsewhere.
+  - Mira rather **put the boss on the spot** by asking him when he was going to give us a raise.
+  - He feels no **contrition** for what he did.
