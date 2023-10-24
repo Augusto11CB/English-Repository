@@ -762,3 +762,8 @@ B: You are so selfish!
   - People are being **enticed away** from the profession by higher salaries elsewhere.
   - Mira rather **put the boss on the spot** by asking him when he was going to give us a raise.
   - He feels no **contrition** for what he did.
+
+
+- scold
+- wicked
+- ripe
