@@ -767,3 +767,7 @@ B: You are so selfish!
 - scold
 - wicked
 - ripe
+- ravished
+- wept
+- zeal
+- oath
