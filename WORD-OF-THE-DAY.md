@@ -786,6 +786,8 @@ B: You are so selfish!
 - once in a while
 - every now and again/then
 - from time to time
+- freeloading
+- frown
 - example:
   - We put up a fence, and other neighbors did likewise.
   - Just water these plants twice a week, and likewise the ones in the bedroom.
@@ -797,4 +799,4 @@ B: You are so selfish!
   - **Every now and then** they'll have a beer together.
   - I still get a phone call from him **every now and again**.
   - I still think of her from time to time.
-
+  - YouTuber sorry for **freeloading** stunt in Japan.
