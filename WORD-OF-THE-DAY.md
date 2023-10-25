@@ -771,3 +771,8 @@ B: You are so selfish!
 - wept
 - zeal
 - oath
+
+
+- Laugh at: This preposition is used when someone is making fun of someone or something. For example, “I don’t like it when people laugh at me.”
+- Laugh with: This preposition is used when two or more people are laughing together. For example, “We laughed with each other for hours.”
+- Laugh about: This preposition is used when someone is laughing about something that is funny. For example, “We laughed about the silly things we did when we were kids.”
