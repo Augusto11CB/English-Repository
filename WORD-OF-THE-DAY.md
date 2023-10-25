@@ -776,3 +776,25 @@ B: You are so selfish!
 - Laugh at: This preposition is used when someone is making fun of someone or something. For example, “I don’t like it when people laugh at me.”
 - Laugh with: This preposition is used when two or more people are laughing together. For example, “We laughed with each other for hours.”
 - Laugh about: This preposition is used when someone is laughing about something that is funny. For example, “We laughed about the silly things we did when we were kids.”
+
+- down the road/line: in the future.
+- likewise: in the same way.
+- tall order: a request that is difficult to fulfill
+- look on/upon someone/something as something
+  - look on someone/something as something
+  - look upon someone/something as something
+- once in a while
+- every now and again/then
+- from time to time
+- example:
+  - We put up a fence, and other neighbors did likewise.
+  - Just water these plants twice a week, and likewise the ones in the bedroom.
+  - Lots of things will have changed a few years down the road.
+  - From/At the outset, I'd say yes it is, but eating healthy food all the time can also be a tall order sometimes.
+  - We looked on her as a daughter.
+  - I've lived there so long I **look on** _the town_ as my home.
+  - To be honest, I don't like fast food very much, though I might eat it with frieds **once in a while**.
+  - **Every now and then** they'll have a beer together.
+  - I still get a phone call from him **every now and again**.
+  - I still think of her from time to time.
+
