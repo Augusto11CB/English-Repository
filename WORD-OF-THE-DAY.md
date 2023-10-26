@@ -800,3 +800,21 @@ B: You are so selfish!
   - I still get a phone call from him **every now and again**.
   - I still think of her from time to time.
   - YouTuber sorry for **freeloading** stunt in Japan.
+
+
+
+- present-day: existing now.
+- hands down: definitely.
+- take something into consideration: to think carefully about a particular fact when deciding or judging something.
+- put someone off (something): to make someone dislike something or someone, or to discourage someone from doing something.
+- **matter-of-fact: not showing feelings or emotion, especially in a situation when emotion would be expected.** 
+- example:
+  - present-day attitudes.
+  - I suppose so. I guess history shapes our present-day culture.
+  - I'd go as far as to say, flying is the best way to travel, hands down.
+  - If we had a race, he’d win hands down.
+  - When constructing new buildings, architects have to take the risk of earthquakes into consideration.
+  - The smell of hospitals always puts me off.
+  - His attitude **put me right off** him.
+  - Many people want to see a band but are put off by high ticket prices.
+  - **He spoke in a very matter-of-fact way about the accident.**
