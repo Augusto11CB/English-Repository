@@ -818,3 +818,14 @@ B: You are so selfish!
   - His attitude **put me right off** him.
   - Many people want to see a band but are put off by high ticket prices.
   - **He spoke in a very matter-of-fact way about the accident.**
+
+- hand in: to give something to someone in a position of authority.
+- hand over: to give something to someone else.
+- stuffy nose: 
+- on the tip of the tongue:
+- cheapskate:
+- forewarn: to tell someone that something unpleasant is going to happen.
+- example:
+  - Why should we hand over the money to the Russians?
+  - Give it back now! She won't hand over my book, Mum!
+  - I've decided to hand in my resignation (= tell my employer I am leaving my job).
