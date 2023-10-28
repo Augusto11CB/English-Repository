@@ -839,3 +839,26 @@ B: You are so selfish!
   - I thought we could get something to eat and then **take in** a movie.
   - These ridiculous rules and regulations should have been done away with years ago.
   - Computerization has enabled us to do away with a lot of paperwork.
+
+
+- be skeptical:
+- truthfulness:
+- attention TO Vs attention ABOUT
+- CONGRATULATE you ON your excellent work.
+
+- example
+  - I was warned not to **believe** everything he says.
+
+###  Relate TO vs. Relate WITH 
+Related to is more general and can be used to describe any kind of connection between two things. For example, you could say:
+
+- My cousin is related to me.
+- Smoking is related to lung cancer.
+- The two events are related.
+
+Related with is more specific and suggests that the two things are connected in some way that is more specific or concrete. For example, you could say:
+
+- This document is related with my job search.
+- The two companies are related with each other through a joint venture.
+- The two topics are related with each other in terms of their methodology.
+- In general, it is best to use "related to" unless you have a specific reason to use "related with". This is because "related to" is more common and less likely to be misunderstood.
