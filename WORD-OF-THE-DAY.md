@@ -825,7 +825,17 @@ B: You are so selfish!
 - on the tip of the tongue:
 - cheapskate:
 - forewarn: to tell someone that something unpleasant is going to happen.
+- treat: a special and enjoyable occasion or experience, often a reward or celebration.As a special treat, I'll take you to my favorite restaurant.
+- setting: the time and the place in which the action of a book, movie, play, etc. happens.
+- take someone in: Several families took in foreign students.
+- take in: to go to watch a movie or performance, or to visit a place such as a museum
+- do away with something: to get rid of something or stop using something.
 - example:
   - Why should we hand over the money to the Russians?
   - Give it back now! She won't hand over my book, Mum!
   - I've decided to hand in my resignation (= tell my employer I am leaving my job).
+  - As a special treat, I'll take you to my favorite restaurant.
+  - The play has its setting in a wartime prison camp.
+  - I thought we could get something to eat and then **take in** a movie.
+  - These ridiculous rules and regulations should have been done away with years ago.
+  - Computerization has enabled us to do away with a lot of paperwork.
