@@ -54,3 +54,8 @@
 - meaning: If something crosses your mind, you think of it.
 - example: 
     - It crossed my mind yesterday that you must be short of staff.
+
+---
+- none other than
+- example:
+    - The person I'm going to describe is none other than my father.
