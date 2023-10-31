@@ -1,3 +1,6 @@
+speak with forked tongue
+had it all and squandered it
+
 ## 2023/03/02
 - perseverance: persistence in doing something despite difficulty or delay in achieving success
 - endurance: the fact or power of enduring an unpleasant or difficult process or situation without giving way
