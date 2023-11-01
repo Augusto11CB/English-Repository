@@ -1,6 +1,3 @@
-speak with forked tongue
-had it all and squandered it
-
 ## 2023/03/02
 - perseverance: persistence in doing something despite difficulty or delay in achieving success
 - endurance: the fact or power of enduring an unpleasant or difficult process or situation without giving way
@@ -868,3 +865,6 @@ Related with is more specific and suggests that the two things are connected in 
 
 - there is not much to get up to.
 - blow the socks off.
+- speak with forked tongue.
+- had it all and **squandered** it.
+- Train of thought.
