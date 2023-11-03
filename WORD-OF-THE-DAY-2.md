@@ -1,0 +1,7 @@
+- blow the socks off.
+- Train of thought.
+- stiff-necked.
+- stuffed-up nose 
+- door opener
+- eye opener
+- in your mind's eye: In my mind's eye, she is still a little girl of six, although she's actually a grown woman.

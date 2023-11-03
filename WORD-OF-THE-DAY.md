@@ -863,8 +863,8 @@ Related with is more specific and suggests that the two things are connected in 
 - The two topics are related with each other in terms of their methodology.
 - In general, it is best to use "related to" unless you have a specific reason to use "related with". This is because "related to" is more common and less likely to be misunderstood.
 
+---
+
 - there is not much to get up to.
-- blow the socks off.
 - speak with forked tongue.
 - had it all and **squandered** it.
-- Train of thought.
