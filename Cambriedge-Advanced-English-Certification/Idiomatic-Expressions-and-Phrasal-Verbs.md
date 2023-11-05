@@ -1,9 +1,12 @@
+- catch someone's attention
+- example
+    - It is more difficult to find fair trade products and things like that, but what caught my attention was that...
+---
 - linger
 - meaning: When something such as an idea, feeling, or illness lingers, it continues to exist for a long time, often much longer than expected
 - example
     - The scent of her perfume lingered on in the room.
     - He was ashamed. That feeling lingered, and he was never comfortable in church after that. 
-
 
 - meaning 2: If you linger somewhere, you stay there for a longer time than is necessary, for example because you are enjoying yourself.
 - example:
