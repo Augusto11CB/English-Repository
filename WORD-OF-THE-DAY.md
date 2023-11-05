@@ -638,3 +638,247 @@ Examples of prepositions followed by verbs in the -ing form:
 - related **TO**:
 - examples:
   - I guess their monthly **outgoings** are mostly **spent on** school materials such as books, scientific articles, etc.
+## 2023/10/01
+- wicked
+- swooping down
+- be put to shame
+- sinful
+- roam through barren deserts
+- staggering
+- sorrowful
+- toil
+- stump
+- toss something away
+- tumble
+- hot air
+- scrounge
+- in store: coming in the future; about to happen.
+- worn someone down
+- shriveled up
+- sneer
+- snuffed out
+- gruesome
+- turned from someone
+- gobbled up
+
+- example:
+  - But suffering is in store
+each day for those who sin
+
+## 2023/10/02
+- widow
+- foam
+- wither
+- wicked
+- weep
+- cocoon
+- chews on
+- deceitful
+- uproot
+- aching joints
+- Be patient a while longer
+
+## 2023/10/03
+- stout
+- reed
+- rattle
+- grasshopper
+- thresh
+- roam ~ wander
+- den
+- dew
+- meadow
+- barren
+- hail
+- rug
+- **hammer out**
+- brass
+- **sneer**
+- **churn**
+- **scorch**
+- blazing
+
+## 2023/10/04
+- smear
+- wring
+- keep back
+- scrubbed
+- rinsed
+
+## 2023/10/05
+- stop up
+- haul
+- mildew
+- neat
+- comb 
+
+## 2023/10/16
+- orchards
+- Wheat
+- barley
+- ore
+- swell
+- blot out
+- stiff-necked
+
+## 2023/10/21
+- tingly: feeling an emotion such as excitement or fear very strongly.
+- giddy: feeling silly, happy, and excited and showing this in your behaviour.
+- outlet: 
+- hang: to fasten or support something at the top leaving the other parts free to move, or to be held in this way.
+- fasten: to (cause something to) become firmly fixed together, or in position, or closed.
+- peg (noun): ~prendedor.
+- peg (verb): to fasten something in place with pegs.
+- washing out
+- Example:
+  - Can I plug my notebook plug to the electric outlet in the wall?
+  - I'll peg out the clothes before I go to work.
+  - I hang/peg the washing out on the line 
+  - When I first came here, it gave me a kind of tingly feeling that something special had happened here.
+  - His singing made me go all tingly.
+  - She was giddy **with** excitement.
+  - When she got off the roller coaster, she felt giddy and lightheaded.
+
+
+- Are you proud to be able to wear this white coat?
+- Being stressend for a long time can _**make** a person sick_
+- It can be understood through tough thorough thought, though
+- a bit of a pickle
+
+```
+A: Where is the cake you bought yesterday?
+B: Larissa and I ate it yesterday.
+A: No way! And you didn't even bother to offer me a slice?
+B: You are so selfish!
+```
+
+- gobsmacked (informal): utterly astonished; astounded.
+- lush: appealing to the senses
+- lush: A lush area has a lot of green, healthy plants, grass, and trees.
+- rank: (especially of something bad) complete or extreme.
+- woo: to try to persuade someone to support you or to use your business.
+- entice (to) (into something) (away from something): to persuade someone to do something by offering them something pleasant.
+- put someone on the spot: you cause someone embarrassment or difficulty by forcing them at that moment to answer a difficult question or make an important decision.
+- concupiscence: 
+- promiscuous: having a lot of different sexual partners
+- contrition: a very sorry or guilty feeling about something bad you have done, or the act of showing that you feel like this.
+
+
+
+- example: 
+  - the lush sounds of the orchestra
+  - lush green valleys
+  - It was **rank** stupidity to drive so fast on an icy road.
+  - The horse that won the race was a rank outsider.
+  - The party has been trying to woo the voters with promises of electoral reform.
+  - A smell of coffee in the doorway **enticed** people **to** enter the shop.
+  - The adverts **entice** the customer into buying things they don't really want.
+  - People are being **enticed away** from the profession by higher salaries elsewhere.
+  - Mira rather **put the boss on the spot** by asking him when he was going to give us a raise.
+  - He feels no **contrition** for what he did.
+
+
+- scold
+- wicked
+- ripe
+- ravished
+- wept
+- zeal
+- oath
+
+
+- Laugh at: This preposition is used when someone is making fun of someone or something. For example, “I don’t like it when people laugh at me.”
+- Laugh with: This preposition is used when two or more people are laughing together. For example, “We laughed with each other for hours.”
+- Laugh about: This preposition is used when someone is laughing about something that is funny. For example, “We laughed about the silly things we did when we were kids.”
+
+- down the road/line: in the future.
+- likewise: in the same way.
+- tall order: a request that is difficult to fulfill
+- look on/upon someone/something as something
+  - look on someone/something as something
+  - look upon someone/something as something
+- once in a while
+- every now and again/then
+- from time to time
+- freeloading
+- frown
+- example:
+  - We put up a fence, and other neighbors did likewise.
+  - Just water these plants twice a week, and likewise the ones in the bedroom.
+  - Lots of things will have changed a few years down the road.
+  - From/At the outset, I'd say yes it is, but eating healthy food all the time can also be a tall order sometimes.
+  - We looked on her as a daughter.
+  - I've lived there so long I **look on** _the town_ as my home.
+  - To be honest, I don't like fast food very much, though I might eat it with frieds **once in a while**.
+  - **Every now and then** they'll have a beer together.
+  - I still get a phone call from him **every now and again**.
+  - I still think of her from time to time.
+  - YouTuber sorry for **freeloading** stunt in Japan.
+
+
+
+- present-day: existing now.
+- hands down: definitely.
+- take something into consideration: to think carefully about a particular fact when deciding or judging something.
+- put someone off (something): to make someone dislike something or someone, or to discourage someone from doing something.
+- **matter-of-fact: not showing feelings or emotion, especially in a situation when emotion would be expected.** 
+- example:
+  - present-day attitudes.
+  - I suppose so. I guess history shapes our present-day culture.
+  - I'd go as far as to say, flying is the best way to travel, hands down.
+  - If we had a race, he’d win hands down.
+  - When constructing new buildings, architects have to take the risk of earthquakes into consideration.
+  - The smell of hospitals always puts me off.
+  - His attitude **put me right off** him.
+  - Many people want to see a band but are put off by high ticket prices.
+  - **He spoke in a very matter-of-fact way about the accident.**
+
+- hand in: to give something to someone in a position of authority.
+- hand over: to give something to someone else.
+- stuffy nose: 
+- on the tip of the tongue:
+- cheapskate:
+- forewarn: to tell someone that something unpleasant is going to happen.
+- treat: a special and enjoyable occasion or experience, often a reward or celebration.As a special treat, I'll take you to my favorite restaurant.
+- setting: the time and the place in which the action of a book, movie, play, etc. happens.
+- take someone in: Several families took in foreign students.
+- take in: to go to watch a movie or performance, or to visit a place such as a museum
+- do away with something: to get rid of something or stop using something.
+- example:
+  - Why should we hand over the money to the Russians?
+  - Give it back now! She won't hand over my book, Mum!
+  - I've decided to hand in my resignation (= tell my employer I am leaving my job).
+  - As a special treat, I'll take you to my favorite restaurant.
+  - The play has its setting in a wartime prison camp.
+  - I thought we could get something to eat and then **take in** a movie.
+  - These ridiculous rules and regulations should have been done away with years ago.
+  - Computerization has enabled us to do away with a lot of paperwork.
+
+
+- be skeptical:
+- truthfulness:
+- attention TO Vs attention ABOUT
+- CONGRATULATE you ON your excellent work.
+
+- example
+  - I was warned not to **believe** everything he says.
+
+###  Relate TO vs. Relate WITH 
+Related to is more general and can be used to describe any kind of connection between two things. For example, you could say:
+
+- My cousin is related to me.
+- Smoking is related to lung cancer.
+- The two events are related.
+
+Related with is more specific and suggests that the two things are connected in some way that is more specific or concrete. For example, you could say:
+
+- This document is related with my job search.
+- The two companies are related with each other through a joint venture.
+- The two topics are related with each other in terms of their methodology.
+- In general, it is best to use "related to" unless you have a specific reason to use "related with". This is because "related to" is more common and less likely to be misunderstood.
+
+---
+
+- there is not much to get up to.
+- speak with forked tongue.
+- had it all and **squandered** it.
