@@ -15,11 +15,13 @@
 - meaning: to avoid doing something that you consider unpleasant or painful.
 - example:
     - We must not flinch from difficult decisions.
+
 ---
 - shy away from something
 - meaning: to avoid something that you dislike, fear, or do not feel confident about.
 - example:
     - I have never shield away from hard work.
+
 ---
 - well though of
 - meaning: considered by other people as good; admired, and approved of.
@@ -59,3 +61,15 @@
 - none other than
 - example:
     - The person I'm going to describe is none other than my father.
+
+---
+-  brush up (on) something
+-  meaning: improve your knowledge of something already learned but partly forgotten.
+-  example:
+   -  I thought I'd brush up (on) my French before going to Paris.
+
+---
+- Between you and me
+- meaning: what I am about to say should be kept secret.
+- example:
+  - Just between you and me, I think she's lying.
