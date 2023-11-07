@@ -72,4 +72,20 @@
 - Between you and me
 - meaning: what I am about to say should be kept secret.
 - example:
-  - Just between you and me, I think she's lying.
+    - Just between you and me, I think she's lying.
+
+---
+- at times
+- meaning: sometimes.
+- example:
+    - You can be really annoying at times, you know.
+    - Between you and me, I’ve felt the same way at times, but I’ve never considered giving up my studies.
+
+---
+- set something aside
+- meaning: to save something, usually money or time, for a special purpose.
+- example:
+    - He had some money in an account that he'd set aside for his kids.
+    - [ + to infinitive ] I set aside half an hour every evening to hear Erik read.
+    - Try to set aside a little more time for studying
+
