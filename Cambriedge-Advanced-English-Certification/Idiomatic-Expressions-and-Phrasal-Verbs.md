@@ -92,3 +92,16 @@
     - [ + to infinitive ] I set aside half an hour every evening to hear Erik read.
     - Try to set aside a little more time for studying
 
+---
+- draw something up
+- meaning: to prepare something by writing it.
+- example: 
+    - He drew up some plans for the new office.
+    - How about drawing up a weekly plan of what you need to do, in advance? 
+
+--- 
+- put/get someone's back up
+- meaning: to annoy someone.
+- example:
+    - Just ignore him - he's only trying to **put your back up**.
+    - I don't want to question his decision because that will just **put his back up**.
