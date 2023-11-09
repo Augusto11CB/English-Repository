@@ -37,3 +37,17 @@
     - The way he talks about politics is rubbish, nonsense, ridiculous, gibberish. He is definitely talking through his hat
     - [? propably it is not the right way to use it] I do not want to talk through my hat here, but I would like to make a point about the problems we faced last week.
     - [? propably it is not the right way to use it] I do not want to sound like I'm talking through my hat here, but ...
+
+---
+- pounder
+- meaning: to think carefully about something, especially for a noticeable length of time.
+- example:
+    - The reasons for her to take a break is clearly not to have a rest, but rather to ponder about something on her mind.
+    - He sat back for a minute to ponder her next move in the game.
+
+---
+- all in all
+- meaning: considering all the different parts of the situation together.
+- example.
+    - All in all, I think you've done very well.
+    - I think this proposal is, all in all, quite reasonable.
