@@ -5,3 +5,7 @@
 - door opener
 - eye opener
 - in your mind's eye: In my mind's eye, she is still a little girl of six, although she's actually a grown woman.
+
+- The guy could be the one being sued and the girl could be the one defending him as his lawyer.
+- The man could be a defendant in a lawsuit and the lady could be his lawyer who is in defence.
+- The man could be a defendant in a trial and the lady could be his lawyer defending him.
