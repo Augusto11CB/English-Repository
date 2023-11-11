@@ -51,3 +51,13 @@
 - example.
     - All in all, I think you've done very well.
     - I think this proposal is, all in all, quite reasonable.
+
+---
+- be due to
+- meaning: Be due to is used to talk about things that are expected or planned to happen at a certain time. We often use it with a time expression.
+- examples:
+    - Are you due to hand in homework today?
+    - The train is due to arrive at Glasgow Central at 12:12.
+
+
+---
