@@ -61,3 +61,21 @@
 
 
 ---
+- fierce
+- meaning: physically violent and frightening ||  energetic activity.
+- example:
+    - They are in fierce competition with each other.
+    - They compete fiercely against each other and are running really close along side each other.
+    - The frontrunner in this race seems to be losing ground to the second-place pilot in terms of time. Despite being ahead, the second-place pilot is completing laps faster than the leader.
+
+---
+- on the horizon
+- meaning: likely to happen or exist soon.
+- example:
+    - There is no new drug on the horizon that will make this disease easier to treat.
+    - I don't see any improvement in this matter on the horizon.
+    - The end of the pandemic is on the horizon, but we still need to be cautious and follow safety guidelines.
+    - With the current political climate, it seems that peace is not on the horizon anytime soon.
+    - There are no new job opportunities on the horizon, so I’m going to have to make the best of my current situation.
+
+--- 
