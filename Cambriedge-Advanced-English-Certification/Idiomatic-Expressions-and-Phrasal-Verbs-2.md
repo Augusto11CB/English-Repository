@@ -79,3 +79,13 @@
     - There are no new job opportunities on the horizon, so I’m going to have to make the best of my current situation.
 
 --- 
+- wear out
+- meaning: When something wears out or when you wear it out, it is used so much that it becomes thin or weak and unable to be used any more.
+- example:
+    - He wore out his shoes wandering around Mexico City.
+    - Every time she consulted her watch, she wondered if the batteries were wearing out.
+
+---
+- it must be stressed
+- However, it must be stressed that the potential advantage of university depends in large part on what any particular course offers in terms of providing practica I experience, a sound theoretical understanding or specific transferable skilis.
+
