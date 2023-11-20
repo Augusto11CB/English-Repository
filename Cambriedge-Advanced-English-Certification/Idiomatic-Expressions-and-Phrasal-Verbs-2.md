@@ -89,3 +89,22 @@
 - it must be stressed
 - However, it must be stressed that the potential advantage of university depends in large part on what any particular course offers in terms of providing practica I experience, a sound theoretical understanding or specific transferable skilis.
 
+---
+- leave to chance
+- meaning: is a phrase that means to not plan for something and to hope that it will happen as intended.
+- example:
+    - She was hesitant to make a big decision, so she decided to leave it to chance.
+
+---
+- make up
+- meaning 1: To form something.
+- example:
+    - Women make up 56 per cent of the student numbers.
+
+- meaning 2: To complete a number or an amount required.
+- example:
+    - We need one more person to make up a team.
+
+- meaning 3: To replace something that has been lost; to compensate for something.
+- example:
+    -  Can I leave early this afternoon and make up the time tomorrow?
