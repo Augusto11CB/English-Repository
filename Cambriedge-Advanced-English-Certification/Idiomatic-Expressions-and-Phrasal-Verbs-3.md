@@ -24,3 +24,10 @@
     - **Are you through with** the computer yet?
     - I need to use the computer when you're through.
     - This engine should be running like new again when I'm through with it.
+
+---
+- To nip over to
+- meaning: to go quickly to a place.
+- example:
+    - Said he used to nip over to Poland when he felt the need.
+    - I live close to my school, so I can nip over for the classes every Tuesday and Thursday.
