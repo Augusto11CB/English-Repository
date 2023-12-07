@@ -124,9 +124,8 @@
 
 ## IELTS
 
-* [IELTS](ielts/ielts/README.md)
-  * [IELTS Speaking Success](ielts/ielts/ielts-speaking-success/README.md)
-    * [Methodology](ielts/ielts/ielts-speaking-success/methodology.md)
-    * [Exam Strategy and Techniques](ielts/ielts/ielts-speaking-success/exam-strategy-and-techniques/README.md)
-      * [Exam Strategy and Techniques for Part 1](ielts/ielts/ielts-speaking-success/exam-strategy-and-techniques/exam-strategy-and-techniques-for-part-1.md)
-      * [Exam Strategy and Techniques for Part 2](ielts/ielts/ielts-speaking-success/exam-strategy-and-techniques/exam-strategy-and-techniques-for-part-2.md)
+* [IELTS Speaking Success](ielts/ielts-speaking-success/README.md)
+  * [Methodology](ielts/ielts-speaking-success/methodology.md)
+  * [Exam Strategy and Techniques](ielts/ielts-speaking-success/exam-strategy-and-techniques/README.md)
+    * [Exam Strategy and Techniques for Part 1](ielts/ielts-speaking-success/exam-strategy-and-techniques/exam-strategy-and-techniques-for-part-1.md)
+    * [Exam Strategy and Techniques for Part 2](ielts/ielts-speaking-success/exam-strategy-and-techniques/exam-strategy-and-techniques-for-part-2.md)
