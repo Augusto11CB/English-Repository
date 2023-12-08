@@ -28,6 +28,8 @@ Avoid giving the impression of memorized answers.
 
 **5 - Know Common question Types**
 
+Know about the "Triggers".
+
 
 
 ### **Part 1 - Most Common Questions (and "Triggers")**
