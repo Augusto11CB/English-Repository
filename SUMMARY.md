@@ -131,3 +131,6 @@
     * [Exam Strategy and Techniques for Part 2](ielts/ielts-speaking-success/exam-strategy-and-techniques/exam-strategy-and-techniques-for-part-2.md)
     * [Exam Strategy and Techniques for Part 3](ielts/ielts-speaking-success/exam-strategy-and-techniques/exam-strategy-and-techniques-for-part-3.md)
   * [How IELTS Speaking is Evaluated](ielts/ielts-speaking-success/how-ielts-speaking-is-evaluated.md)
+  * [Part 1 – Introduction and interview](ielts/ielts-speaking-success/part-1-introduction-and-interview/README.md)
+    * [Part 1 - Topics, Questions and Answers](ielts/ielts-speaking-success/part-1-introduction-and-interview/part-1-topics-questions-and-answers.md)
+    * [Useful Vocabulary](ielts/ielts-speaking-success/part-1-introduction-and-interview/useful-vocabulary.md)
