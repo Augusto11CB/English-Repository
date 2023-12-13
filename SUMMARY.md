@@ -129,3 +129,5 @@
   * [Exam Strategy and Techniques](ielts/ielts-speaking-success/exam-strategy-and-techniques/README.md)
     * [Exam Strategy and Techniques for Part 1](ielts/ielts-speaking-success/exam-strategy-and-techniques/exam-strategy-and-techniques-for-part-1.md)
     * [Exam Strategy and Techniques for Part 2](ielts/ielts-speaking-success/exam-strategy-and-techniques/exam-strategy-and-techniques-for-part-2.md)
+    * [Exam Strategy and Techniques for Part 3](ielts/ielts-speaking-success/exam-strategy-and-techniques/exam-strategy-and-techniques-for-part-3.md)
+  * [How IELTS Speaking is Evaluated](ielts/ielts-speaking-success/how-ielts-speaking-is-evaluated.md)
